@@ -1,16 +1,18 @@
-����֮�Ǻ���mod
+﻿放逐之城汉化mod
 ==================
 
-��mod���ڹٷ�modkit�е�translation���ӡ�
+本mod基于官方modkit中的translation例子。
 
-��Ϸ�����ı��ܶ࣬����E��Ҳ��զ�Σ�����Ҫ�ģ�ʱ�����޿���
+游戏本身文本很多，而我E文也不咋滴，最主要的，时间有限咯。
 
-���Ǿ�ֻ����ôһ�����Ʒmod������UI���淭���˴��10%�ɡ�
+于是就只有这么一个半成品mod，整个UI方面翻译了大概10%吧。
 
-���˭����ȤҲ���԰��ŷ���һ�¡�
+如果谁有兴趣也可以帮着翻译一下。
 
-�跭������ݼ�����Dialog/StringTable.rsc�С�����Game�ļ����µ�����Ϊ��Ϸ�����ĵ���
+需翻译的内容集中在Dialog/StringTable.rsc中。另，Game文件夹下的内容为游戏帮助文档。
 
-��ҿ��Խ��Լ����������pull����Ŀ�У�
+大家可以将自己翻译的内容pull到项目中，
 
-Ҳ���Խ��㷭��������Ը�����ʽ�ϴ���������
+也可以将你翻译的内容以附件形式上传到本贴。
+
+pkm下载地址：http://pan.baidu.com/s/1hqgkMAK
