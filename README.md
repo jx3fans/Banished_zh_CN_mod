@@ -15,4 +15,7 @@
 
 也可以将你翻译的内容以附件形式上传到本贴。
 
+汉化发补贴：http://banishedmods.com/showthread.php?tid=1569
+
 pkm下载地址：http://pan.baidu.com/s/1hqgkMAK
+
