@@ -4,291 +4,291 @@ StringTable achievement
 	[ 
 		{
 			String _name = "Settlement";
-			String _text = "ÒÆÃñµã";
+			String _text = "ç§»æ°‘ç‚¹";
 		}
 		{
 			String _name = "SettlementDesc";
-			String _text = "ÈË¿Ú´ïµ½300.";
+			String _text = "äººå£è¾¾åˆ°300.";
 		}
 		{
 			String _name = "Village";
-			String _text = "´å×¯";
+			String _text = "æ‘åº„";
 		}
 		{
 			String _name = "VillageDesc";
-			String _text = "ÈË¿Ú´ïµ½600.";
+			String _text = "äººå£è¾¾åˆ°600.";
 		}
 		{
 			String _name = "Town";
-			String _text = "³ÇÕò";
+			String _text = "åŸé•‡";
 		}
 		{
 			String _name = "TownDesc";
-			String _text = "ÈË¿Ú´ïµ½900.";
+			String _text = "äººå£è¾¾åˆ°900.";
 		}
 		{
 			String _name = "Educated";
-			String _text = "½Ì»¯Ö®µØ";
+			String _text = "æ•™åŒ–ä¹‹åœ°";
 		}
 		{
 			String _name = "EducatedDesc";
-			String _text = "Á¬ĞøËÄÄêÓµÓĞ³¬¹ı200ÃûÊÜµ½¹ıÁ¼ºÃ½ÌÓıµÄ³ÉÄêÈË.";
+			String _text = "è¿ç»­å››å¹´æ‹¥æœ‰è¶…è¿‡200åå—åˆ°è¿‡è‰¯å¥½æ•™è‚²çš„æˆå¹´äºº.";
 		}
 		{
 			String _name = "Uneducated";
-			String _text = "ÂùÒÄÖ®µØ";
+			String _text = "è›®å¤·ä¹‹åœ°";
 		}
 		{
 			String _name = "UneducatedDesc";
-			String _text = "ÔÚ²»½¨ÉèÑ§Ğ£µÄÇé¿öÏÂ¾ÓÃñÈË¿Ú´ïµ½300.";
+			String _text = "åœ¨ä¸å»ºè®¾å­¦æ ¡çš„æƒ…å†µä¸‹å±…æ°‘äººå£è¾¾åˆ°300.";
 		}
 		{
 			String _name = "JackofallTrades";
-			String _text = "°ÙÊÂÍ¨";
+			String _text = "ç™¾äº‹é€š";
 		}
 		{
 			String _name = "JackofallTradesDesc";
-			String _text = "½¨Á¢Ò»¸öÈË¿Ú³¬¹ı200µÄ³ÇÕò²¢ÓµÓĞÒ»¸öÔÚÃ¿¸öÖ°Î»ÉÏ¶¼¹¤×÷¹ıµÄÈË³¬¹ıÎåÄê.";
+			String _text = "å»ºç«‹ä¸€ä¸ªäººå£è¶…è¿‡200çš„åŸé•‡å¹¶æ‹¥æœ‰ä¸€ä¸ªåœ¨æ¯ä¸ªèŒä½ä¸Šéƒ½å·¥ä½œè¿‡çš„äººè¶…è¿‡äº”å¹´.";
 		}
 		{
 			String _name = "MountainMen";
-			String _text = "É½Ò°Ö®ÈË";
+			String _text = "å±±é‡ä¹‹äºº";
 		}
 		{
 			String _name = "MountainMenDesc";
-			String _text = "ÔÚÒ»¸ö¶àÉ½ÇÒÆøºòÑÏ¿áµÄµØÍ¼ÉÏÎ¬³Ö50µÄÈË¿Ú×ÜÊı20Äê.";
+			String _text = "åœ¨ä¸€ä¸ªå¤šå±±ä¸”æ°”å€™ä¸¥é…·çš„åœ°å›¾ä¸Šç»´æŒ50çš„äººå£æ€»æ•°20å¹´.";
 		}
 		{
 			String _name = "Tombstone";
-			String _text = "Ä¹±®Õò";
+			String _text = "å¢“ç¢‘é•‡";
 		}
 		{
 			String _name = "TombstoneDesc";
-			String _text = "Ä¹µØÀïÓµÓĞÖÁÉÙ400¸öÄ¹±®.";
+			String _text = "å¢“åœ°é‡Œæ‹¥æœ‰è‡³å°‘400ä¸ªå¢“ç¢‘.";
 		}
 		{
 			String _name = "Blacksmith";
-			String _text = "Ìú½³³Ç";
+			String _text = "é“åŒ åŸ";
 		}
 		{
 			String _name = "BlacksmithDesc";
-			String _text = "Á¬ĞøËÄÄê³¬¹ı200¸ö³ÉÄêÈË¿ÚÓµÓĞ¸ÖÖÆ¹¤¾ß.";
+			String _text = "è¿ç»­å››å¹´è¶…è¿‡200ä¸ªæˆå¹´äººå£æ‹¥æœ‰é’¢åˆ¶å·¥å…·.";
 		}
 		{
 			String _name = "Stylish";
-			String _text = "Ê±ÉĞÖ®¶¼";
+			String _text = "æ—¶å°šä¹‹éƒ½";
 		}
 		{
 			String _name = "StylishDesc";
-			String _text = "Á¬ĞøËÄÄê³¬¹ı200¸ö³ÉÄêÈËÓµÓĞ±£Å¯ÍâÌ×.";
+			String _text = "è¿ç»­å››å¹´è¶…è¿‡200ä¸ªæˆå¹´äººæ‹¥æœ‰ä¿æš–å¤–å¥—.";
 		}
 		{
 			String _name = "Isolationist";
-			String _text = "¹Â³ÇÖ÷Òå";
+			String _text = "å­¤åŸä¸»ä¹‰";
 		}
 		{
 			String _name = "IsolationistDesc";
-			String _text = "ÔÚÃ»ÓĞ½¨ÉèÒ»¸öÃ³Ò×ËùµÄÇé¿öÏÂ¾ÓÃñÈË¿Ú×ÜÊı´ïµ½300.";
+			String _text = "åœ¨æ²¡æœ‰å»ºè®¾ä¸€ä¸ªè´¸æ˜“æ‰€çš„æƒ…å†µä¸‹å±…æ°‘äººå£æ€»æ•°è¾¾åˆ°300.";
 		}
 		{
 			String _name = "OnewithNature";
-			String _text = "×ÔÈ»Ö®µÀ";
+			String _text = "è‡ªç„¶ä¹‹é“";
 		}
 		{
 			String _name = "OnewithNatureDesc";
-			String _text = "ÔÚ²»½¨ÉèÅ©Ìï£¬¹ûÔ°»òÕßÄÁ³¡µÄÇé¿öÏÂ¾ÓÃñÈË¿Ú×ÜÊı´ïµ½400.";
+			String _text = "åœ¨ä¸å»ºè®¾å†œç”°ï¼Œæœå›­æˆ–è€…ç‰§åœºçš„æƒ…å†µä¸‹å±…æ°‘äººå£æ€»æ•°è¾¾åˆ°400.";
 		}
 		{
 			String _name = "Trader";
-			String _text = "Ã³Ò×Õß";
+			String _text = "è´¸æ˜“è€…";
 		}
 		{
 			String _name = "TraderDesc";
-			String _text = "ÔÚµ¥¸ö³ÇÕòÖĞÍ¨¹ıÃ³Ò×ËùÃ³Ò×50,000µ¥Î»µÄ»õÎï.";
+			String _text = "åœ¨å•ä¸ªåŸé•‡ä¸­é€šè¿‡è´¸æ˜“æ‰€è´¸æ˜“50,000å•ä½çš„è´§ç‰©.";
 		}
 		{
 			String _name = "MasterTrader";
-			String _text = "Ã³Ò×´óÊ¦";
+			String _text = "è´¸æ˜“å¤§å¸ˆ";
 		}
 		{
 			String _name = "MasterTraderDesc";
-			String _text = "ÔÚµ¥¸ö³ÇÕòÖĞÍ¨¹ıÃ³Ò×ËùÃ³Ò×100,000µ¥Î»µÄ»õÎï.";
+			String _text = "åœ¨å•ä¸ªåŸé•‡ä¸­é€šè¿‡è´¸æ˜“æ‰€è´¸æ˜“100,000å•ä½çš„è´§ç‰©.";
 		}
 		{
 			String _name = "Exports";
-			String _text = "³ö¿ÚÉÌÆ·";
+			String _text = "å‡ºå£å•†å“";
 		}
 		{
 			String _name = "ExportsDesc";
-			String _text = "ÔÚÃ³Ò×ËùÖĞ¶Ú»ıÖÁÉÙ500·İÂó¾Æ, 300Ì×¸ÖÖÆ¹¤¾ßºÍ200¼ş±£Å¯ÍâÌ×.";
+			String _text = "åœ¨è´¸æ˜“æ‰€ä¸­å›¤ç§¯è‡³å°‘500ä»½éº¦é…’, 300å¥—é’¢åˆ¶å·¥å…·å’Œ200ä»¶ä¿æš–å¤–å¥—.";
 		}
 		{
 			String _name = "Firefighter";
-			String _text = "Ïû·À¶Ó";
+			String _text = "æ¶ˆé˜²é˜Ÿ";
 		}
 		{
 			String _name = "FirefighterDesc";
-			String _text = "ÔÚµ¥¸ö³ÇÕòÖĞ½¨Éè20¸öË®¾®.";
+			String _text = "åœ¨å•ä¸ªåŸé•‡ä¸­å»ºè®¾20ä¸ªæ°´äº•.";
 		}
 		{
 			String _name = "Farmer";
-			String _text = "Å©Ãñ";
+			String _text = "å†œæ°‘";
 		}
 		{
 			String _name = "FarmerDesc";
-			String _text = "»ñµÃ3ÖÖÉüĞó, 8ÖÖ×÷ÎïÖÖ×ÓºÍ8ÖÖ¹ûÊ÷ÖÖ×Ó.";
+			String _text = "è·å¾—3ç§ç‰²ç•œ, 8ç§ä½œç‰©ç§å­å’Œ8ç§æœæ ‘ç§å­.";
 		}
 		{
 			String _name = "Livestock";
-			String _text = "ĞóÄÁ";
+			String _text = "ç•œç‰§";
 		}
 		{
 			String _name = "LivestockDesc";
-			String _text = "½¨ÉèÒ»¸öÓµÓĞ60Ö»Å£, 75Ö»ÑòºÍ180Ö»¼¦µÄ³ÇÕò.";
+			String _text = "å»ºè®¾ä¸€ä¸ªæ‹¥æœ‰60åªç‰›, 75åªç¾Šå’Œ180åªé¸¡çš„åŸé•‡.";
 		}
 		{
 			String _name = "PlantVariety";
-			String _text = "Ê³²Ä·á¸»";
+			String _text = "é£Ÿæä¸°å¯Œ";
 		}
 		{
 			String _name = "PlantVarietyDesc";
-			String _text = "ÔÚÒ»ÄêÄÚÖÖÖ²²¢ÊÕ»ñ8ÖÖ²»Í¬µÄÅ©×÷Îï¼°8ÖÖ²»Í¬µÄ¹ûÊ÷.";
+			String _text = "åœ¨ä¸€å¹´å†…ç§æ¤å¹¶æ”¶è·8ç§ä¸åŒçš„å†œä½œç‰©åŠ8ç§ä¸åŒçš„æœæ ‘.";
 		}
 		{
 			String _name = "Miner";
-			String _text = "¿ó¹¤";
+			String _text = "çŸ¿å·¥";
 		}
 		{
 			String _name = "MinerDesc";
-			String _text = "Á¬ĞøÈıÄêÓµÓĞÁ½×ù¸÷Åä±¸30Ãû¿ó¹¤µÄ¿ó³¡.";
+			String _text = "è¿ç»­ä¸‰å¹´æ‹¥æœ‰ä¸¤åº§å„é…å¤‡30åçŸ¿å·¥çš„çŸ¿åœº.";
 		}
 		{
 			String _name = "Mason";
-			String _text = "Ê¯½³";
+			String _text = "çŸ³åŒ ";
 		}
 		{
 			String _name = "MasonDesc";
-			String _text = "Á¬ĞøÈıÄêÓµÓĞÁ½×ù¸÷Åä±¸30Ãû¹¤ÈËµÄ²ÉÊ¯³¡.";
+			String _text = "è¿ç»­ä¸‰å¹´æ‹¥æœ‰ä¸¤åº§å„é…å¤‡30åå·¥äººçš„é‡‡çŸ³åœº.";
 		}
 		{
 			String _name = "Foodie";
-			String _text = "ÃÀÊ³¼Ò";
+			String _text = "ç¾é£Ÿå®¶";
 		}
 		{
 			String _name = "FoodieDesc";
-			String _text = "ÔÚÒ»ÄêÄÚ´ÓÁÔÊÖ, ²É¼¯Õß, ÓæÃñ, ÌïµØºÍ¹ûÔ°ÖĞ¸÷ÊÕ»ñ2000·İÊ³Îï.";
+			String _text = "åœ¨ä¸€å¹´å†…ä»çŒæ‰‹, é‡‡é›†è€…, æ¸”æ°‘, ç”°åœ°å’Œæœå›­ä¸­å„æ”¶è·2000ä»½é£Ÿç‰©.";
 		}
 		{
 			String _name = "Lumberjack";
-			String _text = "·¥Ä¾¹¤";
+			String _text = "ä¼æœ¨å·¥";
 		}
 		{
 			String _name = "LumberjackDesc";
-			String _text = "100ÄêÄÚÉú²ú50,000·İÄ¾²Ä.";
+			String _text = "100å¹´å†…ç”Ÿäº§50,000ä»½æœ¨æ.";
 		}
 		{
 			String _name = "Stonework";
-			String _text = "²ÉÊ¯½³";
+			String _text = "é‡‡çŸ³åŒ ";
 		}
 		{
 			String _name = "StoneworkDesc";
-			String _text = "100ÄêÄÚÉú²ú10,000·İÊ¯²Ä.";
+			String _text = "100å¹´å†…ç”Ÿäº§10,000ä»½çŸ³æ.";
 		}
 		{
 			String _name = "Smelter";
-			String _text = "Ò±½ğÊ¦";
+			String _text = "å†¶é‡‘å¸ˆ";
 		}
 		{
 			String _name = "SmelterDesc";
-			String _text = "100ÄêÄÚÉú²ú10,000·İÌú.";
+			String _text = "100å¹´å†…ç”Ÿäº§10,000ä»½é“.";
 		}
 		{
 			String _name = "Highwaymen";
-			String _text = "¸ßËÙĞĞ½ø";
+			String _text = "é«˜é€Ÿè¡Œè¿›";
 		}
 		{
 			String _name = "HighwaymenDesc";
-			String _text = "½¨ÉèÒ»¸öÓµÓĞ2000µ¥Î»ÊÇ×ªÆÌÃæµÀÂ·µÄ³ÇÕò.";
+			String _text = "å»ºè®¾ä¸€ä¸ªæ‹¥æœ‰2000å•ä½æ˜¯è½¬é“ºé¢é“è·¯çš„åŸé•‡.";
 		}
 		{
 			String _name = "GoldenGate";
-			String _text = "»Æ½ğ¹°ÃÅ";
+			String _text = "é»„é‡‘æ‹±é—¨";
 		}
 		{
 			String _name = "GoldenGateDesc";
-			String _text = "½¨ÉèÒ»×ùÖÁÉÙ50µ¥Î»³¤µÄÇÅ.";
+			String _text = "å»ºè®¾ä¸€åº§è‡³å°‘50å•ä½é•¿çš„æ¡¥.";
 		}
 		{
 			String _name = "Immigrants";
-			String _text = "ÒÆÃñÉÆ¾Ù";
+			String _text = "ç§»æ°‘å–„ä¸¾";
 		}
 		{
 			String _name = "ImmigrantsDesc";
-			String _text = "ÔÊĞí200Á÷Ãñ½øÈëµ¥¸ö³ÇÕò.";
+			String _text = "å…è®¸200æµæ°‘è¿›å…¥å•ä¸ªåŸé•‡.";
 		}
 		{
 			String _name = "Smilesallaround";
-			String _text = "Î¢Ğ¦»·ÈÆ";
+			String _text = "å¾®ç¬‘ç¯ç»•";
 		}
 		{
 			String _name = "SmilesallaroundDesc";
-			String _text = "ÔÚÒ»×ùÊĞÃñ×ÜÊıÖÁÉÙ100µÄ³ÇÕòÖĞ±£³Ö¸ßĞÒ¸£¶È10Äê.";
+			String _text = "åœ¨ä¸€åº§å¸‚æ°‘æ€»æ•°è‡³å°‘100çš„åŸé•‡ä¸­ä¿æŒé«˜å¹¸ç¦åº¦10å¹´.";
 		}
 		{
 			String _name = "Healthy";
-			String _text = "½¡¿µÖ®µØ";
+			String _text = "å¥åº·ä¹‹åœ°";
 		}
 		{
 			String _name = "HealthyDesc";
-			String _text = "ÔÚÒ»×ùÊĞÃñ×ÜÊıÖÁÉÙ100µÄ³ÇÕòÖĞ±£³Ö¸ß½¡¿µ¶È10Äê.";
+			String _text = "åœ¨ä¸€åº§å¸‚æ°‘æ€»æ•°è‡³å°‘100çš„åŸé•‡ä¸­ä¿æŒé«˜å¥åº·åº¦10å¹´.";
 		}
 		{
 			String _name = "BuiltfromStone";
-			String _text = "Ê¯Ö®ÁÖ";
+			String _text = "çŸ³ä¹‹æ—";
 		}
 		{
 			String _name = "BuiltfromStoneDesc";
-			String _text = "½¨ÉèÒ»¸öÓµÓĞ100¶°Ê¯ÎİµÄ³ÇÕò.";
+			String _text = "å»ºè®¾ä¸€ä¸ªæ‹¥æœ‰100æ ‹çŸ³å±‹çš„åŸé•‡.";
 		}
 		{
 			String _name = "ReadyforAnything";
-			String _text = "Î´Óê³ñçÑ";
+			String _text = "æœªé›¨ç»¸ç¼ª";
 		}
 		{
 			String _name = "ReadyforAnythingDesc";
-			String _text = "Í¬Ê±´¢±¸2000·İÈ¼ÁÏ£¬2000·İÄ¾²Ä£¬500·İÊ¯ÁÏ£¬500·İÌú£¬200·İ¹¤¾ß£¬200ÒÂÎïºÍ30000·İÊ³Îï.";
+			String _text = "åŒæ—¶å‚¨å¤‡2000ä»½ç‡ƒæ–™ï¼Œ2000ä»½æœ¨æï¼Œ500ä»½çŸ³æ–™ï¼Œ500ä»½é“ï¼Œ200ä»½å·¥å…·ï¼Œ200è¡£ç‰©å’Œ30000ä»½é£Ÿç‰©.";
 		}
 		{
 			String _name = "Builder";
-			String _text = "½¨ÖşÕß";
+			String _text = "å»ºç­‘è€…";
 		}
 		{
 			String _name = "BuilderDesc";
-			String _text = "½¨ÉèÒ»¸öÃ¿ÖÖ¿É½¨½¨Öş¶¼ÓµÓĞÖÁÉÙÒ»¶°µÄ³ÇÕò.";
+			String _text = "å»ºè®¾ä¸€ä¸ªæ¯ç§å¯å»ºå»ºç­‘éƒ½æ‹¥æœ‰è‡³å°‘ä¸€æ ‹çš„åŸé•‡.";
 		}
 		{
 			String _name = "MasterBuilder";
-			String _text = "½¨Öş´óÊ¦";
+			String _text = "å»ºç­‘å¤§å¸ˆ";
 		}
 		{
 			String _name = "MasterBuilderDesc";
-			String _text = "½¨ÉèÒ»¸öÅä±¸3×ù½ÌÌÃ, 5¶°¹«Ô¢, 4¸ö¼¯ÊĞ, 5×ùÒ½Ôº, 2×öÃ³Ò×Ëù, 6¸ö¾Æ¹İºÍ1×ùÊĞÕşÌüµÄ³ÇÕò.";
+			String _text = "å»ºè®¾ä¸€ä¸ªé…å¤‡3åº§æ•™å ‚, 5æ ‹å…¬å¯“, 4ä¸ªé›†å¸‚, 5åº§åŒ»é™¢, 2åšè´¸æ˜“æ‰€, 6ä¸ªé…’é¦†å’Œ1åº§å¸‚æ”¿å…çš„åŸé•‡.";
 		}
 		{
 			String _name = "Established";
-			String _text = "½¨ÉèÍê±Ï";
+			String _text = "å»ºè®¾å®Œæ¯•";
 		}
 		{
 			String _name = "EstablishedDesc";
-			String _text = "½¨ÉèÒ»¸ö100ÄêºóÊĞÃñ×ÜÊı´ïµ½300µÄ³ÇÕò.";
+			String _text = "å»ºè®¾ä¸€ä¸ª100å¹´åå¸‚æ°‘æ€»æ•°è¾¾åˆ°300çš„åŸé•‡.";
 		}
 		{
 			String _name = "Tenure";
-			String _text = "ÖÕÉíÈÎÖ°";
+			String _text = "ç»ˆèº«ä»»èŒ";
 		}
 		{
 			String _name = "TenureDesc";
-			String _text = "½¨ÉèÒ»¸ö200ÄêºóÊĞÃñ×ÜÊı´ïµ½500µÄ³ÇÕò.";
+			String _text = "å»ºè®¾ä¸€ä¸ª200å¹´åå¸‚æ°‘æ€»æ•°è¾¾åˆ°500çš„åŸé•‡.";
 		}
 	]
 }
@@ -299,39 +299,39 @@ StringTable autoSave
 	[ 
 		{
 			String _name = "Time0";
-			String _text = "Ò»·ÖÖÓ";
+			String _text = "ä¸€åˆ†é’Ÿ";
 		}
 		{
 			String _name = "Time1";
-			String _text = "Îå·ÖÖÓ";
+			String _text = "äº”åˆ†é’Ÿ";
 		}
 		{
 			String _name = "Time2";
-			String _text = "Ê®·ÖÖÓ";
+			String _text = "ååˆ†é’Ÿ";
 		}
 		{
 			String _name = "Time3";
-			String _text = "Ê®Îå·ÖÖÓ";
+			String _text = "åäº”åˆ†é’Ÿ";
 		}
 		{
 			String _name = "Time4";
-			String _text = "¶şÊ®·ÖÖÓ";
+			String _text = "äºŒååˆ†é’Ÿ";
 		}
 		{
 			String _name = "Time5";
-			String _text = "ÈıÊ®·ÖÖÓ";
+			String _text = "ä¸‰ååˆ†é’Ÿ";
 		}
 		{
 			String _name = "Time6";
-			String _text = "ËÄÊ®Îå·ÖÖÓ";
+			String _text = "å››åäº”åˆ†é’Ÿ";
 		}
 		{
 			String _name = "Time7";
-			String _text = "Ò»¸öĞ¡Ê±";
+			String _text = "ä¸€ä¸ªå°æ—¶";
 		}
 		{
 			String _name = "Time8";
-			String _text = "½ûÓÃ";
+			String _text = "ç¦ç”¨";
 		}
 	]
 }
@@ -342,7 +342,7 @@ StringTable citizenActions
 	[ 
 		{
 			String _name = "AttainFood";
-			String _text = "»ñÈ¡Ò»Ğ©³ÔµÄ¶«Î÷.";
+			String _text = "è·å–ä¸€äº›åƒçš„ä¸œè¥¿.";
 		}
 		{
 			String _name = "AttainWarmth";
@@ -350,63 +350,63 @@ StringTable citizenActions
 		}
 		{
 			String _name = "PutOutFire";
-			String _text = "ÆËÃğ»ğÔÖ!";
+			String _text = "æ‰‘ç­ç«ç¾!";
 		}
 		{
 			String _name = "AttainClothing";
-			String _text = "Ñ°ÕÒÒÂ·ş.";
+			String _text = "å¯»æ‰¾è¡£æœ.";
 		}
 		{
 			String _name = "AttainHealth";
-			String _text = "È¡²İÒ©.";
+			String _text = "å–è‰è¯.";
 		}
 		{
 			String _name = "AttainDoctor";
-			String _text = "È¥¿´Ò½Éú.";
+			String _text = "å»çœ‹åŒ»ç”Ÿ.";
 		}
 		{
 			String _name = "GatherFood";
-			String _text = "ÊÕ¼¯Ê³Îï.";
+			String _text = "æ”¶é›†é£Ÿç‰©.";
 		}
 		{
 			String _name = "GatherFuel";
-			String _text = "ÊÕ¼¯È¼ÁÏ.";
+			String _text = "æ”¶é›†ç‡ƒæ–™.";
 		}
 		{
 			String _name = "AttainTool";
-			String _text = "È¡¹¤¾ß.";
+			String _text = "å–å·¥å…·.";
 		}
 		{
 			String _name = "PerformWork";
-			String _text = "¹¤×÷ÖĞ.";
+			String _text = "å·¥ä½œä¸­.";
 		}
 		{
 			String _name = "AttendSchool";
-			String _text = "ÉÏÑ§.";
+			String _text = "ä¸Šå­¦.";
 		}
 		{
 			String _name = "FollowParent";
-			String _text = "ÍæË£ÖĞ.";
+			String _text = "ç©è€ä¸­.";
 		}
 		{
 			String _name = "Idle";
-			String _text = "¿ÕÏĞÖĞ.";
+			String _text = "ç©ºé—²ä¸­.";
 		}
 		{
 			String _name = "ReturnGoods";
-			String _text = "ÔËÎïÆ·µ½²Ö¿â.";
+			String _text = "è¿ç‰©å“åˆ°ä»“åº“.";
 		}
 		{
 			String _name = "FoodEmergency";
-			String _text = "Ñ°ÕÒÊ³Îï.";
+			String _text = "å¯»æ‰¾é£Ÿç‰©.";
 		}
 		{
 			String _name = "ColdEmergency";
-			String _text = "Ñ°ÕÒÒ»¸öÎÂÅ¯µÄµØ·½.";
+			String _text = "å¯»æ‰¾ä¸€ä¸ªæ¸©æš–çš„åœ°æ–¹.";
 		}
 		{
 			String _name = "MaxAction";
-			String _text = "¼Ó¿ì×ÊÔ´µÄÉú³¤.";
+			String _text = "åŠ å¿«èµ„æºçš„ç”Ÿé•¿.";
 		}
 	]
 }
@@ -417,15 +417,15 @@ StringTable climate
 	[ 
 		{
 			String _name = "Mild";
-			String _text = "¼òµ¥";
+			String _text = "ç®€å•";
 		}
 		{
 			String _name = "Fair";
-			String _text = "Ò»°ã";
+			String _text = "ä¸€èˆ¬";
 		}
 		{
 			String _name = "Harsh";
-			String _text = "À§ÄÑ";
+			String _text = "å›°éš¾";
 		}
 	]
 }
@@ -436,15 +436,15 @@ StringTable clothing
 	[ 
 		{
 			String _name = "Clothing0";
-			String _text = "¼òÂªµÄ";
+			String _text = "ç®€é™‹çš„";
 		}
 		{
 			String _name = "Clothing1";
-			String _text = "ÆÓËØµÄ";
+			String _text = "æœ´ç´ çš„";
 		}
 		{
 			String _name = "Clothing2";
-			String _text = "»ªÀöµÄ";
+			String _text = "åä¸½çš„";
 		}
 	]
 }
@@ -455,31 +455,31 @@ StringTable common
 	[ 
 		{
 			String _name = "Ok";
-			String _text = "È·¶¨";
+			String _text = "ç¡®å®š";
 		}
 		{
 			String _name = "Cancel";
-			String _text = "È¡Ïû";
+			String _text = "å–æ¶ˆ";
 		}
 		{
 			String _name = "Yes";
-			String _text = "ÊÇ";
+			String _text = "æ˜¯";
 		}
 		{
 			String _name = "No";
-			String _text = "·ñ";
+			String _text = "å¦";
 		}
 		{
 			String _name = "Apply";
-			String _text = "Ó¦ÓÃ";
+			String _text = "åº”ç”¨";
 		}
 		{
 			String _name = "Next";
-			String _text = "ÏÂÒ»¸ö";
+			String _text = "ä¸‹ä¸€ä¸ª";
 		}
 		{
 			String _name = "Quit";
-			String _text = "ÍË³ö";
+			String _text = "é€€å‡º";
 		}
 	]
 }
@@ -490,11 +490,11 @@ StringTable disaster
 	[ 
 		{
 			String _name = "Option1";
-			String _text = "¿ª";
+			String _text = "å¼€";
 		}
 		{
 			String _name = "Option2";
-			String _text = "¹Ø";
+			String _text = "å…³";
 		}
 	]
 }
@@ -505,55 +505,55 @@ StringTable diseases
 	[ 
 		{
 			String _name = "Disease";
-			String _text = "¼²²¡";
+			String _text = "ç–¾ç—…";
 		}
 		{
 			String _name = "Influenza";
-			String _text = "Á÷¸Ğ";
+			String _text = "æµæ„Ÿ";
 		}
 		{
 			String _name = "Mumps";
-			String _text = "ÈùÏÙÑ×";
+			String _text = "è…®è…ºç‚";
 		}
 		{
 			String _name = "Diptheria";
-			String _text = "°×ºí";
+			String _text = "ç™½å–‰";
 		}
 		{
 			String _name = "Dystentery";
-			String _text = "Á¡¼²";
+			String _text = "ç—¢ç–¾";
 		}
 		{
 			String _name = "YellowFever";
-			String _text = "»ÆÈÈ²¡";
+			String _text = "é»„çƒ­ç—…";
 		}
 		{
 			String _name = "ScarletFever";
-			String _text = "ĞÉºìÈÈ";
+			String _text = "çŒ©çº¢çƒ­";
 		}
 		{
 			String _name = "Tuberculosis";
-			String _text = "·Î½áºË";
+			String _text = "è‚ºç»“æ ¸";
 		}
 		{
 			String _name = "Measles";
-			String _text = "ÂéÕî";
+			String _text = "éº»ç–¹";
 		}
 		{
 			String _name = "Typhus";
-			String _text = "°ßÕîÉËº®";
+			String _text = "æ–‘ç–¹ä¼¤å¯’";
 		}
 		{
 			String _name = "SmallPox";
-			String _text = "Ë®¶»";
+			String _text = "æ°´ç—˜";
 		}
 		{
 			String _name = "Cholera";
-			String _text = "»ôÂÒ";
+			String _text = "éœä¹±";
 		}
 		{
 			String _name = "Plague";
-			String _text = "ÊóÒß";
+			String _text = "é¼ ç–«";
 		}
 	]
 }
@@ -564,131 +564,131 @@ StringTable events
 	[ 
 		{
 			String _name = "Event0";
-			String _text = "@0 @1: @2 @3 ¶öËÀÁË.";
+			String _text = "@0 @1: @2 @3 é¥¿æ­»äº†.";
 		}
 		{
 			String _name = "Event1";
-			String _text = "@0 @1: @2 @3 ¶³ËÀÁË.";
+			String _text = "@0 @1: @2 @3 å†»æ­»äº†.";
 		}
 		{
 			String _name = "Event2";
-			String _text = "@0 @1: @2 ÕâÃû @3 ÀÏËÀÁË.";
+			String _text = "@0 @1: @2 è¿™å @3 è€æ­»äº†.";
 		}
 		{
 			String _name = "Event3";
-			String _text = "@0 @1: @2 ÕâÃû @3 ÒÑ¾­ @4 ÁË.";
+			String _text = "@0 @1: @2 è¿™å @3 å·²ç» @4 äº†.";
 		}
 		{
 			String _name = "Event4";
-			String _text = "@0 @1: @2 ÕâÃûº¢×ÓÒÑ¾­ËÀµôÁË.";
+			String _text = "@0 @1: @2 è¿™åå­©å­å·²ç»æ­»æ‰äº†.";
 		}
 		{
 			String _name = "Event5";
-			String _text = "@0 @1: @2 ÕâÃû @3 ±»Áú¾í·ç¾í×ßÁË.";
+			String _text = "@0 @1: @2 è¿™å @3 è¢«é¾™å·é£å·èµ°äº†.";
 		}
 		{
 			String _name = "Event6";
-			String _text = "@0 @1: @2 ÕâÃû @3 ÔÚÉúĞ¡º¢Ê±ËÀµôÁË.";
+			String _text = "@0 @1: @2 è¿™å @3 åœ¨ç”Ÿå°å­©æ—¶æ­»æ‰äº†.";
 		}
 		{
 			String _name = "Event7";
-			String _text = "@0 @1: @2 ÕâÃû @3 @4 ÁË.";
+			String _text = "@0 @1: @2 è¿™å @3 @4 äº†.";
 		}
 		{
 			String _name = "Event8";
-			String _text = "@0 @1: Ò»¸ö½Ğ @2 µÄº¢×Óµ®ÉúÁË.";
+			String _text = "@0 @1: ä¸€ä¸ªå« @2 çš„å­©å­è¯ç”Ÿäº†.";
 		}
 		{
 			String _name = "Event9";
-			String _text = "@0 @1: @2 ÒÑ¾­³ÉÄê²¢³ÉÎªÁËÒ»Ãû @3.";
+			String _text = "@0 @1: @2 å·²ç»æˆå¹´å¹¶æˆä¸ºäº†ä¸€å @3.";
 		}
 		{
 			String _name = "Event10";
-			String _text = "@0 @1: @2 ÒÑ¾­³ÉÎªÁËÑ§Éú.";
+			String _text = "@0 @1: @2 å·²ç»æˆä¸ºäº†å­¦ç”Ÿ.";
 		}
 		{
 			String _name = "Event11";
-			String _text = "@0 @1: ¼²²¡ @2 ÒÑ¾­±¬·¢!";
+			String _text = "@0 @1: ç–¾ç—… @2 å·²ç»çˆ†å‘!";
 		}
 		{
 			String _name = "Event12";
-			String _text = "@0 @1: Ò»×ù @2 ÒÑ¾­³æº¦ËÁÅ°!";
+			String _text = "@0 @1: ä¸€åº§ @2 å·²ç»è™«å®³è‚†è™!";
 		}
 		{
 			String _name = "Event13";
-			String _text = "@0 @1: Ò»ÃûÉÌÈËÒÑ¾­µÖ´ïÒ»¸öÃ³Ò×Õ¾.";
+			String _text = "@0 @1: ä¸€åå•†äººå·²ç»æŠµè¾¾ä¸€ä¸ªè´¸æ˜“ç«™.";
 		}
 		{
 			String _name = "Event14";
-			String _text = "@0 @1: Á÷ÃñÒÑ¾­µÖ´ïÁËÊĞÕşÌü.";
+			String _text = "@0 @1: æµæ°‘å·²ç»æŠµè¾¾äº†å¸‚æ”¿å….";
 		}
 		{
 			String _name = "Event15";
-			String _text = "@0 @1: @2 ÒÑ¾­Ìæ´ú @4 ³ÉÎªÁË @3.";
+			String _text = "@0 @1: @2 å·²ç»æ›¿ä»£ @4 æˆä¸ºäº† @3.";
 		}
 		{
 			String _name = "Event16";
-			String _text = "@0 @1: Ã»ÓĞ¹¤ÈËÌæ´ú @2 µÄ¹¤×÷.";
+			String _text = "@0 @1: æ²¡æœ‰å·¥äººæ›¿ä»£ @2 çš„å·¥ä½œ.";
 		}
 		{
 			String _name = "Event17";
-			String _text = "@0 @1: Ä¾²Ä´¢Á¿µÍ!";
+			String _text = "@0 @1: æœ¨æå‚¨é‡ä½!";
 		}
 		{
 			String _name = "Event18";
-			String _text = "@0 @1: Ê¯²Ä´¢Á¿µÍ!";
+			String _text = "@0 @1: çŸ³æå‚¨é‡ä½!";
 		}
 		{
 			String _name = "Event19";
-			String _text = "@0 @1: Ìú´¢Á¿µÍ!";
+			String _text = "@0 @1: é“å‚¨é‡ä½!";
 		}
 		{
 			String _name = "Event20";
-			String _text = "@0 @1: ²ñ»ğ´¢Á¿µÍ!";
+			String _text = "@0 @1: æŸ´ç«å‚¨é‡ä½!";
 		}
 		{
 			String _name = "Event21";
-			String _text = "@0 @1: ¹¤¾ß´¢Á¿µÍ!";
+			String _text = "@0 @1: å·¥å…·å‚¨é‡ä½!";
 		}
 		{
 			String _name = "Event22";
-			String _text = "@0 @1: Ê³Îï´¢Á¿µÍ!";
+			String _text = "@0 @1: é£Ÿç‰©å‚¨é‡ä½!";
 		}
 		{
 			String _name = "Event23";
-			String _text = "@0 @1: Éú²úµÄÉÌÆ·¼´½«´ïµ½´æ´¢ÉÏÏŞ!";
+			String _text = "@0 @1: ç”Ÿäº§çš„å•†å“å³å°†è¾¾åˆ°å­˜å‚¨ä¸Šé™!";
 		}
 		{
 			String _name = "Event24";
-			String _text = "@0 @1: Ä¾²Ä£¬Ê¯²ÄºÍÌú¼´½«´ïµ½´æ´¢ÉÏÏŞ!";
+			String _text = "@0 @1: æœ¨æï¼ŒçŸ³æå’Œé“å³å°†è¾¾åˆ°å­˜å‚¨ä¸Šé™!";
 		}
 		{
 			String _name = "Event25";
-			String _text = "ÄãÊÕµ½ÁËÒ»¸ö½±ÕÂ! @2";
+			String _text = "ä½ æ”¶åˆ°äº†ä¸€ä¸ªå¥–ç« ! @2";
 		}
 		{
 			String _name = "Event26";
-			String _text = "¹§Ï²! ÄãÍê³ÉÁË³¡¾° '@2'.";
+			String _text = "æ­å–œ! ä½ å®Œæˆäº†åœºæ™¯ '@2'.";
 		}
 		{
 			String _name = "Event27";
-			String _text = "³¡¾° '@2' ÈÎÎñÄ¿±êÊ§°Ü!";
+			String _text = "åœºæ™¯ '@2' ä»»åŠ¡ç›®æ ‡å¤±è´¥!";
 		}
 		{
 			String _name = "Event28";
-			String _text = "¹§Ï²!ÄãÍê³ÉÁËËùÓĞÈÎÎñÄ¿±ê!";
+			String _text = "æ­å–œ!ä½ å®Œæˆäº†æ‰€æœ‰ä»»åŠ¡ç›®æ ‡!";
 		}
 		{
 			String _name = "Event29";
-			String _text = "ÈÎÎñÄ¿±êÊ§°Ü!";
+			String _text = "ä»»åŠ¡ç›®æ ‡å¤±è´¥!";
 		}
 		{
 			String _name = "Event30";
-			String _text = "Áú¾í·çµÖ´ï³ÇÕòÖÜ±ß!";
+			String _text = "é¾™å·é£æŠµè¾¾åŸé•‡å‘¨è¾¹!";
 		}
 		{
 			String _name = "Event31";
-			String _text = "Ò»¶°½¨ÖşÊ§»ğ!";
+			String _text = "ä¸€æ ‹å»ºç­‘å¤±ç«!";
 		}
 	]
 }
@@ -699,99 +699,99 @@ StringTable gameDialogs
 	[ 
 		{
 			String _name = "NomadsNone";
-			String _text = "Õâ¸öÊ±¼äÃ»ÓĞÓÎÃñÀ´·Ã.";
+			String _text = "è¿™ä¸ªæ—¶é—´æ²¡æœ‰æ¸¸æ°‘æ¥è®¿.";
 		}
 		{
 			String _name = "NomadsRequest";
-			String _text = "ÏÖÓĞ @0 ¸öÓÎÃñ. ÊÇ·ñÈÃËûÃÇ¼ÓÈë @1?";
+			String _text = "ç°æœ‰ @0 ä¸ªæ¸¸æ°‘. æ˜¯å¦è®©ä»–ä»¬åŠ å…¥ @1?";
 		}
 		{
 			String _name = "AllowNomad";
-			String _text = "Í¬Òâ";
+			String _text = "åŒæ„";
 		}
 		{
 			String _name = "DenyNomad";
-			String _text = "¾Ü¾ø";
+			String _text = "æ‹’ç»";
 		}
 		{
 			String _name = "DenyNomadTip";
-			String _text = "ÈÃÓÎÃñÀë¿ª";
+			String _text = "è®©æ¸¸æ°‘ç¦»å¼€";
 		}
 		{
 			String _name = "AllowNomadTip";
-			String _text = "ÈÃÓÎÃñ¼ÓÈë.";
+			String _text = "è®©æ¸¸æ°‘åŠ å…¥.";
 		}
 		{
 			String _name = "DestroyRemove";
-			String _text = "²ğ³ı½¨Öş.";
+			String _text = "æ‹†é™¤å»ºç­‘.";
 		}
 		{
 			String _name = "DestroyUpgrade";
-			String _text = "Éı¼¶½¨Öş.";
+			String _text = "å‡çº§å»ºç­‘.";
 		}
 		{
 			String _name = "DestroyDamage";
-			String _text = "¸Ã½¨ÖşÒÑÑÏÖØËğ»µ.";
+			String _text = "è¯¥å»ºç­‘å·²ä¸¥é‡æŸå.";
 		}
 		{
 			String _name = "DestroyFixing";
-			String _text = "¸Ã½¨Öş½«±»È¡´ú.";
+			String _text = "è¯¥å»ºç­‘å°†è¢«å–ä»£.";
 		}
 		{
 			String _name = "DestroyReclaim";
-			String _text = "»ØÊÕ";
+			String _text = "å›æ”¶";
 		}
 		{
 			String _name = "DestroyReclaimTip";
-			String _text = "Í£Ö¹Çå³ı»ò²ğ³ı¸ÃµØÇøµÄ×ÊÔ´ºÍ½¨Öş.";
+			String _text = "åœæ­¢æ¸…é™¤æˆ–æ‹†é™¤è¯¥åœ°åŒºçš„èµ„æºå’Œå»ºç­‘.";
 		}
 		{
 			String _name = "DestroyRebuild";
-			String _text = "ÖØ½¨";
+			String _text = "é‡å»º";
 		}
 		{
 			String _name = "DestroyRebuildTip";
-			String _text = "²ğ³ıËğ»µµÄ½¨Öş£¬²¢ÖØ½¨.";
+			String _text = "æ‹†é™¤æŸåçš„å»ºç­‘ï¼Œå¹¶é‡å»º.";
 		}
 		{
 			String _name = "DestroyDestroy";
-			String _text = "ÒÆ³ı";
+			String _text = "ç§»é™¤";
 		}
 		{
 			String _name = "DestroyDestroyTip";
-			String _text = "²ğ³ıËğ»µµÄ½¨Öş.";
+			String _text = "æ‹†é™¤æŸåçš„å»ºç­‘.";
 		}
 		{
 			String _name = "TownNameTip";
-			String _text = "³ÇÕòÃû³Æ";
+			String _text = "åŸé•‡åç§°";
 		}
 		{
 			String _name = "Clearing";
-			String _text = "Çå³ı¸ÃµØÇøµÄ×ÊÔ´.";
+			String _text = "æ¸…é™¤è¯¥åœ°åŒºçš„èµ„æº.";
 		}
 		{
 			String _name = "PercentFull";
-			String _text = "@0% ÒÑÂú";
+			String _text = "@0% å·²æ»¡";
 		}
 		{
 			String _name = "PercentRemove";
-			String _text = "@0% Ê£ÓàÈİÁ¿";
+			String _text = "@0% å‰©ä½™å®¹é‡";
 		}
 		{
 			String _name = "PercentDestroy";
-			String _text = "@0% ÒÑ²ğ³ı";
+			String _text = "@0% å·²æ‹†é™¤";
 		}
 		{
 			String _name = "PercentBuilt";
-			String _text = "@0% Íê³É";
+			String _text = "@0% å®Œæˆ";
 		}
 		{
 			String _name = "PercentYield";
-			String _text = "@0% ²úÁ¿";
+			String _text = "@0% äº§é‡";
 		}
 		{
 			String _name = "PercentRemaining";
-			String _text = "@0% Ê£Óà";
+			String _text = "@0% å‰©ä½™";
 		}
 		{
 			String _name = "CountGathered";
@@ -803,15 +803,15 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "StudentCount";
-			String _text = "@0Ñ§Éú";
+			String _text = "@0å­¦ç”Ÿ";
 		}
 		{
 			String _name = "PatientCount";
-			String _text = "@0 ²¡ÈË";
+			String _text = "@0 ç—…äºº";
 		}
 		{
 			String _name = "ChapelCount";
-			String _text = "@0 ĞÅÍ½";
+			String _text = "@0 ä¿¡å¾’";
 		}
 		{
 			String _name = "Population";
@@ -819,47 +819,47 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "GraveCount";
-			String _text = "@0 OF @1 Ä¹±®";
+			String _text = "@0 OF @1 å¢“ç¢‘";
 		}
 		{
 			String _name = "FollowCitizen";
-			String _text = "¸úËæ";
+			String _text = "è·Ÿéš";
 		}
 		{
 			String _name = "FollowCitizenTip";
-			String _text = "¸úËæÕâ¸ö¾ÓÃñµÄÊÓ¾õ";
+			String _text = "è·Ÿéšè¿™ä¸ªå±…æ°‘çš„è§†è§‰";
 		}
 		{
 			String _name = "FollowCitizenEnd";
-			String _text = "ÍË³ö¸úËæÄ£Ê½";
+			String _text = "é€€å‡ºè·Ÿéšæ¨¡å¼";
 		}
 		{
 			String _name = "FollowCitizenInfo";
-			String _text = "@0 Õâ @1 ÊÇ";
+			String _text = "@0 è¿™ @1 æ˜¯";
 		}
 		{
 			String _name = "FollowCitizenInfoNameOnly";
-			String _text = "@0 ÊÇ";
+			String _text = "@0 æ˜¯";
 		}
 		{
 			String _name = "Labor";
-			String _text = "½¨Ôì";
+			String _text = "å»ºé€ ";
 		}
 		{
 			String _name = "ClearArea";
-			String _text = "ÒÆ³ı";
+			String _text = "ç§»é™¤";
 		}
 		{
 			String _name = "PauseBuildTip";
-			String _text = "ÔİÍ£»ò¼ÌĞøÊÕ¼¯½¨Öş²ÄÁÏ";
+			String _text = "æš‚åœæˆ–ç»§ç»­æ”¶é›†å»ºç­‘ææ–™";
 		}
 		{
 			String _name = "CloseTip";
-			String _text = "¹Ø±Õ´°¿Ú";
+			String _text = "å…³é—­çª—å£";
 		}
 		{
 			String _name = "PinTip";
-			String _text = "Ëø¶¨´°¿Ú£¬ÇÒ²»ÔÙ×·×ÙÄ¿±ê";
+			String _text = "é”å®šçª—å£ï¼Œä¸”ä¸å†è¿½è¸ªç›®æ ‡";
 		}
 		{
 			String _name = "CenterTip";
@@ -867,67 +867,67 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "ProductionTip";
-			String _text = "ÏÔÊ¾»òÒş²Ø²úÆ·ĞÅÏ¢.";
+			String _text = "æ˜¾ç¤ºæˆ–éšè—äº§å“ä¿¡æ¯.";
 		}
 		{
 			String _name = "ClearAreaTip";
-			String _text = "Çå³ı¸ÃÇøÓòµÄÊ÷Ä¾¡¢Ê¯Í·µÈÕÏ°­Îï.";
+			String _text = "æ¸…é™¤è¯¥åŒºåŸŸçš„æ ‘æœ¨ã€çŸ³å¤´ç­‰éšœç¢ç‰©.";
 		}
 		{
 			String _name = "ResourceTip";
-			String _text = "·¿Îİ½¨ÔìËùÏûºÄµÄ×ÊÔ´.";
+			String _text = "æˆ¿å±‹å»ºé€ æ‰€æ¶ˆè€—çš„èµ„æº.";
 		}
 		{
 			String _name = "LaborTip";
-			String _text = "¹¤×÷Î´Íê³ÉÇ°ÎŞ·¨Ê¹ÓÃ.";
+			String _text = "å·¥ä½œæœªå®Œæˆå‰æ— æ³•ä½¿ç”¨.";
 		}
 		{
 			String _name = "Details";
-			String _text = "ÏêÇé";
+			String _text = "è¯¦æƒ…";
 		}
 		{
 			String _name = "Occupants";
-			String _text = "¾ÓÃñ";
+			String _text = "å±…æ°‘";
 		}
 		{
 			String _name = "Inventory";
-			String _text = "¿â´æ";
+			String _text = "åº“å­˜";
 		}
 		{
 			String _name = "TownInventory";
-			String _text = "¿â´æ";
+			String _text = "åº“å­˜";
 		}
 		{
 			String _name = "Overview";
-			String _text = "¸ÅÊö";
+			String _text = "æ¦‚è¿°";
 		}
 		{
 			String _name = "Graphs";
-			String _text = "Í¼±ê";
+			String _text = "å›¾æ ‡";
 		}
 		{
 			String _name = "Production";
-			String _text = "³ö²úÎï";
+			String _text = "å‡ºäº§ç‰©";
 		}
 		{
 			String _name = "Agri";
-			String _text = "Ã³Ò×ÎïÆ·";
+			String _text = "è´¸æ˜“ç‰©å“";
 		}
 		{
 			String _name = "Nomads";
-			String _text = "Á÷Ãñ";
+			String _text = "æµæ°‘";
 		}
 		{
 			String _name = "AgriDescription";
-			String _text = "ÒÑÓĞÖÖ×Ó¼°ÉüĞó";
+			String _text = "å·²æœ‰ç§å­åŠç‰²ç•œ";
 		}
 		{
 			String _name = "Order";
-			String _text = "¶©µ¥";
+			String _text = "è®¢å•";
 		}
 		{
 			String _name = "Purchase";
-			String _text = "²É¹º";
+			String _text = "é‡‡è´­";
 		}
 		{
 			String _name = "MerchantName";
@@ -935,735 +935,735 @@ StringTable gameDialogs
 		}
 		{
 			String _name = "MerchantOrderName";
-			String _text = "×Ô¶¨ÒåÂ·¾¶ @0";
+			String _text = "è‡ªå®šä¹‰è·¯å¾„ @0";
 		}
 		{
 			String _name = "Autobuy";
-			String _text = "×Ô¶¯²É¹º";
+			String _text = "è‡ªåŠ¨é‡‡è´­";
 		}
 		{
 			String _name = "PurchasePriorityTip";
-			String _text = "µ÷Õû²É¹ºÓÅÏÈ¼¶¡£";
+			String _text = "è°ƒæ•´é‡‡è´­ä¼˜å…ˆçº§ã€‚";
 		}
 		{
 			String _name = "PurchaseCountTip";
-			String _text = "×Ô¶¯¹ºÂòµÄÊıÁ¿¡£";
+			String _text = "è‡ªåŠ¨è´­ä¹°çš„æ•°é‡ã€‚";
 		}
 		{
 			String _name = "TimeRange";
-			String _text = "Ê±¼ä·¶Î§";
+			String _text = "æ—¶é—´èŒƒå›´";
 		}
 		{
 			String _name = "Graph";
-			String _text = "Í¼±í";
+			String _text = "å›¾è¡¨";
 		}
 		{
 			String _name = "InventoryItem";
-			String _text = "ÎïÆ·";
+			String _text = "ç‰©å“";
 		}
 		{
 			String _name = "InventoryStored";
-			String _text = "ÊıÁ¿";
+			String _text = "æ•°é‡";
 		}
 		{
 			String _name = "EnableWork";
-			String _text = "¹¤×÷";
+			String _text = "å·¥ä½œ";
 		}
 		{
 			String _name = "EnableWorkTip";
-			String _text = "¿ªÆô»ò¹Ø±ÕµØµãµÄ²ú³ö.";
+			String _text = "å¼€å¯æˆ–å…³é—­åœ°ç‚¹çš„äº§å‡º.";
 		}
 		{
 			String _name = "WorkerCountTip";
-			String _text = "ÔÚÕâ¸öµØµã¹¤×÷µÄÈËÊı¡£µã»÷ÒÔÑ¡ÖĞ¹¤ÈË£¬²¢ÔÚ¹¤ÈË¼äÑ­»·.";
+			String _text = "åœ¨è¿™ä¸ªåœ°ç‚¹å·¥ä½œçš„äººæ•°ã€‚ç‚¹å‡»ä»¥é€‰ä¸­å·¥äººï¼Œå¹¶åœ¨å·¥äººé—´å¾ªç¯.";
 		}
 		{
 			String _name = "EnableSchoolTip";
-			String _text = "ÔÚÑ§Ğ£½ÓÊÜ½ÌÓı.";
+			String _text = "åœ¨å­¦æ ¡æ¥å—æ•™è‚².";
 		}
 		{
 			String _name = "ProfessionCountTip";
-			String _text = "ÔÚÖ°¹¤ÈË×ÜÊı.";
+			String _text = "åœ¨èŒå·¥äººæ€»æ•°.";
 		}
 		{
 			String _name = "ProfessionJobsTip";
-			String _text = "¿É·ÖÅäµÄ¹¤×÷×ÜÊı";
+			String _text = "å¯åˆ†é…çš„å·¥ä½œæ€»æ•°";
 		}
 		{
 			String _name = "ProfessionGotoTip";
-			String _text = "¸ø¾ÓÃñ·ÖÅä¹¤×÷¡£µã»÷ÒÔÑ¡ÖĞ¾ÓÃñ£¬²¢ÔÚ¾ÓÃñ¼äÑ­»·.";
+			String _text = "ç»™å±…æ°‘åˆ†é…å·¥ä½œã€‚ç‚¹å‡»ä»¥é€‰ä¸­å±…æ°‘ï¼Œå¹¶åœ¨å±…æ°‘é—´å¾ªç¯.";
 		}
 		{
 			String _name = "CitizenGotoTip";
-			String _text = "¹Ø×¢¾ÓÃñµÄÇé¿ö.";
+			String _text = "å…³æ³¨å±…æ°‘çš„æƒ…å†µ.";
 		}
 		{
 			String _name = "EnablePriestTip";
-			String _text = "Ê¹ÓÃ½ÌÌÃ.";
+			String _text = "ä½¿ç”¨æ•™å ‚.";
 		}
 		{
 			String _name = "ForesterCut";
-			String _text = "¿³·¥";
+			String _text = "ç ä¼";
 		}
 		{
 			String _name = "ForesterPlant";
-			String _text = "ÔÔÖÖ";
+			String _text = "æ ½ç§";
 		}
 		{
 			String _name = "ForesterCutTip";
-			String _text = "¿³·¥¸½½üÒÑ³ÉÊìµÄÊ÷Ä¾";
+			String _text = "ç ä¼é™„è¿‘å·²æˆç†Ÿçš„æ ‘æœ¨";
 		}
 		{
 			String _name = "ForesterPlantTip";
-			String _text = "ÔÔÖÖĞÂÊ÷Ãç.";
+			String _text = "æ ½ç§æ–°æ ‘è‹—.";
 		}
 		{
 			String _name = "CropFieldCutTip";
-			String _text = "Á¢¼´ÊÕ¸îÅ©×÷Îï.";
+			String _text = "ç«‹å³æ”¶å‰²å†œä½œç‰©.";
 		}
 		{
 			String _name = "CropFieldAutoTip";
-			String _text = "×Ô¶¯ÖÖÖ²²¢ÊÕ¸îÅ©×÷Îï";
+			String _text = "è‡ªåŠ¨ç§æ¤å¹¶æ”¶å‰²å†œä½œç‰©";
 		}
 		{
 			String _name = "CropFieldSelectTip";
-			String _text = "Ñ¡ÔñÒªÖÖÖ²µÄÅ©×÷Îï.";
+			String _text = "é€‰æ‹©è¦ç§æ¤çš„å†œä½œç‰©.";
 		}
 		{
 			String _name = "CropFieldPlant";
-			String _text = "²¥ÖÖ";
+			String _text = "æ’­ç§";
 		}
 		{
 			String _name = "CropFieldHarvest";
-			String _text = "ÊÕ»ñ";
+			String _text = "æ”¶è·";
 		}
 		{
 			String _name = "CropFieldAuto";
-			String _text = "¹¤×÷";
+			String _text = "å·¥ä½œ";
 		}
 		{
 			String _name = "CropFieldSelect";
-			String _text = "Ñ¡Ôñ";
+			String _text = "é€‰æ‹©";
 		}
 		{
 			String _name = "ReturnToStorage";
-			String _text = "Ê°Æğ";
+			String _text = "æ‹¾èµ·";
 		}
 		{
 			String _name = "ReturnToStorageTip";
-			String _text = "Èç¹ûÆôÓÃ£¬ÈÎºÎÉú²úµÄ²úÆ·»á±»ÏĞ¹¤Á¢¼´°áµ½²Ö¿âÖĞ¡£Èç¹û½ûÓÃ£¬²úÆ·½«·ÖÅä¸ø¾ÓÃñ";
+			String _text = "å¦‚æœå¯ç”¨ï¼Œä»»ä½•ç”Ÿäº§çš„äº§å“ä¼šè¢«é—²å·¥ç«‹å³æ¬åˆ°ä»“åº“ä¸­ã€‚å¦‚æœç¦ç”¨ï¼Œäº§å“å°†åˆ†é…ç»™å±…æ°‘";
 		}
 		{
 			String _name = "ProductionCurrent";
-			String _text = "µ±Ç°";
+			String _text = "å½“å‰";
 		}
 		{
 			String _name = "ProductionUsed";
-			String _text = "ÒÑÊ¹ÓÃ";
+			String _text = "å·²ä½¿ç”¨";
 		}
 		{
 			String _name = "ProductionProduced";
-			String _text = "²ú³ö";
+			String _text = "äº§å‡º";
 		}
 		{
 			String _name = "PreviousUsed";
-			String _text = "ÒÑÊ¹ÓÃ (@0YRS)";
+			String _text = "å·²ä½¿ç”¨ (@0YRS)";
 		}
 		{
 			String _name = "PreviousProduced";
-			String _text = "²ú³ö (@0YRS)";
+			String _text = "äº§å‡º (@0YRS)";
 		}
 		{
 			String _name = "Limit";
-			String _text = "ÉÏÏŞ";
+			String _text = "ä¸Šé™";
 		}
 		{
 			String _name = "FuelLimit";
-			String _text = "È¼ÁÏÉÏÏŞ";
+			String _text = "ç‡ƒæ–™ä¸Šé™";
 		}
 		{
 			String _name = "FuelLimitShort";
-			String _text = "È¼ÁÏ";
+			String _text = "ç‡ƒæ–™";
 		}
 		{
 			String _name = "FuelLimitTip";
-			String _text = "´¢´æµÄÈ¼ÁÏ´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„ç‡ƒæ–™è¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "LogLimit";
-			String _text = "Ä¾²ÄÉÏÏŞ";
+			String _text = "æœ¨æä¸Šé™";
 		}
 		{
 			String _name = "LogLimitShort";
-			String _text = "Ä¾²Ä";
+			String _text = "æœ¨æ";
 		}
 		{
 			String _name = "LogLimitTip";
-			String _text = "´¢´æµÄÄ¾²Ä´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„æœ¨æè¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "HerbLimit";
-			String _text = "²İÒ©ÉÏÏŞ";
+			String _text = "è‰è¯ä¸Šé™";
 		}
 		{
 			String _name = "HerbLimitShort";
-			String _text = "²İÒ©";
+			String _text = "è‰è¯";
 		}
 		{
 			String _name = "HerbLimitTip";
-			String _text = "´¢´æµÄ²İÒ©´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„è‰è¯è¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "ToolLimit";
-			String _text = "¹¤¾ßÉÏÏŞ";
+			String _text = "å·¥å…·ä¸Šé™";
 		}
 		{
 			String _name = "ToolLimitShort";
-			String _text = "¹¤¾ß";
+			String _text = "å·¥å…·";
 		}
 		{
 			String _name = "ToolLimitTip";
-			String _text = "´¢´æµÄ¹¤¾ß´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„å·¥å…·è¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "IronLimit";
-			String _text = "ÌúÉÏÏŞ";
+			String _text = "é“ä¸Šé™";
 		}
 		{
 			String _name = "IronLimitShort";
-			String _text = "Ìú";
+			String _text = "é“";
 		}
 		{
 			String _name = "IronLimitTip";
-			String _text = "´¢´æµÄÌú´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„é“è¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "StoneLimit";
-			String _text = "Ê¯²ÄÉÏÏŞ";
+			String _text = "çŸ³æä¸Šé™";
 		}
 		{
 			String _name = "StoneLimitShort";
-			String _text = "Ê¯²Ä";
+			String _text = "çŸ³æ";
 		}
 		{
 			String _name = "StoneLimitTip";
-			String _text = "´¢´æµÄÊ¯²Ä´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„çŸ³æè¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "FoodLimit";
-			String _text = "Ê³ÎïÉÏÏŞ";
+			String _text = "é£Ÿç‰©ä¸Šé™";
 		}
 		{
 			String _name = "FoodLimitShort";
-			String _text = "Ê³Îï";
+			String _text = "é£Ÿç‰©";
 		}
 		{
 			String _name = "FoodLimitTip";
-			String _text = "´¢´æµÄÊ³Îï´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„é£Ÿç‰©è¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "ClothesLimit";
-			String _text = "ÒÂÎïÉÏÏŞ";
+			String _text = "è¡£ç‰©ä¸Šé™";
 		}
 		{
 			String _name = "ClothesLimitShort";
-			String _text = "ÒÂÎï";
+			String _text = "è¡£ç‰©";
 		}
 		{
 			String _name = "ClothesLimitTip";
-			String _text = "´¢´æµÄÒÂÎï´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„è¡£ç‰©è¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "TextileLimit";
-			String _text = "²¼ÁÏÉÏÏŞ";
+			String _text = "å¸ƒæ–™ä¸Šé™";
 		}
 		{
 			String _name = "TextileLimitShort";
-			String _text = "²¼ÁÏ";
+			String _text = "å¸ƒæ–™";
 		}
 		{
 			String _name = "TextileLimitTip";
-			String _text = "´¢´æµÄ²¼ÁÏ´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„å¸ƒæ–™è¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "AlcoholLimit";
-			String _text = "Æ¡¾ÆÉÏÏŞ";
+			String _text = "å•¤é…’ä¸Šé™";
 		}
 		{
 			String _name = "AlcoholLimitShort";
-			String _text = "Æ¡¾Æ";
+			String _text = "å•¤é…’";
 		}
 		{
 			String _name = "AlcoholLimitTip";
-			String _text = "´¢´æµÄÆ¡¾Æ´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„å•¤é…’è¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "CoalLimit";
-			String _text = "ÃºÉÏÏŞ";
+			String _text = "ç…¤ä¸Šé™";
 		}
 		{
 			String _name = "CoalLimitShort";
-			String _text = "Ãº";
+			String _text = "ç…¤";
 		}
 		{
 			String _name = "CoalLimitTip";
-			String _text = "´¢´æµÄÃº¹ı¶à£¬Ò»µ©´ïµ½ÉÏÏŞ½«»áÍ£Ö¹Éú²ú.";
+			String _text = "å‚¨å­˜çš„ç…¤è¿‡å¤šï¼Œä¸€æ—¦è¾¾åˆ°ä¸Šé™å°†ä¼šåœæ­¢ç”Ÿäº§.";
 		}
 		{
 			String _name = "VegetableLimitShort";
-			String _text = "Êß²Ë";
+			String _text = "è”¬èœ";
 		}
 		{
 			String _name = "FruitLimitShort";
-			String _text = "Ë®¹û";
+			String _text = "æ°´æœ";
 		}
 		{
 			String _name = "MeatLimitShort";
-			String _text = "ÈâÀà";
+			String _text = "è‚‰ç±»";
 		}
 		{
 			String _name = "GrainLimitShort";
-			String _text = "¹ÈÎï";
+			String _text = "è°·ç‰©";
 		}
 		{
 			String _name = "SoilQuality";
-			String _text = "ğ¤ÍÁ";
+			String _text = "é»åœŸ";
 		}
 		{
 			String _name = "OrchardHarvestTip";
-			String _text = "Á¢¼´²ÉÕª¹ûÊ÷.";
+			String _text = "ç«‹å³é‡‡æ‘˜æœæ ‘.";
 		}
 		{
 			String _name = "OrchardAutoTip";
-			String _text = "×Ô¶¯²ÉÕª.";
+			String _text = "è‡ªåŠ¨é‡‡æ‘˜.";
 		}
 		{
 			String _name = "OrchardSelectTip";
-			String _text = "Ñ¡ÔñÒªÖÖÖ²µÄ¹ûÊ÷.";
+			String _text = "é€‰æ‹©è¦ç§æ¤çš„æœæ ‘.";
 		}
 		{
 			String _name = "OrchardCutTip";
-			String _text = "¿³·¥¹ûÔ°ÄÚËùÓĞµÄÊ÷Ä¾.";
+			String _text = "ç ä¼æœå›­å†…æ‰€æœ‰çš„æ ‘æœ¨.";
 		}
 		{
 			String _name = "OrchardCut";
-			String _text = "¿³·¥";
+			String _text = "ç ä¼";
 		}
 		{
 			String _name = "PastureEmpty";
-			String _text = "Çå¿Õ";
+			String _text = "æ¸…ç©º";
 		}
 		{
 			String _name = "PastureSplit";
-			String _text = "·Ö¸ô";
+			String _text = "åˆ†éš”";
 		}
 		{
 			String _name = "PastureEmptyTip";
-			String _text = "ÒÆ³ıÄÁ³¡ÉÏËùÓĞµÄ¶¯Îï£¬ĞèÒªÁíÒ»¿éºÏÊÊµÄÄÁ³¡À´½ÓÊÕÕâĞ©¶¯Îï.";
+			String _text = "ç§»é™¤ç‰§åœºä¸Šæ‰€æœ‰çš„åŠ¨ç‰©ï¼Œéœ€è¦å¦ä¸€å—åˆé€‚çš„ç‰§åœºæ¥æ¥æ”¶è¿™äº›åŠ¨ç‰©.";
 		}
 		{
 			String _name = "PastureSplitTip";
-			String _text = "ÒÆ¶¯ÄÁ³¡ÉÏÒ»°ëµÄ¶¯Îïµ½ÁíÍâµÄÄÁ³¡£¬ĞèÒªÁíÍâÒ»¿éºÏÊÊµÄÄÁ³¡À´½ÓÊÕÕâĞ©¶¯Îï.";
+			String _text = "ç§»åŠ¨ç‰§åœºä¸Šä¸€åŠçš„åŠ¨ç‰©åˆ°å¦å¤–çš„ç‰§åœºï¼Œéœ€è¦å¦å¤–ä¸€å—åˆé€‚çš„ç‰§åœºæ¥æ¥æ”¶è¿™äº›åŠ¨ç‰©.";
 		}
 		{
 			String _name = "PastureSelectTip";
-			String _text = "Ñ¡ÔñÒªÔÚÕâ¸öÄÁ³¡ÖĞÑøÖ³µÄ¶¯Îï£¬Õâ¸öÑ¡ÏîÖ»ÄÜÔÚÄÁ³¡ÒÑÇå¿ÕÊ±Ê¹ÓÃ.";
+			String _text = "é€‰æ‹©è¦åœ¨è¿™ä¸ªç‰§åœºä¸­å…»æ®–çš„åŠ¨ç‰©ï¼Œè¿™ä¸ªé€‰é¡¹åªèƒ½åœ¨ç‰§åœºå·²æ¸…ç©ºæ—¶ä½¿ç”¨.";
 		}
 		{
 			String _name = "HerdSize";
-			String _text = "ÄÁ³¡¹æÄ£";
+			String _text = "ç‰§åœºè§„æ¨¡";
 		}
 		{
 			String _name = "HerdSizeTip";
-			String _text = "¿ØÖÆÄÁ³¡ÖĞ¶¯ÎïµÄÊıÁ¿£¬Ò»µ©³¬¹ıÏŞÖÆ¼ÒËÇÑøµÄĞó»á±»ÍÀÉ±.";
+			String _text = "æ§åˆ¶ç‰§åœºä¸­åŠ¨ç‰©çš„æ•°é‡ï¼Œä¸€æ—¦è¶…è¿‡é™åˆ¶å®¶é¥²å…»çš„ç•œä¼šè¢«å± æ€.";
 		}
 		{
 			String _name = "Trade";
-			String _text = "Ã³Ò×";
+			String _text = "è´¸æ˜“";
 		}
 		{
 			String _name = "Dismiss";
-			String _text = "½âÉ¢";
+			String _text = "è§£æ•£";
 		}
 		{
 			String _name = "DismissTip";
-			String _text = "Èç¹ûÃ»ÓĞÄãÏëÂòµÄ¶«Î÷£¬Ôò¿ÉÒÔÈÃÉÌÈËÀë¿ª.";
+			String _text = "å¦‚æœæ²¡æœ‰ä½ æƒ³ä¹°çš„ä¸œè¥¿ï¼Œåˆ™å¯ä»¥è®©å•†äººç¦»å¼€.";
 		}
 		{
 			String _name = "Total";
-			String _text = "×Ü¼Æ";
+			String _text = "æ€»è®¡";
 		}
 		{
 			String _name = "DesiredTradeTip";
-			String _text = "ÆÚÍû½»Ò×µÄÎïÆ·ÊıÁ¿.";
+			String _text = "æœŸæœ›äº¤æ˜“çš„ç‰©å“æ•°é‡.";
 		}
 		{
 			String _name = "TradeStoredTip";
-			String _text = "¿ÉÓÃÓÚ½»Ò×µÄÎïÆ·ÊıÁ¿.";
+			String _text = "å¯ç”¨äºäº¤æ˜“çš„ç‰©å“æ•°é‡.";
 		}
 		{
 			String _name = "TradeSellValueTip";
-			String _text = "ÎïÆ·³öÊÛ¼Û¸ñ.";
+			String _text = "ç‰©å“å‡ºå”®ä»·æ ¼.";
 		}
 		{
 			String _name = "TradeBuyValueTip";
-			String _text = "¸ÃÏîÄ¿µÄ¼Û¸ñ.";
+			String _text = "è¯¥é¡¹ç›®çš„ä»·æ ¼.";
 		}
 		{
 			String _name = "TradeCountTip";
-			String _text = "½»Ò×ÎïÆ·µÄÊıÁ¿.";
+			String _text = "äº¤æ˜“ç‰©å“çš„æ•°é‡.";
 		}
 		{
 			String _name = "TradeNotEnough";
-			String _text = "Äã»¹ĞèÒª @0 ±Ò²ÅÄÜÍê³É´ËÏî½»Ò×.";
+			String _text = "ä½ è¿˜éœ€è¦ @0 å¸æ‰èƒ½å®Œæˆæ­¤é¡¹äº¤æ˜“.";
 		}
 		{
 			String _name = "TradeTooMuch";
-			String _text = "ÄãÒÑ³¬¹ıÁË @0 ±Ò.";
+			String _text = "ä½ å·²è¶…è¿‡äº† @0 å¸.";
 		}
 		{
 			String _name = "TradeNoStorage";
-			String _text = "Ã»ÓĞ×ã¹»µÄ¿Õ¼ä´¢´æ½»Ò×µÄÎïÆ·.";
+			String _text = "æ²¡æœ‰è¶³å¤Ÿçš„ç©ºé—´å‚¨å­˜äº¤æ˜“çš„ç‰©å“.";
 		}
 		{
 			String _name = "TradeDesired";
-			String _text = "ĞèÇó";
+			String _text = "éœ€æ±‚";
 		}
 		{
 			String _name = "TradeCount";
-			String _text = "ÊıÁ¿";
+			String _text = "æ•°é‡";
 		}
 		{
 			String _name = "TradeItem";
-			String _text = "ÎïÆ·";
+			String _text = "ç‰©å“";
 		}
 		{
 			String _name = "TradeCost";
-			String _text = "»¨·Ñ";
+			String _text = "èŠ±è´¹";
 		}
 		{
 			String _name = "TradeValue";
-			String _text = "¼Û¸ñ";
+			String _text = "ä»·æ ¼";
 		}
 		{
 			String _name = "WeatherTip";
-			String _text = "µ±Ç°µÄÌìÆø×´¿öºÍÎÂ¶È.";
+			String _text = "å½“å‰çš„å¤©æ°”çŠ¶å†µå’Œæ¸©åº¦.";
 		}
 		{
 			String _name = "PopulationTip";
-			String _text = "³ÉÈË / Ñ§Éú / ¶ùÍ¯µÄÊıÁ¿.";
+			String _text = "æˆäºº / å­¦ç”Ÿ / å„¿ç«¥çš„æ•°é‡.";
 		}
 		{
 			String _name = "WoodTip";
-			String _text = "Ä¾²Ä´¢´æÁ¿.";
+			String _text = "æœ¨æå‚¨å­˜é‡.";
 		}
 		{
 			String _name = "StoneTip";
-			String _text = "Ê¯²Ä´¢´æÁ¿.";
+			String _text = "çŸ³æå‚¨å­˜é‡.";
 		}
 		{
 			String _name = "IronTip";
-			String _text = "Ìú´¢´æÁ¿.";
+			String _text = "é“å‚¨å­˜é‡.";
 		}
 		{
 			String _name = "FirewoodTip";
-			String _text = "²ñ»ğ´¢´æÁ¿.";
+			String _text = "æŸ´ç«å‚¨å­˜é‡.";
 		}
 		{
 			String _name = "ToolsTip";
-			String _text = "¹¤¾ß´¢´æÁ¿.";
+			String _text = "å·¥å…·å‚¨å­˜é‡.";
 		}
 		{
 			String _name = "FoodTip";
-			String _text = "Ê³Îï´¢´æÁ¿.";
+			String _text = "é£Ÿç‰©å‚¨å­˜é‡.";
 		}
 		{
 			String _name = "HerbsTip";
-			String _text = "Ò©²İ´¢´æÁ¿.";
+			String _text = "è¯è‰å‚¨å­˜é‡.";
 		}
 		{
 			String _name = "ClothesTip";
-			String _text = "ÒÂÎï´¢´æÁ¿.";
+			String _text = "è¡£ç‰©å‚¨å­˜é‡.";
 		}
 		{
 			String _name = "AlcoholTip";
-			String _text = "¾Æ´¢´æÁ¿.";
+			String _text = "é…’å‚¨å­˜é‡.";
 		}
 		{
 			String _name = "CoalTip";
-			String _text = "Ãº´¢´æÁ¿.";
+			String _text = "ç…¤å‚¨å­˜é‡.";
 		}
 		{
 			String _name = "SeasonTip";
-			String _text = "µ±Ç°µÄ¼¾½Ú£¬ÄêÔÂÈÕ.";
+			String _text = "å½“å‰çš„å­£èŠ‚ï¼Œå¹´æœˆæ—¥.";
 		}
 		{
 			String _name = "HealthTip";
-			String _text = "¾ÓÃñµÄÆ½¾ù½¡¿µË®Æ½.";
+			String _text = "å±…æ°‘çš„å¹³å‡å¥åº·æ°´å¹³.";
 		}
 		{
 			String _name = "HappyTip";
-			String _text = "¾ÓÃñµÄÆ½¾ùĞÒ¸£Ö¸Êı.";
+			String _text = "å±…æ°‘çš„å¹³å‡å¹¸ç¦æŒ‡æ•°.";
 		}
 		{
 			String _name = "StatusHomeTip";
-			String _text = "ÓĞ¾ÓÃñÎŞ¼Ò¿É¹é£¡µã»÷ÕâÀïÒÔÑ¡ÖĞ²¢ÔÚËûÃÇÖ®¼äÑ­»·.";
+			String _text = "æœ‰å±…æ°‘æ— å®¶å¯å½’ï¼ç‚¹å‡»è¿™é‡Œä»¥é€‰ä¸­å¹¶åœ¨ä»–ä»¬ä¹‹é—´å¾ªç¯.";
 		}
 		{
 			String _name = "StatusFoodTip";
-			String _text = "ÓĞ¾ÓÃñÕıÔÚÈÌÊÜ¼¢¶ö£¡µã»÷ÕâÀïÒÔÑ¡ÖĞ²¢ÔÚËûÃÇÖ®¼äÑ­»·.";
+			String _text = "æœ‰å±…æ°‘æ­£åœ¨å¿å—é¥¥é¥¿ï¼ç‚¹å‡»è¿™é‡Œä»¥é€‰ä¸­å¹¶åœ¨ä»–ä»¬ä¹‹é—´å¾ªç¯.";
 		}
 		{
 			String _name = "StatusColdTip";
-			String _text = "ÓĞ¾ÓÃñÈÌÊÜº®Àä£¡µã»÷ÕâÀïÒÔÑ¡ÖĞ²¢ÔÚËûÃÇÖ®¼äÑ­»·.";
+			String _text = "æœ‰å±…æ°‘å¿å—å¯’å†·ï¼ç‚¹å‡»è¿™é‡Œä»¥é€‰ä¸­å¹¶åœ¨ä»–ä»¬ä¹‹é—´å¾ªç¯.";
 		}
 		{
 			String _name = "StatusJobTip";
-			String _text = "ÓĞ¾ÓÃñÃ»ÓĞ¹¤×÷£¡µã»÷ÕâÀïÒÔÑ¡ÖĞ²¢ÔÚËûÃÇÖ®¼äÑ­»·.";
+			String _text = "æœ‰å±…æ°‘æ²¡æœ‰å·¥ä½œï¼ç‚¹å‡»è¿™é‡Œä»¥é€‰ä¸­å¹¶åœ¨ä»–ä»¬ä¹‹é—´å¾ªç¯.";
 		}
 		{
 			String _name = "StatusToolTip";
-			String _text = "ÓĞ¾ÓÃñÃ»ÓĞ¹¤¾ß¿ÉÓÃ£¡µã»÷ÕâÀïÒÔÑ¡ÖĞ²¢ÔÚËûÃÇÖ®¼äÑ­»·.";
+			String _text = "æœ‰å±…æ°‘æ²¡æœ‰å·¥å…·å¯ç”¨ï¼ç‚¹å‡»è¿™é‡Œä»¥é€‰ä¸­å¹¶åœ¨ä»–ä»¬ä¹‹é—´å¾ªç¯.";
 		}
 		{
 			String _name = "StatusDiseaseTip";
-			String _text = "ÓĞ¾ÓÃñÉú²¡ÁË£¡µã»÷ÕâÀïÒÔÑ¡ÖĞ²¢ÔÚËûÃÇÖ®¼äÑ­»·.";
+			String _text = "æœ‰å±…æ°‘ç”Ÿç—…äº†ï¼ç‚¹å‡»è¿™é‡Œä»¥é€‰ä¸­å¹¶åœ¨ä»–ä»¬ä¹‹é—´å¾ªç¯.";
 		}
 		{
 			String _name = "StatusHome2Tip";
-			String _text = "¾ÓÃñÃ»ÓĞ·¿Îİ¾Ó×¡£¡";
+			String _text = "å±…æ°‘æ²¡æœ‰æˆ¿å±‹å±…ä½ï¼";
 		}
 		{
 			String _name = "StatusFood2Tip";
-			String _text = "¾ÓÃñÕıÔÚÈÌÊÜ¼¢¶ö£¡";
+			String _text = "å±…æ°‘æ­£åœ¨å¿å—é¥¥é¥¿ï¼";
 		}
 		{
 			String _name = "StatusCold2Tip";
-			String _text = "¾ÓÃñÕıÔÚÊÜ¶³£¡";
+			String _text = "å±…æ°‘æ­£åœ¨å—å†»ï¼";
 		}
 		{
 			String _name = "StatusJob2Tip";
-			String _text = "¾ÓÃñÃ»ÓĞ¹¤×÷£¡";
+			String _text = "å±…æ°‘æ²¡æœ‰å·¥ä½œï¼";
 		}
 		{
 			String _name = "StatusTool2Tip";
-			String _text = "¾ÓÃñµÄ¹¤¾ßÒÑ¾­Ëğ»µ!";
+			String _text = "å±…æ°‘çš„å·¥å…·å·²ç»æŸå!";
 		}
 		{
 			String _name = "StatusDisease2Tip";
-			String _text = "¾ÓÃñÉú²¡ÁË£¡";
+			String _text = "å±…æ°‘ç”Ÿç—…äº†ï¼";
 		}
 		{
 			String _name = "FemaleTip";
-			String _text = "Å®ĞÔ";
+			String _text = "å¥³æ€§";
 		}
 		{
 			String _name = "MaleTip";
-			String _text = "ÄĞĞÔ";
+			String _text = "ç”·æ€§";
 		}
 		{
 			String _name = "CitizenName";
-			String _text = "ĞÕÃû";
+			String _text = "å§“å";
 		}
 		{
 			String _name = "CitizenAge";
-			String _text = "ÄêÁä";
+			String _text = "å¹´é¾„";
 		}
 		{
 			String _name = "CitizenHealth";
-			String _text = "½¡¿µ";
+			String _text = "å¥åº·";
 		}
 		{
 			String _name = "CitizenProfession";
-			String _text = "¹¤×÷";
+			String _text = "å·¥ä½œ";
 		}
 		{
 			String _name = "CitizenGender";
-			String _text = "ĞÔ±ğ";
+			String _text = "æ€§åˆ«";
 		}
 		{
 			String _name = "CitizenEducated";
-			String _text = "½ÌÓı";
+			String _text = "æ•™è‚²";
 		}
 		{
 			String _name = "CitizenClothing";
-			String _text = "ÒÂÎï";
+			String _text = "è¡£ç‰©";
 		}
 		{
 			String _name = "CitizenTool";
-			String _text = "¹¤¾ß";
+			String _text = "å·¥å…·";
 		}
 		{
 			String _name = "CitizenHappy";
-			String _text = "ĞÒ¸£¶È";
+			String _text = "å¹¸ç¦åº¦";
 		}
 		{
 			String _name = "GotoProfessionTip";
-			String _text = "²é¿´¾ÓÃñµÄ»î¶¯µØµã.";
+			String _text = "æŸ¥çœ‹å±…æ°‘çš„æ´»åŠ¨åœ°ç‚¹.";
 		}
 		{
 			String _name = "GotoHomeTip";
-			String _text = "²é¿´¾ÓÃñµÄ×¡·¿.";
+			String _text = "æŸ¥çœ‹å±…æ°‘çš„ä½æˆ¿.";
 		}
 		{
 			String _name = "GotoEventTip";
-			String _text = "²é¿´ÊÂ¼şµÄÎ»ÖÃ¡£";
+			String _text = "æŸ¥çœ‹äº‹ä»¶çš„ä½ç½®ã€‚";
 		}
 		{
 			String _name = "Product";
-			String _text = "²úÆ·";
+			String _text = "äº§å“";
 		}
 		{
 			String _name = "ProductTip";
-			String _text = "¿ØÖÆ²úÆ·²úÁ¿.";
+			String _text = "æ§åˆ¶äº§å“äº§é‡.";
 		}
 		{
 			String _name = "Stats";
-			String _text = "×´Ì¬";
+			String _text = "çŠ¶æ€";
 		}
 		{
 			String _name = "Professions";
-			String _text = "Ö°Òµ";
+			String _text = "èŒä¸š";
 		}
 		{
 			String _name = "Profession";
-			String _text = "×¨Òµ";
+			String _text = "ä¸“ä¸š";
 		}
 		{
 			String _name = "Workers";
-			String _text = "·ÖÅÉ";
+			String _text = "åˆ†æ´¾";
 		}
 		{
 			String _name = "Jobs";
-			String _text = "¹¤×÷";
+			String _text = "å·¥ä½œ";
 		}
 		{
 			String _name = "Locations";
-			String _text = "µØµã";
+			String _text = "åœ°ç‚¹";
 		}
 		{
 			String _name = "Goto";
-			String _text = "×ªµ½";
+			String _text = "è½¬åˆ°";
 		}
 		{
 			String _name = "Show";
-			String _text = "ÏÔÊ¾";
+			String _text = "æ˜¾ç¤º";
 		}
 		{
 			String _name = "Sort";
-			String _text = "Æ·ÖÖ";
+			String _text = "å“ç§";
 		}
 		{
 			String _name = "Year";
-			String _text = "Äê";
+			String _text = "å¹´";
 		}
 		{
 			String _name = "Month";
-			String _text = "¼¾½Ú";
+			String _text = "å­£èŠ‚";
 		}
 		{
 			String _name = "Homes";
-			String _text = "¼ÒÍ¥";
+			String _text = "å®¶åº­";
 		}
 		{
 			String _name = "Citizens";
-			String _text = "¾ÓÃñ";
+			String _text = "å±…æ°‘";
 		}
 		{
 			String _name = "Adults";
-			String _text = "³ÉÄêÈË";
+			String _text = "æˆå¹´äºº";
 		}
 		{
 			String _name = "Students";
-			String _text = "Ñ§Éú";
+			String _text = "å­¦ç”Ÿ";
 		}
 		{
 			String _name = "Children";
-			String _text = "¶ùÍ¯";
+			String _text = "å„¿ç«¥";
 		}
 		{
 			String _name = "Clothed";
-			String _text = "ÒÂÎï";
+			String _text = "è¡£ç‰©";
 		}
 		{
 			String _name = "Educated";
-			String _text = "½ÌÓı";
+			String _text = "æ•™è‚²";
 		}
 		{
 			String _name = "Health";
-			String _text = "½¡¿µ";
+			String _text = "å¥åº·";
 		}
 		{
 			String _name = "Happiness";
-			String _text = "ĞÒ¸£";
+			String _text = "å¹¸ç¦";
 		}
 		{
 			String _name = "Families";
-			String _text = "¼ÒÍ¥";
+			String _text = "å®¶åº­";
 		}
 		{
 			String _name = "Topic";
-			String _text = "Ö÷Ìâ";
+			String _text = "ä¸»é¢˜";
 		}
 		{
 			String _name = "HelpBackTip";
-			String _text = "µã»÷·µ»Ø.";
+			String _text = "ç‚¹å‡»è¿”å›.";
 		}
 		{
 			String _name = "HelpForwardTip";
-			String _text = "µã»÷Ç°½ø.";
+			String _text = "ç‚¹å‡»å‰è¿›.";
 		}
 		{
 			String _name = "BuildingStatusPausedTip";
-			String _text = "·¿ÎİÔİÍ£½¨Ôì.";
+			String _text = "æˆ¿å±‹æš‚åœå»ºé€ .";
 		}
 		{
 			String _name = "BuildingStatusDisabledTip";
-			String _text = "ÔÚÕâ¸öµØµãÃ»ÓĞ¹¤×÷.";
+			String _text = "åœ¨è¿™ä¸ªåœ°ç‚¹æ²¡æœ‰å·¥ä½œ.";
 		}
 		{
 			String _name = "BuildingStatusLimitTip";
-			String _text = "ÒÑ¾­´ïµ½×ÊÔ´µÄÉÏÏŞ";
+			String _text = "å·²ç»è¾¾åˆ°èµ„æºçš„ä¸Šé™";
 		}
 		{
 			String _name = "BuildingStatusNoWorkTip";
-			String _text = "È±·¦µ±Ç°¹¤×÷ÖĞĞèÒªµÄ²ÄÁÏ.";
+			String _text = "ç¼ºä¹å½“å‰å·¥ä½œä¸­éœ€è¦çš„ææ–™.";
 		}
 		{
 			String _name = "BuildingStatusNoWorkersTip";
-			String _text = "ÔÚÕâÀïÃ»ÓĞ¿ÉÒÔ¹¤×÷µÄÊĞÃñ.";
+			String _text = "åœ¨è¿™é‡Œæ²¡æœ‰å¯ä»¥å·¥ä½œçš„å¸‚æ°‘.";
 		}
 		{
 			String _name = "BuildingStatusDestroyTip";
-			String _text = "·¿ÎİÕıÔÚ±»ÒÆ³ı.";
+			String _text = "æˆ¿å±‹æ­£åœ¨è¢«ç§»é™¤.";
 		}
 		{
 			String _name = "ThisYear";
-			String _text = "½ñÄê";
+			String _text = "ä»Šå¹´";
 		}
 		{
 			String _name = "PrevYear";
-			String _text = "µ±Ç°µÄ¼¾½Ú";
+			String _text = "å½“å‰çš„å­£èŠ‚";
 		}
 		{
 			String _name = "EventNotifyDeathOldTip";
-			String _text = "ÇĞ»»µ¯³öÄêÀÏËÀÍöÍ¨Öª.";
+			String _text = "åˆ‡æ¢å¼¹å‡ºå¹´è€æ­»äº¡é€šçŸ¥.";
 		}
 		{
 			String _name = "EventNotifyDeathTip";
-			String _text = "ÇĞ»»µ¯³öËÀÍöÍ¨Öª.";
+			String _text = "åˆ‡æ¢å¼¹å‡ºæ­»äº¡é€šçŸ¥.";
 		}
 		{
 			String _name = "EventNotifyDisasterTip";
-			String _text = "ÇĞ»»µ¯³öÔÖº¦Í¨Öª.";
+			String _text = "åˆ‡æ¢å¼¹å‡ºç¾å®³é€šçŸ¥.";
 		}
 		{
 			String _name = "EventNotifyStorageTip";
-			String _text = "ÇĞ»»×ÊÔ´ºÍ´¢´æÎï¼ÛÖµÏûÏ¢µ¯¿ò.";
+			String _text = "åˆ‡æ¢èµ„æºå’Œå‚¨å­˜ç‰©ä»·å€¼æ¶ˆæ¯å¼¹æ¡†.";
 		}
 		{
 			String _name = "EventNotifyTownTip";
-			String _text = "ÇĞ»»³ÇÊĞÊÂ¼şÏûÏ¢µ¯¿ò.";
+			String _text = "åˆ‡æ¢åŸå¸‚äº‹ä»¶æ¶ˆæ¯å¼¹æ¡†.";
 		}
 	]
 }
@@ -1694,183 +1694,183 @@ StringTable gameKeys
 		}
 		{
 			String _name = "Mouse_Left";
-			String _text = "Ñ¡Ôñ";
+			String _text = "é€‰æ‹©";
 		}
 		{
 			String _name = "Mouse_Right";
-			String _text = "È¡Ïû";
+			String _text = "å–æ¶ˆ";
 		}
 		{
 			String _name = "Mouse_Middle";
-			String _text = "Ëõ·ÅÊÓ½Ç";
+			String _text = "ç¼©æ”¾è§†è§’";
 		}
 		{
 			String _name = "Cancel";
-			String _text = "²Ëµ¥/ÔİÍ£";
+			String _text = "èœå•/æš‚åœ";
 		}
 		{
 			String _name = "Camera_RotateLeft";
-			String _text = "Ïò×ó×ª¶¯ÊÓ½Ç";
+			String _text = "å‘å·¦è½¬åŠ¨è§†è§’";
 		}
 		{
 			String _name = "Camera_RotateRight";
-			String _text = "ÏòÓÒ×ª¶¯ÊÓ½Ç";
+			String _text = "å‘å³è½¬åŠ¨è§†è§’";
 		}
 		{
 			String _name = "Camera_Forward";
-			String _text = "ÏòÇ°ÒÆ¶¯ÊÓ½Ç";
+			String _text = "å‘å‰ç§»åŠ¨è§†è§’";
 		}
 		{
 			String _name = "Camera_Back";
-			String _text = "ÏòºóÒÆ¶¯ÊÓ½Ç";
+			String _text = "å‘åç§»åŠ¨è§†è§’";
 		}
 		{
 			String _name = "Camera_Left";
-			String _text = "Ïò×óÒÆ¶¯ÊÓ½Ç";
+			String _text = "å‘å·¦ç§»åŠ¨è§†è§’";
 		}
 		{
 			String _name = "Camera_Right";
-			String _text = "ÏòÓÒÒÆ¶¯ÊÓ½Ç";
+			String _text = "å‘å³ç§»åŠ¨è§†è§’";
 		}
 		{
 			String _name = "Camera_ZoomIn";
-			String _text = "·Å´óÊÓ½Ç";
+			String _text = "æ”¾å¤§è§†è§’";
 		}
 		{
 			String _name = "Camera_ZoomOut";
-			String _text = "ËõĞ¡ÊÓ½Ç";
+			String _text = "ç¼©å°è§†è§’";
 		}
 		{
 			String _name = "Camera_PitchUp";
-			String _text = "ÏòÉÏ";
+			String _text = "å‘ä¸Š";
 		}
 		{
 			String _name = "Camera_PitchDown";
-			String _text = "ÏòÏÂ";
+			String _text = "å‘ä¸‹";
 		}
 		{
 			String _name = "Structure_Left";
-			String _text = "Ïò×ó×ª¶¯½¨ÖşÎï";
+			String _text = "å‘å·¦è½¬åŠ¨å»ºç­‘ç‰©";
 		}
 		{
 			String _name = "Structure_Right";
-			String _text = "ÏòÓÒ×ª¶¯½¨ÖşÎï";
+			String _text = "å‘å³è½¬åŠ¨å»ºç­‘ç‰©";
 		}
 		{
 			String _name = "Structure_Type";
-			String _text = "¸Ä±ä½¨ÖşÎïÄ£Ê½";
+			String _text = "æ”¹å˜å»ºç­‘ç‰©æ¨¡å¼";
 		}
 		{
 			String _name = "Toggle_PathMethod";
-			String _text = "Â·¾¶¿ØÖÆ";
+			String _text = "è·¯å¾„æ§åˆ¶";
 		}
 		{
 			String _name = "Pause";
-			String _text = "ÔİÍ£";
+			String _text = "æš‚åœ";
 		}
 		{
 			String _name = "Toolbar0";
-			String _text = "Ä£ÄâËÙ¶È";
+			String _text = "æ¨¡æ‹Ÿé€Ÿåº¦";
 		}
 		{
 			String _name = "Toolbar1";
-			String _text = "¹¤¾ßºÍ±¨¸æ";
+			String _text = "å·¥å…·å’ŒæŠ¥å‘Š";
 		}
 		{
 			String _name = "Toolbar2";
-			String _text = "·¿ÎİÓë×¡·¿";
+			String _text = "æˆ¿å±‹ä¸ä½æˆ¿";
 		}
 		{
 			String _name = "Toolbar3";
-			String _text = "µÀÂ·ºÍÇÅÁº";
+			String _text = "é“è·¯å’Œæ¡¥æ¢";
 		}
 		{
 			String _name = "Toolbar4";
-			String _text = "²Ö¿â¡¢¼¯ÊĞºÍ½»Ò×Ëù";
+			String _text = "ä»“åº“ã€é›†å¸‚å’Œäº¤æ˜“æ‰€";
 		}
 		{
 			String _name = "Toolbar5";
-			String _text = "³ÇÕò·şÎñ";
+			String _text = "åŸé•‡æœåŠ¡";
 		}
 		{
 			String _name = "Toolbar6";
-			String _text = "Ê³ÎïÉú²ú";
+			String _text = "é£Ÿç‰©ç”Ÿäº§";
 		}
 		{
 			String _name = "Toolbar7";
-			String _text = "×ÊÔ´Éú²ú";
+			String _text = "èµ„æºç”Ÿäº§";
 		}
 		{
 			String _name = "Toolbar8";
-			String _text = "Ïû³ıºÍ»Ùµô¹¤¾ßÀ¸";
+			String _text = "æ¶ˆé™¤å’Œæ¯æ‰å·¥å…·æ ";
 		}
 		{
 			String _name = "Screenshot";
-			String _text = "½ØÆÁ (ÎŞUI)";
+			String _text = "æˆªå± (æ— UI)";
 		}
 		{
 			String _name = "ScreenshotUI";
-			String _text = "½ØÆÁ";
+			String _text = "æˆªå±";
 		}
 		{
 			String _name = "Tool0";
-			String _text = "¿ì½İ¼ü 1";
+			String _text = "å¿«æ·é”® 1";
 		}
 		{
 			String _name = "Tool1";
-			String _text = "¿ì½İ¼ü 2";
+			String _text = "å¿«æ·é”® 2";
 		}
 		{
 			String _name = "Tool2";
-			String _text = "¿ì½İ¼ü 3";
+			String _text = "å¿«æ·é”® 3";
 		}
 		{
 			String _name = "Tool3";
-			String _text = "¿ì½İ¼ü 4";
+			String _text = "å¿«æ·é”® 4";
 		}
 		{
 			String _name = "Tool4";
-			String _text = "¿ì½İ¼ü 5";
+			String _text = "å¿«æ·é”® 5";
 		}
 		{
 			String _name = "Tool5";
-			String _text = "¿ì½İ¼ü 6";
+			String _text = "å¿«æ·é”® 6";
 		}
 		{
 			String _name = "Tool6";
-			String _text = "¿ì½İ¼ü 7";
+			String _text = "å¿«æ·é”® 7";
 		}
 		{
 			String _name = "Tool7";
-			String _text = "¿ì½İ¼ü 8";
+			String _text = "å¿«æ·é”® 8";
 		}
 		{
 			String _name = "Tool8";
-			String _text = "¿ì½İ¼ü 9";
+			String _text = "å¿«æ·é”® 9";
 		}
 		{
 			String _name = "Tool9";
-			String _text = "¿ì½İ¼ü 10";
+			String _text = "å¿«æ·é”® 10";
 		}
 		{
 			String _name = "Camera0";
-			String _text = "±£´æÓÎÏ·ÊÓ½Ç 1";
+			String _text = "ä¿å­˜æ¸¸æˆè§†è§’ 1";
 		}
 		{
 			String _name = "Camera1";
-			String _text = "±£´æÓÎÏ·ÊÓ½Ç 2";
+			String _text = "ä¿å­˜æ¸¸æˆè§†è§’ 2";
 		}
 		{
 			String _name = "Camera2";
-			String _text = "±£´æÓÎÏ·ÊÓ½Ç 3";
+			String _text = "ä¿å­˜æ¸¸æˆè§†è§’ 3";
 		}
 		{
 			String _name = "Camera3";
-			String _text = "±£´æÓÎÏ·ÊÓ½Ç 4";
+			String _text = "ä¿å­˜æ¸¸æˆè§†è§’ 4";
 		}
 		{
 			String _name = "Camera4";
-			String _text = "±£´æÓÎÏ·ÊÓ½Ç 5";
+			String _text = "ä¿å­˜æ¸¸æˆè§†è§’ 5";
 		}
 	]
 }
@@ -1900,11 +1900,11 @@ StringTable globalNames
 	[ 
 		{
 			String _name = "Autosave";
-			String _text = "×Ô¶¯´æµµ";
+			String _text = "è‡ªåŠ¨å­˜æ¡£";
 		}
 		{
 			String _name = "Corrupt";
-			String _text = "Ëğ»µ";
+			String _text = "æŸå";
 		}
 	]
 }
@@ -1915,155 +1915,155 @@ StringTable graphKeys
 	[ 
 		{
 			String _name = "Record0";
-			String _text = "ÈË¿Ú";
+			String _text = "äººå£";
 		}
 		{
 			String _name = "Record1";
-			String _text = "³ÉÈË";
+			String _text = "æˆäºº";
 		}
 		{
 			String _name = "Record2";
-			String _text = "Ñ§Éú";
+			String _text = "å­¦ç”Ÿ";
 		}
 		{
 			String _name = "Record3";
-			String _text = "¶ùÍ¯";
+			String _text = "å„¿ç«¥";
 		}
 		{
 			String _name = "Record4";
-			String _text = "½¡¿µ";
+			String _text = "å¥åº·";
 		}
 		{
 			String _name = "Record5";
-			String _text = "½ÌÓı";
+			String _text = "æ•™è‚²";
 		}
 		{
 			String _name = "Record6";
-			String _text = "ĞÒ¸£";
+			String _text = "å¹¸ç¦";
 		}
 		{
 			String _name = "Record7";
-			String _text = "ÒÂÎï";
+			String _text = "è¡£ç‰©";
 		}
 		{
 			String _name = "Record8";
-			String _text = "Ä¾²Ä";
+			String _text = "æœ¨æ";
 		}
 		{
 			String _name = "Record9";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record10";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 		{
 			String _name = "Record11";
-			String _text = "Ê¯²Ä";
+			String _text = "çŸ³æ";
 		}
 		{
 			String _name = "Record12";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record13";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 		{
 			String _name = "Record14";
-			String _text = "Ìú";
+			String _text = "é“";
 		}
 		{
 			String _name = "Record15";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record16";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 		{
 			String _name = "Record17";
-			String _text = "²ñ»ğ";
+			String _text = "æŸ´ç«";
 		}
 		{
 			String _name = "Record18";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record19";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 		{
 			String _name = "Record20";
-			String _text = "¹¤¾ß";
+			String _text = "å·¥å…·";
 		}
 		{
 			String _name = "Record21";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record22";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 		{
 			String _name = "Record23";
-			String _text = "Ê³Îï";
+			String _text = "é£Ÿç‰©";
 		}
 		{
 			String _name = "Record24";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record25";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 		{
 			String _name = "Record26";
-			String _text = "²İÒ©";
+			String _text = "è‰è¯";
 		}
 		{
 			String _name = "Record27";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record28";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 		{
 			String _name = "Record29";
-			String _text = "ÒÂÎï";
+			String _text = "è¡£ç‰©";
 		}
 		{
 			String _name = "Record30";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record31";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 		{
 			String _name = "Record32";
-			String _text = "¾Æ";
+			String _text = "é…’";
 		}
 		{
 			String _name = "Record33";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record34";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 		{
 			String _name = "Record35";
-			String _text = "Ãº";
+			String _text = "ç…¤";
 		}
 		{
 			String _name = "Record36";
-			String _text = "Ê¹ÓÃ";
+			String _text = "ä½¿ç”¨";
 		}
 		{
 			String _name = "Record37";
-			String _text = "Éú²ú";
+			String _text = "ç”Ÿäº§";
 		}
 	]
 }
@@ -2074,51 +2074,51 @@ StringTable graphTypes
 	[ 
 		{
 			String _name = "Type0";
-			String _text = "ÈË¿Ú";
+			String _text = "äººå£";
 		}
 		{
 			String _name = "Type1";
-			String _text = "ÊĞÃñ";
+			String _text = "å¸‚æ°‘";
 		}
 		{
 			String _name = "Type2";
-			String _text = "Ê³Îï";
+			String _text = "é£Ÿç‰©";
 		}
 		{
 			String _name = "Type3";
-			String _text = "Ä¾²Ä";
+			String _text = "æœ¨æ";
 		}
 		{
 			String _name = "Type4";
-			String _text = "Ê¯²Ä";
+			String _text = "çŸ³æ";
 		}
 		{
 			String _name = "Type5";
-			String _text = "Ìú";
+			String _text = "é“";
 		}
 		{
 			String _name = "Type6";
-			String _text = "²ñ»ğ";
+			String _text = "æŸ´ç«";
 		}
 		{
 			String _name = "Type7";
-			String _text = "Ãº";
+			String _text = "ç…¤";
 		}
 		{
 			String _name = "Type8";
-			String _text = "¹¤¾ß";
+			String _text = "å·¥å…·";
 		}
 		{
 			String _name = "Type9";
-			String _text = "²İÒ©";
+			String _text = "è‰è¯";
 		}
 		{
 			String _name = "Type10";
-			String _text = "ÒÂÎï";
+			String _text = "è¡£ç‰©";
 		}
 		{
 			String _name = "Type11";
-			String _text = "¾Æ";
+			String _text = "é…’";
 		}
 	]
 }
@@ -2129,35 +2129,35 @@ StringTable graphYears
 	[ 
 		{
 			String _name = "Year0";
-			String _text = "1Äê";
+			String _text = "1å¹´";
 		}
 		{
 			String _name = "Year1";
-			String _text = "2Äê";
+			String _text = "2å¹´";
 		}
 		{
 			String _name = "Year2";
-			String _text = "5Äê";
+			String _text = "5å¹´";
 		}
 		{
 			String _name = "Year3";
-			String _text = "10Äê";
+			String _text = "10å¹´";
 		}
 		{
 			String _name = "Year4";
-			String _text = "25Äê";
+			String _text = "25å¹´";
 		}
 		{
 			String _name = "Year5";
-			String _text = "50Äê";
+			String _text = "50å¹´";
 		}
 		{
 			String _name = "Year6";
-			String _text = "100Äê";
+			String _text = "100å¹´";
 		}
 		{
 			String _name = "Now";
-			String _text = "µ±Ç°";
+			String _text = "å½“å‰";
 		}
 	]
 }
@@ -2183,15 +2183,15 @@ StringTable inventoryType
 	[ 
 		{
 			String _name = "Type0";
-			String _text = "ÔÚ²Ö¿âµÄÎïÆ·";
+			String _text = "åœ¨ä»“åº“çš„ç‰©å“";
 		}
 		{
 			String _name = "Type1";
-			String _text = "ÔÚÃ³Ò×Õ¾µÄÎïÆ·";
+			String _text = "åœ¨è´¸æ˜“ç«™çš„ç‰©å“";
 		}
 		{
 			String _name = "Type2";
-			String _text = "ÔÚ·¿ÎİµÄÎïÆ·";
+			String _text = "åœ¨æˆ¿å±‹çš„ç‰©å“";
 		}
 	]
 }
@@ -2757,155 +2757,155 @@ StringTable loadingDetails
 		}
 		{
 			String _name = "Loading1";
-			String _text = "£¨Ì§¸ßÉ½·å£©";
+			String _text = "ï¼ˆæŠ¬é«˜å±±å³°ï¼‰";
 		}
 		{
 			String _name = "Loading2";
-			String _text = "£¨¿ªÔä½­º£ºş²´£©";
+			String _text = "ï¼ˆå¼€å‡¿æ±Ÿæµ·æ¹–æ³Šï¼‰";
 		}
 		{
 			String _name = "Loading3";
-			String _text = "£¨Æ½»¬ºÓ¹È£©";
+			String _text = "ï¼ˆå¹³æ»‘æ²³è°·ï¼‰";
 		}
 		{
 			String _name = "Loading4";
-			String _text = "£¨ÇÖÊ´µØĞÎ£©";
+			String _text = "ï¼ˆä¾µèš€åœ°å½¢ï¼‰";
 		}
 		{
 			String _name = "Loading5";
-			String _text = "£¨²¥ÖÖÓıÃç£©";
+			String _text = "ï¼ˆæ’­ç§è‚²è‹—ï¼‰";
 		}
 		{
 			String _name = "Loading6";
-			String _text = "£¨²éÕÒÒ°Éú¶¯Îï£©";
+			String _text = "ï¼ˆæŸ¥æ‰¾é‡ç”ŸåŠ¨ç‰©ï¼‰";
 		}
 		{
 			String _name = "Loading7";
-			String _text = "£¨½«Ä³Ğ©ÈË´Ó¹ÊÍÁÁ÷·Å£©";
+			String _text = "ï¼ˆå°†æŸäº›äººä»æ•…åœŸæµæ”¾ï¼‰";
 		}
 		{
 			String _name = "Loading8";
-			String _text = "£¨ÔÚºÓÁ÷ÖĞ·ÅÓã£©";
+			String _text = "ï¼ˆåœ¨æ²³æµä¸­æ”¾é±¼ï¼‰";
 		}
 		{
 			String _name = "Loading9";
-			String _text = "£¨µÈºò±ù´¨ÏûÍË£©";
+			String _text = "ï¼ˆç­‰å€™å†°å·æ¶ˆé€€ï¼‰";
 		}
 		{
 			String _name = "Loading10";
-			String _text = "£¨·ÅÖÃÌú¿ó£©";
+			String _text = "ï¼ˆæ”¾ç½®é“çŸ¿ï¼‰";
 		}
 		{
 			String _name = "Loading11";
-			String _text = "£¨·ÅÖÃÃº¿ó£©";
+			String _text = "ï¼ˆæ”¾ç½®ç…¤çŸ¿ï¼‰";
 		}
 		{
 			String _name = "Loading12";
-			String _text = "£¨¸øµØĞÎÉÏÉ«£©";
+			String _text = "ï¼ˆç»™åœ°å½¢ä¸Šè‰²ï¼‰";
 		}
 		{
 			String _name = "Loading13";
-			String _text = "£¨ÕÒÑ°ÑòÈº£©";
+			String _text = "ï¼ˆæ‰¾å¯»ç¾Šç¾¤ï¼‰";
 		}
 		{
 			String _name = "Loading14";
-			String _text = "£¨µÈ´ı²İÒ©Éú³¤£©";
+			String _text = "ï¼ˆç­‰å¾…è‰è¯ç”Ÿé•¿ï¼‰";
 		}
 		{
 			String _name = "Loading15";
-			String _text = "£¨²éÕÒÆğµã£©";
+			String _text = "ï¼ˆæŸ¥æ‰¾èµ·ç‚¹ï¼‰";
 		}
 		{
 			String _name = "Loading16";
-			String _text = "£¨È·¶¨ÌìÆøÑ­»·£©";
+			String _text = "ï¼ˆç¡®å®šå¤©æ°”å¾ªç¯ï¼‰";
 		}
 		{
 			String _name = "Loading17";
-			String _text = "£¨¼ì²éËæ»úÊı·¢ÉúÆ÷£©";
+			String _text = "ï¼ˆæ£€æŸ¥éšæœºæ•°å‘ç”Ÿå™¨ï¼‰";
 		}
 		{
 			String _name = "Loading18";
-			String _text = "£¨ÂäÊµÏû·À°²È«´ëÊ©£©";
+			String _text = "ï¼ˆè½å®æ¶ˆé˜²å®‰å…¨æªæ–½ï¼‰";
 		}
 		{
 			String _name = "Loading19";
-			String _text = "£¨µÖÓùÁú¾í·ç£©";
+			String _text = "ï¼ˆæŠµå¾¡é¾™å·é£ï¼‰";
 		}
 		{
 			String _name = "Loading20";
-			String _text = "£¨Í¶ÉäÒõÓ°£©";
+			String _text = "ï¼ˆæŠ•å°„é˜´å½±ï¼‰";
 		}
 		{
 			String _name = "Loading21";
-			String _text = "£¨³õÊ¼»¯·ş×°ÏµÍ³£©";
+			String _text = "ï¼ˆåˆå§‹åŒ–æœè£…ç³»ç»Ÿï¼‰";
 		}
 		{
 			String _name = "Loading22";
-			String _text = "£¨ÔÔÖÖÆ»¹ûÊ÷£©";
+			String _text = "ï¼ˆæ ½ç§è‹¹æœæ ‘ï¼‰";
 		}
 		{
 			String _name = "Loading23";
-			String _text = "£¨ºÍµ±µØÈË½»»»Ê³Îï£©";
+			String _text = "ï¼ˆå’Œå½“åœ°äººäº¤æ¢é£Ÿç‰©ï¼‰";
 		}
 		{
 			String _name = "Loading24";
-			String _text = "£¨´´Ôì¶ÀÌØµÄÑ©»¨£©";
+			String _text = "ï¼ˆåˆ›é€ ç‹¬ç‰¹çš„é›ªèŠ±ï¼‰";
 		}
 		{
 			String _name = "Loading25";
-			String _text = "£¨¸ø¶¾Ä¢¹½Ïû¶¾£©";
+			String _text = "ï¼ˆç»™æ¯’è˜‘è‡æ¶ˆæ¯’ï¼‰";
 		}
 		{
 			String _name = "Loading26";
-			String _text = "£¨¸øÅóÓÑÃÇ·¢ÓÊ¼ş£©";
+			String _text = "ï¼ˆç»™æœ‹å‹ä»¬å‘é‚®ä»¶ï¼‰";
 		}
 		{
 			String _name = "Loading27";
-			String _text = "£¨ÔÚÌì¿ÕÖĞÌí¼ÓÔÆ²Ê£©";
+			String _text = "ï¼ˆåœ¨å¤©ç©ºä¸­æ·»åŠ äº‘å½©ï¼‰";
 		}
 		{
 			String _name = "Loading28";
-			String _text = "£¨»Ö¸´¾µÍ·ÊÓ½Ç£©";
+			String _text = "ï¼ˆæ¢å¤é•œå¤´è§†è§’ï¼‰";
 		}
 		{
 			String _name = "Loading29";
-			String _text = "£¨ÖÖ»¨£©";
+			String _text = "ï¼ˆç§èŠ±ï¼‰";
 		}
 		{
 			String _name = "Loading30";
-			String _text = "£¨½¨Á¢Ã³Ò×Â·Ïß£©";
+			String _text = "ï¼ˆå»ºç«‹è´¸æ˜“è·¯çº¿ï¼‰";
 		}
 		{
 			String _name = "Loading31";
-			String _text = "£¨ÔÚ½»Í¨²»±ãÀûµÄµØ·½ĞŞÂ·£©";
+			String _text = "ï¼ˆåœ¨äº¤é€šä¸ä¾¿åˆ©çš„åœ°æ–¹ä¿®è·¯ï¼‰";
 		}
 		{
 			String _name = "Loading32";
-			String _text = "£¨Ñ°ÕÒµ½´ïºÓÁ÷µÄĞ¡Â·£©";
+			String _text = "ï¼ˆå¯»æ‰¾åˆ°è¾¾æ²³æµçš„å°è·¯ï¼‰";
 		}
 		{
 			String _name = "Loading33";
-			String _text = "£¨¸øÍÁÈÀÔö¼ÓË®·İ£©";
+			String _text = "ï¼ˆç»™åœŸå£¤å¢åŠ æ°´ä»½ï¼‰";
 		}
 		{
 			String _name = "Loading34";
-			String _text = "£¨ÓëÁ÷ÃñÌ¸ÅĞ£©";
+			String _text = "ï¼ˆä¸æµæ°‘è°ˆåˆ¤ï¼‰";
 		}
 		{
 			String _name = "Loading35";
-			String _text = "£¨ÓëÉÌ¼ÒÌ¸ÅĞ£©";
+			String _text = "ï¼ˆä¸å•†å®¶è°ˆåˆ¤ï¼‰";
 		}
 		{
 			String _name = "Loading36";
-			String _text = "£¨ÕòÑ¹Ê÷Ñı£©";
+			String _text = "ï¼ˆé•‡å‹æ ‘å¦–ï¼‰";
 		}
 		{
 			String _name = "Loading37";
-			String _text = "£¨¼·Å£ÄÌ£©";
+			String _text = "ï¼ˆæŒ¤ç‰›å¥¶ï¼‰";
 		}
 		{
 			String _name = "Loading38";
-			String _text = "£¨¼ñ¼¦µ°£©";
+			String _text = "ï¼ˆæ¡é¸¡è›‹ï¼‰";
 		}
 	]
 }
@@ -2916,47 +2916,47 @@ StringTable mainMenu
 	[ 
 		{
 			String _name = "Title";
-			String _text = "·ÅÖğÖ®³Ç";
+			String _text = "æ”¾é€ä¹‹åŸ";
 		}
 		{
 			String _name = "Loading";
-			String _text = "¼ÓÔØÖĞ¡­¡­";
+			String _text = "åŠ è½½ä¸­â€¦â€¦";
 		}
 		{
 			String _name = "Saving";
-			String _text = "´æµµÖĞ¡­¡­";
+			String _text = "å­˜æ¡£ä¸­â€¦â€¦";
 		}
 		{
 			String _name = "Wait";
-			String _text = "ÇëÉÔºó¡­¡­";
+			String _text = "è¯·ç¨åâ€¦â€¦";
 		}
 		{
 			String _name = "NewGame";
-			String _text = "ĞÂ½¨";
+			String _text = "æ–°å»º";
 		}
 		{
 			String _name = "LoadGame";
-			String _text = "¶Áµµ";
+			String _text = "è¯»æ¡£";
 		}
 		{
 			String _name = "SaveGame";
-			String _text = "´æµµ";
+			String _text = "å­˜æ¡£";
 		}
 		{
 			String _name = "Options";
-			String _text = "²Ëµ¥";
+			String _text = "èœå•";
 		}
 		{
 			String _name = "QuitGame";
-			String _text = "ÍË³ö";
+			String _text = "é€€å‡º";
 		}
 		{
 			String _name = "Achievement";
-			String _text = "³É¾Í";
+			String _text = "æˆå°±";
 		}
 		{
 			String _name = "Scenario";
-			String _text = "¾çÇé";
+			String _text = "å‰§æƒ…";
 		}
 		{
 			String _name = "Mod";
@@ -2964,47 +2964,47 @@ StringTable mainMenu
 		}
 		{
 			String _name = "Goal";
-			String _text = "Ä¿µÄ";
+			String _text = "ç›®çš„";
 		}
 		{
 			String _name = "Map";
-			String _text = "µØÍ¼";
+			String _text = "åœ°å›¾";
 		}
 		{
 			String _name = "Tutorial";
-			String _text = "½Ì³Ì";
+			String _text = "æ•™ç¨‹";
 		}
 		{
 			String _name = "ScenarioParam";
-			String _text = "½Å±¾: @0";
+			String _text = "è„šæœ¬: @0";
 		}
 		{
 			String _name = "ModName";
-			String _text = "Ãû³Æ/×÷Õß";
+			String _text = "åç§°/ä½œè€…";
 		}
 		{
 			String _name = "ModDescription";
-			String _text = "ÃèÊö";
+			String _text = "æè¿°";
 		}
 		{
 			String _name = "ModVersion";
-			String _text = "°æ±¾: @0";
+			String _text = "ç‰ˆæœ¬: @0";
 		}
 		{
 			String _name = "ModLoaded";
-			String _text = "ÆôÓÃ";
+			String _text = "å¯ç”¨";
 		}
 		{
 			String _name = "ModOrder";
-			String _text = "¼ÓÔØË³Ğò";
+			String _text = "åŠ è½½é¡ºåº";
 		}
 		{
 			String _name = "ModTop";
-			String _text = "¶¥";
+			String _text = "é¡¶";
 		}
 		{
 			String _name = "ModDetails";
-			String _text = "ÏêÇé";
+			String _text = "è¯¦æƒ…";
 		}
 		{
 			String _name = "ModConflictTitle";
@@ -3016,195 +3016,195 @@ StringTable mainMenu
 		}
 		{
 			String _name = "ModDetailsTip";
-			String _text = "¸ÃMODµÄÏêÏ¸ĞÅÏ¢£¬°üÀ¨ËµÃ÷ÓëÄÄĞ©MOD»áÓĞ³åÍ»¡£";
+			String _text = "è¯¥MODçš„è¯¦ç»†ä¿¡æ¯ï¼ŒåŒ…æ‹¬è¯´æ˜ä¸å“ªäº›MODä¼šæœ‰å†²çªã€‚";
 		}
 		{
 			String _name = "ModTopTip";
-			String _text = "ÒÆ¶¯MODµÄÉÏÏÂÎ»ÖÃ£¬ÔÚÉÏµÄ»áÓÅÏÈ¼ÓÔØ¡£";
+			String _text = "ç§»åŠ¨MODçš„ä¸Šä¸‹ä½ç½®ï¼Œåœ¨ä¸Šçš„ä¼šä¼˜å…ˆåŠ è½½ã€‚";
 		}
 		{
 			String _name = "ModUpTip";
-			String _text = "ÉÏÒÆ´ËMOD¡£";
+			String _text = "ä¸Šç§»æ­¤MODã€‚";
 		}
 		{
 			String _name = "ModDownTip";
-			String _text = "ÏÂÒÆ´ËMOD¡£";
+			String _text = "ä¸‹ç§»æ­¤MODã€‚";
 		}
 		{
 			String _name = "ModLoadedTip";
-			String _text = "ÆôÓÃ»òÍ£ÓÃÕâ¸öMOD¡£";
+			String _text = "å¯ç”¨æˆ–åœç”¨è¿™ä¸ªMODã€‚";
 		}
 		{
 			String _name = "ModCreatedBy";
-			String _text = "×÷Õß: @0";
+			String _text = "ä½œè€…: @0";
 		}
 		{
 			String _name = "ModPath";
-			String _text = "Â·¾¶: @0";
+			String _text = "è·¯å¾„: @0";
 		}
 		{
 			String _name = "ModMissing";
-			String _text = "ÕÒ²»µ½»òÕßÎŞ·¨¼ÓÔØ¸ÃMOD.
+			String _text = "æ‰¾ä¸åˆ°æˆ–è€…æ— æ³•åŠ è½½è¯¥MOD.
 
 @0 [@1]
 SAVED WITH VERSION @2
 
-¼ÓÔØ¸Ã´æµµ£¬¿ÉÄÜ»áÓĞÒâÏë²»µ½µÄ½á¹û£¨ÓÎÏ·±ÀÀ££©¡£Äã»¹Ïë¼ÓÔØ¸Ã´æµµ£¿";
+åŠ è½½è¯¥å­˜æ¡£ï¼Œå¯èƒ½ä¼šæœ‰æ„æƒ³ä¸åˆ°çš„ç»“æœï¼ˆæ¸¸æˆå´©æºƒï¼‰ã€‚ä½ è¿˜æƒ³åŠ è½½è¯¥å­˜æ¡£ï¼Ÿ";
 		}
 		{
 			String _name = "ModOutOfDate";
-			String _text = "Ä£ĞÍ°æ±¾ÒÑ¾­¹ıÆÚ. Êı¾İ¿ÉÄÜ²»ÔÙÖ§³Öµ±Ç°°æ±¾.
+			String _text = "æ¨¡å‹ç‰ˆæœ¬å·²ç»è¿‡æœŸ. æ•°æ®å¯èƒ½ä¸å†æ”¯æŒå½“å‰ç‰ˆæœ¬.
 
 @0 [@1]
 SAVED WITH VERSION @2
 
-¼ÓÔØ¸Ã´æµµ£¬¿ÉÄÜ»áÓĞÒâÏë²»µ½µÄ½á¹û£¨ÓÎÏ·±ÀÀ££©¡£Äã»¹Ïë¼ÓÔØ¸Ã´æµµ£¿";
+åŠ è½½è¯¥å­˜æ¡£ï¼Œå¯èƒ½ä¼šæœ‰æ„æƒ³ä¸åˆ°çš„ç»“æœï¼ˆæ¸¸æˆå´©æºƒï¼‰ã€‚ä½ è¿˜æƒ³åŠ è½½è¯¥å­˜æ¡£ï¼Ÿ";
 		}
 		{
 			String _name = "ModDifferentVersion";
-			String _text = "ÒÔÏÂMODÓĞ°æ±¾¸üĞÂ.
+			String _text = "ä»¥ä¸‹MODæœ‰ç‰ˆæœ¬æ›´æ–°.
 
 @0 [@1]
 NSAVED WITH VERSION @2
 
-ËäÈ»×÷Õß¸üĞÂÁËMODµÄÒ»Ğ©ÄÚÈİ£¬°üÀ¨ĞŞ¸´BUG£¬µ«ÊÇ¼ÓÔØ¸Ã´æµµ£¬ÈÔ¿ÉÄÜ»á³öÏÖÒâÏë²»µ½µÄ½á¹û£¬Äã»¹ÊÇÑ¡Ôñ¼ÌĞø¼ÓÔØ¸Ã´æµµÂğ£¿";
+è™½ç„¶ä½œè€…æ›´æ–°äº†MODçš„ä¸€äº›å†…å®¹ï¼ŒåŒ…æ‹¬ä¿®å¤BUGï¼Œä½†æ˜¯åŠ è½½è¯¥å­˜æ¡£ï¼Œä»å¯èƒ½ä¼šå‡ºç°æ„æƒ³ä¸åˆ°çš„ç»“æœï¼Œä½ è¿˜æ˜¯é€‰æ‹©ç»§ç»­åŠ è½½è¯¥å­˜æ¡£å—ï¼Ÿ";
 		}
 		{
 			String _name = "ModChanged";
-			String _text = "MODÓë¸Ã´æµµÄÚ¼ÓÔØµÄÔ­Ê¼MOD²»ÏàÍ¬.
+			String _text = "MODä¸è¯¥å­˜æ¡£å†…åŠ è½½çš„åŸå§‹MODä¸ç›¸åŒ.
 
 @0 [@1]
 SAVED WITH VERSION @2
 
-¿ÉÄÜ×÷ÕßÎ´¸Ä±ä°æ±¾ºÅ¶ø¸üĞÂÁË´ËMOD»òÕß´ÅÅÌÉÏ¾ßÓĞÏàÍ¬ÃûµÄMOD¸²¸ÇÁË¸ÃMOD¡£¼ÓÔØ¸Ã´æµµ£¬¿ÉÄÜ»áÓĞÒâÏë²»µ½µÄ½á¹û£¨ÓÎÏ·±ÀÀ££©¡£Äã»¹Ïë¼ÓÔØ¸Ã´æµµ£¿";
+å¯èƒ½ä½œè€…æœªæ”¹å˜ç‰ˆæœ¬å·è€Œæ›´æ–°äº†æ­¤MODæˆ–è€…ç£ç›˜ä¸Šå…·æœ‰ç›¸åŒåçš„MODè¦†ç›–äº†è¯¥MODã€‚åŠ è½½è¯¥å­˜æ¡£ï¼Œå¯èƒ½ä¼šæœ‰æ„æƒ³ä¸åˆ°çš„ç»“æœï¼ˆæ¸¸æˆå´©æºƒï¼‰ã€‚ä½ è¿˜æƒ³åŠ è½½è¯¥å­˜æ¡£ï¼Ÿ";
 		}
 		{
 			String _name = "ReloadMenu";
-			String _text = "¸Ä±äÒÑ¼ÓÔØµÄMOD£¬µ«ĞèÒªÖØĞÂ¼ÓÔØ²Ëµ¥.
+			String _text = "æ”¹å˜å·²åŠ è½½çš„MODï¼Œä½†éœ€è¦é‡æ–°åŠ è½½èœå•.
 
-ÄãÏ£ÍûÏÖÔÚÖØĞÂ¼ÓÔØÂğ£¿";
+ä½ å¸Œæœ›ç°åœ¨é‡æ–°åŠ è½½å—ï¼Ÿ";
 		}
 		{
 			String _name = "ReloadGame";
-			String _text = "¸Ä±äÒÑ¼ÓÔØµÄMOD£¬µ«ĞèÒªÖØĞÂ¼ÓÔØ²Ëµ¥.
+			String _text = "æ”¹å˜å·²åŠ è½½çš„MODï¼Œä½†éœ€è¦é‡æ–°åŠ è½½èœå•.
 
-ÖØĞÂ¼ÓÔØ²»Í¬µÄMOD¿ÉÄÜ»áÔÚÒÑÓĞµÄ´æµµÖĞÔì³É±ÀÀ£¡£
+é‡æ–°åŠ è½½ä¸åŒçš„MODå¯èƒ½ä¼šåœ¨å·²æœ‰çš„å­˜æ¡£ä¸­é€ æˆå´©æºƒã€‚
 
-ÄãÏ£ÍûÏÖÔÚÖØĞÂ¼ÓÔØÂğ£¿";
+ä½ å¸Œæœ›ç°åœ¨é‡æ–°åŠ è½½å—ï¼Ÿ";
 		}
 		{
 			String _name = "ModConflict";
-			String _text = "Õâ¸öMOD°üÀïµÄÄÚÈİÓëÁíÒ»¸öMOD°ü£¨ºìÉ«µÄ±íÊ¾³åÍ»°ü£©³åÍ»£¬Õâ¿ÉÄÜ»áµ¼ÖÂÒâÏë²»µ½µÄºó¹û£¨ÈçÓÎÏ·±ÀÀ££©.
+			String _text = "è¿™ä¸ªMODåŒ…é‡Œçš„å†…å®¹ä¸å¦ä¸€ä¸ªMODåŒ…ï¼ˆçº¢è‰²çš„è¡¨ç¤ºå†²çªåŒ…ï¼‰å†²çªï¼Œè¿™å¯èƒ½ä¼šå¯¼è‡´æ„æƒ³ä¸åˆ°çš„åæœï¼ˆå¦‚æ¸¸æˆå´©æºƒï¼‰.
 
-ÁĞ±í×îÉÏ´¦µÄMOD»áÓÅÏÈ±»¼ÓÔØ¡£";
+åˆ—è¡¨æœ€ä¸Šå¤„çš„MODä¼šä¼˜å…ˆè¢«åŠ è½½ã€‚";
 		}
 		{
 			String _name = "ResumeGame";
-			String _text = "¼ÌĞø";
+			String _text = "ç»§ç»­";
 		}
 		{
 			String _name = "ReturnMenu";
-			String _text = "ÍË³ö";
+			String _text = "é€€å‡º";
 		}
 		{
 			String _name = "DeleteGame";
-			String _text = "É¾³ı";
+			String _text = "åˆ é™¤";
 		}
 		{
 			String _name = "TownName";
-			String _text = "Ğ¡ÕòÃû³Æ";
+			String _text = "å°é•‡åç§°";
 		}
 		{
 			String _name = "TownSeed";
-			String _text = "µØÍ¼ÖÖ×Ó";
+			String _text = "åœ°å›¾ç§å­";
 		}
 		{
 			String _name = "Terrain";
-			String _text = "µØĞÎ";
+			String _text = "åœ°å½¢";
 		}
 		{
 			String _name = "TerrainSize";
-			String _text = "µØĞÎ³ß´ç";
+			String _text = "åœ°å½¢å°ºå¯¸";
 		}
 		{
 			String _name = "Climate";
-			String _text = "Æøºò";
+			String _text = "æ°”å€™";
 		}
 		{
 			String _name = "NewNameTip";
-			String _text = "×Ô¶¯Éú³É³ÇÕòÃû³Æ¡£";
+			String _text = "è‡ªåŠ¨ç”ŸæˆåŸé•‡åç§°ã€‚";
 		}
 		{
 			String _name = "NewSeedTip";
-			String _text = "×Ô¶¯Éú³ÉĞÂµØÍ¼.";
+			String _text = "è‡ªåŠ¨ç”Ÿæˆæ–°åœ°å›¾.";
 		}
 		{
 			String _name = "StartCondition";
-			String _text = "¿ªÊ¼Ìõ¼ş";
+			String _text = "å¼€å§‹æ¡ä»¶";
 		}
 		{
 			String _name = "Disaster";
-			String _text = "ÔÖÄÑ";
+			String _text = "ç¾éš¾";
 		}
 		{
 			String _name = "Graphics";
-			String _text = "ÊÓÆµ";
+			String _text = "è§†é¢‘";
 		}
 		{
 			String _name = "Sound";
-			String _text = "ÒôÆµ";
+			String _text = "éŸ³é¢‘";
 		}
 		{
 			String _name = "Input";
-			String _text = "¿ØÖÆ";
+			String _text = "æ§åˆ¶";
 		}
 		{
 			String _name = "Game";
-			String _text = "ÓÎÏ·";
+			String _text = "æ¸¸æˆ";
 		}
 		{
 			String _name = "Renderer";
-			String _text = "äÖÈ¾Æ÷";
+			String _text = "æ¸²æŸ“å™¨";
 		}
 		{
 			String _name = "Adapter";
-			String _text = "ÊÊÅäÆ÷";
+			String _text = "é€‚é…å™¨";
 		}
 		{
 			String _name = "Refresh";
-			String _text = "Ë¢ĞÂÂÊ";
+			String _text = "åˆ·æ–°ç‡";
 		}
 		{
 			String _name = "Resolution";
-			String _text = "·Ö±æÂÊ";
+			String _text = "åˆ†è¾¨ç‡";
 		}
 		{
 			String _name = "Antialiasing";
-			String _text = "¿¹¾â³İ";
+			String _text = "æŠ—é”¯é½¿";
 		}
 		{
 			String _name = "Fullscreen";
-			String _text = "È«ÆÁ";
+			String _text = "å…¨å±";
 		}
 		{
 			String _name = "VSync";
-			String _text = "´¹Ö±Í¬²½";
+			String _text = "å‚ç›´åŒæ­¥";
 		}
 		{
 			String _name = "TextureFilter";
-			String _text = "ÎÆÀí¹ıÂË";
+			String _text = "çº¹ç†è¿‡æ»¤";
 		}
 		{
 			String _name = "ShadowResolution";
-			String _text = "ÒõÓ°·Ö±æÂÊ";
+			String _text = "é˜´å½±åˆ†è¾¨ç‡";
 		}
 		{
 			String _name = "ShadowQuality";
-			String _text = "ÒõÓ°ÖÊÁ¿";
+			String _text = "é˜´å½±è´¨é‡";
 		}
 		{
 			String _name = "ReflectionQuality";
-			String _text = "Ó³Ïñ";
+			String _text = "æ˜ åƒ";
 		}
 		{
 			String _name = "Bind";
@@ -3212,7 +3212,7 @@ SAVED WITH VERSION @2
 		}
 		{
 			String _name = "Unbind";
-			String _text = "½âËø";
+			String _text = "è§£é”";
 		}
 		{
 			String _name = "AlreadyBound";
@@ -3220,59 +3220,59 @@ SAVED WITH VERSION @2
 		}
 		{
 			String _name = "NewGameTip";
-			String _text = "¿ªÊ¼ĞÂÓÎÏ·";
+			String _text = "å¼€å§‹æ–°æ¸¸æˆ";
 		}
 		{
 			String _name = "LoadGameTip";
-			String _text = "¼ÓÔØ²¢¼ÌĞøÒÑ±£´æµÄÓÎÏ·";
+			String _text = "åŠ è½½å¹¶ç»§ç»­å·²ä¿å­˜çš„æ¸¸æˆ";
 		}
 		{
 			String _name = "SaveGameTip";
-			String _text = "±£´æµ±Ç°ÓÎÏ·";
+			String _text = "ä¿å­˜å½“å‰æ¸¸æˆ";
 		}
 		{
 			String _name = "OptionsTip";
-			String _text = "ÓÎÏ·ÉèÖÃ";
+			String _text = "æ¸¸æˆè®¾ç½®";
 		}
 		{
 			String _name = "QuitGameTip";
-			String _text = "ÍË³öÓÎÏ·¡£";
+			String _text = "é€€å‡ºæ¸¸æˆã€‚";
 		}
 		{
 			String _name = "ReturnMenuTip";
-			String _text = "ÍË»ØÓÎÏ·Ö÷Ä¿Â¼";
+			String _text = "é€€å›æ¸¸æˆä¸»ç›®å½•";
 		}
 		{
 			String _name = "ResumeGameTip";
-			String _text = "¼ÌĞøÓÎÏ·";
+			String _text = "ç»§ç»­æ¸¸æˆ";
 		}
 		{
 			String _name = "TutorialTip";
-			String _text = "½øÈë½Ì³ÌÑ§Ï°ÈçºÎ½øĞĞÓÎÏ·.";
+			String _text = "è¿›å…¥æ•™ç¨‹å­¦ä¹ å¦‚ä½•è¿›è¡Œæ¸¸æˆ.";
 		}
 		{
 			String _name = "AchievementTip";
-			String _text = "ÏÔÊ¾ÒÑ´ï³ÉµÄÄ¿±êºÍ»ñµÃµÄ³É¾Í.";
+			String _text = "æ˜¾ç¤ºå·²è¾¾æˆçš„ç›®æ ‡å’Œè·å¾—çš„æˆå°±.";
 		}
 		{
 			String _name = "ModTip";
-			String _text = "ÏÔÊ¾²¢ÉèÖÃÓÎÏ·´´½¨µÄ³õÊ¼Ìõ¼ş.";
+			String _text = "æ˜¾ç¤ºå¹¶è®¾ç½®æ¸¸æˆåˆ›å»ºçš„åˆå§‹æ¡ä»¶.";
 		}
 		{
 			String _name = "AchievementTip";
-			String _text = "ÏÔÊ¾³É¾Í";
+			String _text = "æ˜¾ç¤ºæˆå°±";
 		}
 		{
 			String _name = "ScenarioTip";
-			String _text = "ÒÔ³õÊ¼Ìõ¼şºÍÄ¿±ê¿ªÊ¼ĞÂµÄÓÎÏ·";
+			String _text = "ä»¥åˆå§‹æ¡ä»¶å’Œç›®æ ‡å¼€å§‹æ–°çš„æ¸¸æˆ";
 		}
 		{
 			String _name = "GoalTip";
-			String _text = "ÏÔÊ¾Ä¿±ê×´Ì¬";
+			String _text = "æ˜¾ç¤ºç›®æ ‡çŠ¶æ€";
 		}
 		{
 			String _name = "MapTip";
-			String _text = "ÏÔÊ¾µØÍ¼²ÎÊı.";
+			String _text = "æ˜¾ç¤ºåœ°å›¾å‚æ•°.";
 		}
 		{
 			String _name = "PercentComplete";
@@ -3280,76 +3280,76 @@ SAVED WITH VERSION @2
 		}
 		{
 			String _name = "VolumeUI";
-			String _text = "UI ÉùÒô";
+			String _text = "UI å£°éŸ³";
 		}
 		{
 			String _name = "VolumeMusic";
-			String _text = "ÒôÀÖÉùÒô";
+			String _text = "éŸ³ä¹å£°éŸ³";
 		}
 		{
 			String _name = "VolumeEffect";
-			String _text = "Ğ§¹ûÉùÒô";
+			String _text = "æ•ˆæœå£°éŸ³";
 		}
 		{
 			String _name = "VolumeAmbient";
-			String _text = "»·¾³ÉùÒô";
+			String _text = "ç¯å¢ƒå£°éŸ³";
 		}
 		{
 			String _name = "ConfirmDelete";
-			String _text = "È·¶¨ÒªÉ¾³ıÓÎÏ·´æµµ?";
+			String _text = "ç¡®å®šè¦åˆ é™¤æ¸¸æˆå­˜æ¡£?";
 		}
 		{
 			String _name = "ConfirmSave";
-			String _text = "È·¶¨Òª¸²¸ÇÒÑ´¢´æµÄÓÎÏ·?";
+			String _text = "ç¡®å®šè¦è¦†ç›–å·²å‚¨å­˜çš„æ¸¸æˆ?";
 		}
 		{
 			String _name = "ConfirmLoad";
-			String _text = "ÄãÈ·¶¨Òª¼ÓÔØÓÎÏ·´æµµ?
-ÈÎºÎÎ´´¢´æµÄÓÎÏ·´æµµ½«»á¶ªÊ§.";
+			String _text = "ä½ ç¡®å®šè¦åŠ è½½æ¸¸æˆå­˜æ¡£?
+ä»»ä½•æœªå‚¨å­˜çš„æ¸¸æˆå­˜æ¡£å°†ä¼šä¸¢å¤±.";
 		}
 		{
 			String _name = "GameAutoSave";
-			String _text = "×Ô¶¯´æµµ¶¨Ê±";
+			String _text = "è‡ªåŠ¨å­˜æ¡£å®šæ—¶";
 		}
 		{
 			String _name = "GameUIScale";
-			String _text = "ÓÃ»§½çÃæ±ÈÀı";
+			String _text = "ç”¨æˆ·ç•Œé¢æ¯”ä¾‹";
 		}
 		{
 			String _name = "GameStatusIconEnable";
-			String _text = "ÏÔÊ¾×´Ì¬Í¼±ê";
+			String _text = "æ˜¾ç¤ºçŠ¶æ€å›¾æ ‡";
 		}
 		{
 			String _name = "GameStatusIconScale";
-			String _text = "Í¼±ê×´Ì¬±ÈÀı";
+			String _text = "å›¾æ ‡çŠ¶æ€æ¯”ä¾‹";
 		}
 		{
 			String _name = "GameStatusIconOpacity";
-			String _text = "Í¼±êÍ¸Ã÷¶È";
+			String _text = "å›¾æ ‡é€æ˜åº¦";
 		}
 		{
 			String _name = "GameUseEdgeScroll";
-			String _text = "´ò¿ª±ßÔµ¾í¶¯";
+			String _text = "æ‰“å¼€è¾¹ç¼˜å·åŠ¨";
 		}
 		{
 			String _name = "GameShowCelsius";
-			String _text = "ÏÔÊ¾ÉãÊÏ¶È";
+			String _text = "æ˜¾ç¤ºæ‘„æ°åº¦";
 		}
 		{
 			String _name = "GameShowWeather";
-			String _text = "ÏÔÊ¾ÌìÆøÓ°Ïì";
+			String _text = "æ˜¾ç¤ºå¤©æ°”å½±å“";
 		}
 		{
 			String _name = "GameAutoslow";
-			String _text = "ÔÖÄÑÀ´ÁÙÊ±£¬Ä£ÄâËÙ¶È½µµ½1X";
+			String _text = "ç¾éš¾æ¥ä¸´æ—¶ï¼Œæ¨¡æ‹Ÿé€Ÿåº¦é™åˆ°1X";
 		}
 		{
 			String _name = "GameAutopause";
-			String _text = "Àë¿ªÓÎÏ·´°¿Ú×Ô¶¯ÔİÍ£ÓÎÏ·";
+			String _text = "ç¦»å¼€æ¸¸æˆçª—å£è‡ªåŠ¨æš‚åœæ¸¸æˆ";
 		}
 		{
 			String _name = "GameMouseClip";
-			String _text = "Êó±ê²»Àë¿ªÓÎÏ·´°¿Ú";
+			String _text = "é¼ æ ‡ä¸ç¦»å¼€æ¸¸æˆçª—å£";
 		}
 	]
 }
@@ -3360,23 +3360,23 @@ StringTable merchant
 	[ 
 		{
 			String _name = "MerchantFood";
-			String _text = "Ê³ÎïÉÌÈË";
+			String _text = "é£Ÿç‰©å•†äºº";
 		}
 		{
 			String _name = "MerchantGoods";
-			String _text = "×ÊÔ´ÉÌÈË";
+			String _text = "èµ„æºå•†äºº";
 		}
 		{
 			String _name = "MerchantGeneral";
-			String _text = "ÈÕ³£ÓÃÆ·ÉÌÈË";
+			String _text = "æ—¥å¸¸ç”¨å“å•†äºº";
 		}
 		{
 			String _name = "MerchantSeed";
-			String _text = "ÖÖ×ÓÉÌÈË";
+			String _text = "ç§å­å•†äºº";
 		}
 		{
 			String _name = "MerchantLivestock";
-			String _text = "¼ÒĞóÉÌÈË";
+			String _text = "å®¶ç•œå•†äºº";
 		}
 	]
 }
@@ -3391,7 +3391,7 @@ StringTable multiSample
 		}
 		{
 			String _name = "Mode1";
-			String _text = "¶àÖØ²ÉÑù·´¾â³İ";
+			String _text = "å¤šé‡é‡‡æ ·åé”¯é½¿";
 		}
 	]
 }
@@ -3402,539 +3402,539 @@ StringTable objects
 	[ 
 		{
 			String _name = "Citizen";
-			String _text = "¾ÓÃñ";
+			String _text = "å±…æ°‘";
 		}
 		{
 			String _name = "Nomad";
-			String _text = "Á÷Ãñ";
+			String _text = "æµæ°‘";
 		}
 		{
 			String _name = "Well";
-			String _text = "¾®";
+			String _text = "äº•";
 		}
 		{
 			String _name = "WellLwr";
-			String _text = "Ë®¾®";
+			String _text = "æ°´äº•";
 		}
 		{
 			String _name = "WellTip";
-			String _text = "¹©Ë®¡¢Ãğ»ğ¡£";
+			String _text = "ä¾›æ°´ã€ç­ç«ã€‚";
 		}
 		{
 			String _name = "Hostel";
-			String _text = "¼¯Ìå·¿";
+			String _text = "é›†ä½“æˆ¿";
 		}
 		{
 			String _name = "HostelLwr";
-			String _text = "¼¯Ìå·¿";
+			String _text = "é›†ä½“æˆ¿";
 		}
 		{
 			String _name = "HostelTip";
-			String _text = "ÎªÁ÷ÀËÕßÌá¹©Ò»¸ö×¡µÄµØ·½¡£";
+			String _text = "ä¸ºæµæµªè€…æä¾›ä¸€ä¸ªä½çš„åœ°æ–¹ã€‚";
 		}
 		{
 			String _name = "Chapel";
-			String _text = "½ÌÌÃ";
+			String _text = "æ•™å ‚";
 		}
 		{
 			String _name = "ChapelLwr";
-			String _text = "½ÌÌÃ";
+			String _text = "æ•™å ‚";
 		}
 		{
 			String _name = "ChapelTip";
-			String _text = "ÎªĞÅÍ½Ìá¹©»ú»áºÍ×öÀñ°İµÄµØ·½£¬²¢Ìá¸ßËûÃÇµÄĞÒ¸£Öµ¡£";
+			String _text = "ä¸ºä¿¡å¾’æä¾›æœºä¼šå’Œåšç¤¼æ‹œçš„åœ°æ–¹ï¼Œå¹¶æé«˜ä»–ä»¬çš„å¹¸ç¦å€¼ã€‚";
 		}
 		{
 			String _name = "BathHouse";
-			String _text = "Ô¡ÊÒ";
+			String _text = "æµ´å®¤";
 		}
 		{
 			String _name = "BathHouseLwr";
-			String _text = "Ô¡ÊÒ";
+			String _text = "æµ´å®¤";
 		}
 		{
 			String _name = "BathHouseTip";
-			String _text = "Ìá¸ß¾ÓÃñµÄÇå½à¡¢½¡¿µºÍĞÒ¸£Ö¸Êı.";
+			String _text = "æé«˜å±…æ°‘çš„æ¸…æ´ã€å¥åº·å’Œå¹¸ç¦æŒ‡æ•°.";
 		}
 		{
 			String _name = "Tavern";
-			String _text = "¾Æ¹İ";
+			String _text = "é…’é¦†";
 		}
 		{
 			String _name = "TavernLwr";
-			String _text = "¾Æ¹İ";
+			String _text = "é…’é¦†";
 		}
 		{
 			String _name = "TavernTip";
-			String _text = "Äğ¾ÆÊ¦ÖÆÔìÆ¡¾Æ£¬Ìá¸ß¾ÓÃñµÄĞÒ¸£Öµ¡£";
+			String _text = "é…¿é…’å¸ˆåˆ¶é€ å•¤é…’ï¼Œæé«˜å±…æ°‘çš„å¹¸ç¦å€¼ã€‚";
 		}
 		{
 			String _name = "Cemetery";
-			String _text = "Ä¹µØ";
+			String _text = "å¢“åœ°";
 		}
 		{
 			String _name = "CemeteryLwr";
-			String _text = "Ä¹µØ";
+			String _text = "å¢“åœ°";
 		}
 		{
 			String _name = "CemeteryTip";
-			String _text = "µ±ËûÃÇµÄÀÏÈËËÀÊ±£¬ÔÚ´Ë½¨ÔìÄ¹±®£¬¼õÉÙËûÃÇĞÒ¸£ÖµµÄµô¼õ¡£";
+			String _text = "å½“ä»–ä»¬çš„è€äººæ­»æ—¶ï¼Œåœ¨æ­¤å»ºé€ å¢“ç¢‘ï¼Œå‡å°‘ä»–ä»¬å¹¸ç¦å€¼çš„æ‰å‡ã€‚";
 		}
 		{
 			String _name = "StorageCart";
-			String _text = "´¢²ØÂí³µ";
+			String _text = "å‚¨è—é©¬è½¦";
 		}
 		{
 			String _name = "StorageCartLwr";
-			String _text = "´¢²ØÂí³µ";
+			String _text = "å‚¨è—é©¬è½¦";
 		}
 		{
 			String _name = "StorageCartTip";
-			String _text = "µ±³ÇÊĞ¿ªÊ¼ĞŞ½¨Ê±Ìá¹©×î³õ¹©Ó¦.";
+			String _text = "å½“åŸå¸‚å¼€å§‹ä¿®å»ºæ—¶æä¾›æœ€åˆä¾›åº”.";
 		}
 		{
 			String _name = "WoodHome";
-			String _text = "Ğ¡Ä¾Îİ";
+			String _text = "å°æœ¨å±‹";
 		}
 		{
 			String _name = "WoodHomeLwr";
-			String _text = "Ğ¡Ä¾Îİ";
+			String _text = "å°æœ¨å±‹";
 		}
 		{
 			String _name = "WoodHomeTip";
-			String _text = "Îª¾ÓÃñÌá¹©¾Ó×¡µØ£¬²¢ÔÚ´ËÉú»î¡¢³Ô·¹¡¢´æ´¢Ê³Îï¼°±£Å¯¡£";
+			String _text = "ä¸ºå±…æ°‘æä¾›å±…ä½åœ°ï¼Œå¹¶åœ¨æ­¤ç”Ÿæ´»ã€åƒé¥­ã€å­˜å‚¨é£Ÿç‰©åŠä¿æš–ã€‚";
 		}
 		{
 			String _name = "WoodHomeUpgradeTip";
-			String _text = "¿ÉÉı¼¶ÎªĞ¡Ê¯Îİ¡£½ÏÖ®Ğ¡Ä¾ÎİĞ¡Ê¯Îİ±£Å¯ÏµÊı¸ü¸ß¡£Áô´æµÄ½¨Öş×ÊÔ´¿É»ØÊÕÔÙÀûÓÃ¡£";
+			String _text = "å¯å‡çº§ä¸ºå°çŸ³å±‹ã€‚è¾ƒä¹‹å°æœ¨å±‹å°çŸ³å±‹ä¿æš–ç³»æ•°æ›´é«˜ã€‚ç•™å­˜çš„å»ºç­‘èµ„æºå¯å›æ”¶å†åˆ©ç”¨ã€‚";
 		}
 		{
 			String _name = "StoneHome";
-			String _text = "Ğ¡Ê¯Îİ";
+			String _text = "å°çŸ³å±‹";
 		}
 		{
 			String _name = "StoneHomeLwr";
-			String _text = "Ğ¡Ê¯Îİ";
+			String _text = "å°çŸ³å±‹";
 		}
 		{
 			String _name = "StoneHomeTip";
-			String _text = "Îª¾ÓÃñÌá¹©¾Ó×¡µØ£¬ÔÚ´ËÉú»î¡¢³Ô·¹¡¢´æ´¢Ê³Îï¼°±£Å¯¡£±ÈĞ¡Ä¾Îİ¸ü±£Å¯¡£";
+			String _text = "ä¸ºå±…æ°‘æä¾›å±…ä½åœ°ï¼Œåœ¨æ­¤ç”Ÿæ´»ã€åƒé¥­ã€å­˜å‚¨é£Ÿç‰©åŠä¿æš–ã€‚æ¯”å°æœ¨å±‹æ›´ä¿æš–ã€‚";
 		}
 		{
 			String _name = "StorageBarn";
-			String _text = "´¢´æ²Ö";
+			String _text = "å‚¨å­˜ä»“";
 		}
 		{
 			String _name = "StorageBarnLwr";
-			String _text = "´¢´æ²Ö";
+			String _text = "å‚¨å­˜ä»“";
 		}
 		{
 			String _name = "StorageBarnTip";
-			String _text = "ÓÃÀ´´¢´æ»õÎïÈçÊ³Îï¡¢ÒÂÎï¡¢²¼ÁÏ¡¢¹¤¾ßµÈ.";
+			String _text = "ç”¨æ¥å‚¨å­˜è´§ç‰©å¦‚é£Ÿç‰©ã€è¡£ç‰©ã€å¸ƒæ–™ã€å·¥å…·ç­‰.";
 		}
 		{
 			String _name = "CutterYard";
-			String _text = "·¥Ä¾Ğ¡Îİ";
+			String _text = "ä¼æœ¨å°å±‹";
 		}
 		{
 			String _name = "CutterYardLwr";
-			String _text = "·¥Ä¾Ğ¡Îİ";
+			String _text = "ä¼æœ¨å°å±‹";
 		}
 		{
 			String _name = "CutterYardTip";
-			String _text = "ÓÃÀ´¿³·¥ÒÑÓĞÄ¾²Ä£¬ÖÆ×÷¶¬ÌìÈ¡Å¯µÄ²ñ»ğ.";
+			String _text = "ç”¨æ¥ç ä¼å·²æœ‰æœ¨æï¼Œåˆ¶ä½œå†¬å¤©å–æš–çš„æŸ´ç«.";
 		}
 		{
 			String _name = "ForesterLodge";
-			String _text = "»¤ÁÖÈËĞ¡Îİ";
+			String _text = "æŠ¤æ—äººå°å±‹";
 		}
 		{
 			String _name = "ForesterLodgeLwr";
-			String _text = "»¤ÁÖÈËĞ¡Îİ";
+			String _text = "æŠ¤æ—äººå°å±‹";
 		}
 		{
 			String _name = "ForesterLodgeTip";
-			String _text = "ÔÚÒ»Æ¬Ñ¡¶¨ÇøÓòÄÚ·¥Ä¾£¨³ÉÄêÊ÷£©ºÍÖÖÊ÷";
+			String _text = "åœ¨ä¸€ç‰‡é€‰å®šåŒºåŸŸå†…ä¼æœ¨ï¼ˆæˆå¹´æ ‘ï¼‰å’Œç§æ ‘";
 		}
 		{
 			String _name = "FishermansDock";
-			String _text = "ÓæÒµÂëÍ·";
+			String _text = "æ¸”ä¸šç å¤´";
 		}
 		{
 			String _name = "FishermansDockLwr";
-			String _text = "ÓæÒµÂëÍ·";
+			String _text = "æ¸”ä¸šç å¤´";
 		}
 		{
 			String _name = "FishermansDockTip";
-			String _text = "·ÅÔÚºÓÁ÷´¦£¬Ñ¡¶¨Ò»Æ¬ÇøÓò½øĞĞ²¶Óã£¨Ë®·¶Î§Ô½´ó²úÁ¿Ô½¸ß£©";
+			String _text = "æ”¾åœ¨æ²³æµå¤„ï¼Œé€‰å®šä¸€ç‰‡åŒºåŸŸè¿›è¡Œæ•é±¼ï¼ˆæ°´èŒƒå›´è¶Šå¤§äº§é‡è¶Šé«˜ï¼‰";
 		}
 		{
 			String _name = "ToolMaker";
-			String _text = "Ìú½³Ğ¡Îİ";
+			String _text = "é“åŒ å°å±‹";
 		}
 		{
 			String _name = "ToolMakerLwr";
-			String _text = "Ìú½³Ğ¡Îİ";
+			String _text = "é“åŒ å°å±‹";
 		}
 		{
 			String _name = "ToolMakerTip";
-			String _text = "Ê¹ÓÃÄ¾Í·ºÍÌúÖÆ×÷ĞÂ¹¤¾ß£¨¼ÓÃº¿ÉÖÆ×÷¸ü³¤¾ÃµÄ¸Ö¹¤¾ß£©.";
+			String _text = "ä½¿ç”¨æœ¨å¤´å’Œé“åˆ¶ä½œæ–°å·¥å…·ï¼ˆåŠ ç…¤å¯åˆ¶ä½œæ›´é•¿ä¹…çš„é’¢å·¥å…·ï¼‰.";
 		}
 		{
 			String _name = "HunterLodge";
-			String _text = "á÷ÁÔĞ¡Îİ";
+			String _text = "ç‹©çŒå°å±‹";
 		}
 		{
 			String _name = "HunterLodgeLwr";
-			String _text = "á÷ÁÔĞ¡Îİ";
+			String _text = "ç‹©çŒå°å±‹";
 		}
 		{
 			String _name = "HunterLodgeTip";
-			String _text = "ÁÔÈËÒÔĞ¡ÎİÎªÖĞĞÄµÄÒ»¶¨·¶Î§ÄÚ½øĞĞ´òÁÔ£¬´Ó¶øµÃµ½Â¹ÈâºÍÆ¤¸ï.";
+			String _text = "çŒäººä»¥å°å±‹ä¸ºä¸­å¿ƒçš„ä¸€å®šèŒƒå›´å†…è¿›è¡Œæ‰“çŒï¼Œä»è€Œå¾—åˆ°é¹¿è‚‰å’Œçš®é©.";
 		}
 		{
 			String _name = "Herbalist";
-			String _text = "²İÒ©²É¼¯Ğ¡Îİ";
+			String _text = "è‰è¯é‡‡é›†å°å±‹";
 		}
 		{
 			String _name = "HerbalistLwr";
-			String _text = "²İÒ©²É¼¯Ğ¡Îİ";
+			String _text = "è‰è¯é‡‡é›†å°å±‹";
 		}
 		{
 			String _name = "HerbalistTip";
-			String _text = "Ò©¼ÁÊ¦ÒÔĞ¡ÎİÎªÖĞĞÄµÄÒ»¶¨·¶Î§ÄÚ½øĞĞÊÕ¼¯²İÒ©£¬ÒÔ³ÉÄêÊ÷¾Ó¶àµÄÖĞĞÄ´¦·ÅÖÃ×î¼Ñ";
+			String _text = "è¯å‰‚å¸ˆä»¥å°å±‹ä¸ºä¸­å¿ƒçš„ä¸€å®šèŒƒå›´å†…è¿›è¡Œæ”¶é›†è‰è¯ï¼Œä»¥æˆå¹´æ ‘å±…å¤šçš„ä¸­å¿ƒå¤„æ”¾ç½®æœ€ä½³";
 		}
 		{
 			String _name = "Doctor";
-			String _text = "Ò½Ôº";
+			String _text = "åŒ»é™¢";
 		}
 		{
 			String _name = "DoctorLwr";
-			String _text = "Ò½Ôº";
+			String _text = "åŒ»é™¢";
 		}
 		{
 			String _name = "DoctorTip";
-			String _text = "ÓÃÓÚÖÎÁÆ¸÷ÖÖ¼²²¡.";
+			String _text = "ç”¨äºæ²»ç–—å„ç§ç–¾ç—….";
 		}
 		{
 			String _name = "TownHall";
-			String _text = "ÊĞÕşÌü";
+			String _text = "å¸‚æ”¿å…";
 		}
 		{
 			String _name = "TownHallLwr";
-			String _text = "ÊĞÕşÌü";
+			String _text = "å¸‚æ”¿å…";
 		}
 		{
 			String _name = "TownHallTip";
-			String _text = "ÓÃÓÚ¼ÇÂ¼ºÍÏÔÊ¾ÈË¿Ú¡¢Ê³Îï¡¢ÒÂÎïµÈÆÕ²éÊı¾İ.";
+			String _text = "ç”¨äºè®°å½•å’Œæ˜¾ç¤ºäººå£ã€é£Ÿç‰©ã€è¡£ç‰©ç­‰æ™®æŸ¥æ•°æ®.";
 		}
 		{
 			String _name = "Market";
-			String _text = "ÊĞ³¡";
+			String _text = "å¸‚åœº";
 		}
 		{
 			String _name = "MarketLwr";
-			String _text = "ÊĞ³¡";
+			String _text = "å¸‚åœº";
 		}
 		{
 			String _name = "MarketTip";
-			String _text = "ÓÃÓÚÎª¾ÓÃñÌá¹©ÊÕ¼¯Ê³Îï¡¢¹¤¾ß¡¢È¼ÁÏ¡¢ÒÂÎïµÈµÄµØÇøĞÔ³¡Ëù¡£";
+			String _text = "ç”¨äºä¸ºå±…æ°‘æä¾›æ”¶é›†é£Ÿç‰©ã€å·¥å…·ã€ç‡ƒæ–™ã€è¡£ç‰©ç­‰çš„åœ°åŒºæ€§åœºæ‰€ã€‚";
 		}
 		{
 			String _name = "TradingPost";
-			String _text = "Ã³Ò×Õ¾";
+			String _text = "è´¸æ˜“ç«™";
 		}
 		{
 			String _name = "TradingPostLwr";
-			String _text = "Ã³Ò×Õ¾";
+			String _text = "è´¸æ˜“ç«™";
 		}
 		{
 			String _name = "TradingPostTip";
-			String _text = "ÔÊĞíºÍÉÌÈË½»»»×ÊÔ´¡£";
+			String _text = "å…è®¸å’Œå•†äººäº¤æ¢èµ„æºã€‚";
 		}
 		{
 			String _name = "IronMine";
-			String _text = "¿ó¾®";
+			String _text = "çŸ¿äº•";
 		}
 		{
 			String _name = "IronMineLwr";
-			String _text = "¿ó¾®";
+			String _text = "çŸ¿äº•";
 		}
 		{
 			String _name = "IronMineTip";
-			String _text = "¿ó¹¤ÔÚ¿ó¾®ÀïÍÚ³öÌú¿óºÍÃºÌ¿£¬¿ó¾®Ò»µ©½¨Ôì£¬¸ÃµØ¾ÍËã²ğ³ıÒ²²»ÄÜ½¨ÔìÆäËû½¨Öş";
+			String _text = "çŸ¿å·¥åœ¨çŸ¿äº•é‡ŒæŒ–å‡ºé“çŸ¿å’Œç…¤ç‚­ï¼ŒçŸ¿äº•ä¸€æ—¦å»ºé€ ï¼Œè¯¥åœ°å°±ç®—æ‹†é™¤ä¹Ÿä¸èƒ½å»ºé€ å…¶ä»–å»ºç­‘";
 		}
 		{
 			String _name = "Quarry";
-			String _text = "²ÉÊ¯³¡";
+			String _text = "é‡‡çŸ³åœº";
 		}
 		{
 			String _name = "QuarryLwr";
-			String _text = "²ÉÊ¯³¡";
+			String _text = "é‡‡çŸ³åœº";
 		}
 		{
 			String _name = "QuarryTip";
-			String _text = "ÓÃÓÚ´ÓÍÁµØÀï¿ª²ÉÊ¯Í·¡£²ÉÊ¯³¡Ò»µ©½¨Ôì£¬¸ÃµØ¾ÍËã²ğ³ıÒ²²»ÄÜ½¨ÔìÆäËû½¨Öş.";
+			String _text = "ç”¨äºä»åœŸåœ°é‡Œå¼€é‡‡çŸ³å¤´ã€‚é‡‡çŸ³åœºä¸€æ—¦å»ºé€ ï¼Œè¯¥åœ°å°±ç®—æ‹†é™¤ä¹Ÿä¸èƒ½å»ºé€ å…¶ä»–å»ºç­‘.";
 		}
 		{
 			String _name = "GathererShelter";
-			String _text = "²É¼¯Ğ¡Îİ";
+			String _text = "é‡‡é›†å°å±‹";
 		}
 		{
 			String _name = "GathererShelterLwr";
-			String _text = "²É¼¯Ğ¡Îİ";
+			String _text = "é‡‡é›†å°å±‹";
 		}
 		{
 			String _name = "GathererShelterTip";
-			String _text = "²É¼¯ÕßÒÔĞ¡ÎİÎªÖĞĞÄÔÚ¸ÃÇøÓò·¶Î§ÄÚ²É¼¯Ê÷¸ù¡¢Ä¢¹½¡¢Ñó´Ğ¡¢½¬¹û¡££¨³ÉÄêÊ÷²ÅÄÜ²ú³öÕâĞ©×ÊÔ´£©";
+			String _text = "é‡‡é›†è€…ä»¥å°å±‹ä¸ºä¸­å¿ƒåœ¨è¯¥åŒºåŸŸèŒƒå›´å†…é‡‡é›†æ ‘æ ¹ã€è˜‘è‡ã€æ´‹è‘±ã€æµ†æœã€‚ï¼ˆæˆå¹´æ ‘æ‰èƒ½äº§å‡ºè¿™äº›èµ„æºï¼‰";
 		}
 		{
 			String _name = "Tailor";
-			String _text = "²Ã·ìĞ¡Îİ";
+			String _text = "è£ç¼å°å±‹";
 		}
 		{
 			String _name = "TailorLwr";
-			String _text = "²Ã·ìĞ¡Îİ";
+			String _text = "è£ç¼å°å±‹";
 		}
 		{
 			String _name = "TailorTip";
-			String _text = "ÓÃÓÚÖÆ×÷±£Å¯µÄÒÂ·şÀ´°ï¾ÓÃñµÖÓùÑÏº®¡£";
+			String _text = "ç”¨äºåˆ¶ä½œä¿æš–çš„è¡£æœæ¥å¸®å±…æ°‘æŠµå¾¡ä¸¥å¯’ã€‚";
 		}
 		{
 			String _name = "SchoolHouse";
-			String _text = "Ñ§Ğ£";
+			String _text = "å­¦æ ¡";
 		}
 		{
 			String _name = "SchoolHouseLwr";
-			String _text = "Ñ§Ğ£";
+			String _text = "å­¦æ ¡";
 		}
 		{
 			String _name = "SchoolHouseTip";
-			String _text = "ÓÃÓÚ½ÌÓı¾ÓÃñ£¬Ìá¸ßÆä¹¤×÷Ğ§ÂÊ£¬Èô½ÌÊ¦ËÀÍö£¬Ã»ÏĞ¹¤Ìæ»»£¬Ôò¸ÃĞ£ËùÓĞÑ§Éú±äÎªÎ´½ÌÓıµÄ³ÉÄêÈË";
+			String _text = "ç”¨äºæ•™è‚²å±…æ°‘ï¼Œæé«˜å…¶å·¥ä½œæ•ˆç‡ï¼Œè‹¥æ•™å¸ˆæ­»äº¡ï¼Œæ²¡é—²å·¥æ›¿æ¢ï¼Œåˆ™è¯¥æ ¡æ‰€æœ‰å­¦ç”Ÿå˜ä¸ºæœªæ•™è‚²çš„æˆå¹´äºº";
 		}
 		{
 			String _name = "CropField";
-			String _text = "ÖÖÖ²Çø";
+			String _text = "ç§æ¤åŒº";
 		}
 		{
 			String _name = "CropFieldLwr";
-			String _text = "ÖÖÖ²Çø";
+			String _text = "ç§æ¤åŒº";
 		}
 		{
 			String _name = "CropFieldTip";
-			String _text = "ÓÃÓÚ¹æ¶¨Å©ÃñÃÇÖÖÖ²×÷ÎïµÄÇøÓò";
+			String _text = "ç”¨äºè§„å®šå†œæ°‘ä»¬ç§æ¤ä½œç‰©çš„åŒºåŸŸ";
 		}
 		{
 			String _name = "Orchard";
-			String _text = "¹ûÔ°";
+			String _text = "æœå›­";
 		}
 		{
 			String _name = "OrchardLwr";
-			String _text = "¹ûÔ°";
+			String _text = "æœå›­";
 		}
 		{
 			String _name = "OrchardTip";
-			String _text = "ÓÃÓÚ¹æ¶¨Å©ÃñÃÇÖÖÖ²¹ûÊ÷µÄÇøÓò";
+			String _text = "ç”¨äºè§„å®šå†œæ°‘ä»¬ç§æ¤æœæ ‘çš„åŒºåŸŸ";
 		}
 		{
 			String _name = "StorageYard";
-			String _text = "ÁÏ¶Ñ";
+			String _text = "æ–™å †";
 		}
 		{
 			String _name = "StorageYardLwr";
-			String _text = "ÁÏ¶Ñ";
+			String _text = "æ–™å †";
 		}
 		{
 			String _name = "StorageYardTip";
-			String _text = "ÓÃÓÚ´æ´¢Ô­²ÄÁÏ£¬±ÈÈçÄ¾²Ä¡¢²ñ»ğ¡¢Ê¯²Ä¡¢Ãº¿é¡¢Ìú¿ó¡£";
+			String _text = "ç”¨äºå­˜å‚¨åŸææ–™ï¼Œæ¯”å¦‚æœ¨æã€æŸ´ç«ã€çŸ³æã€ç…¤å—ã€é“çŸ¿ã€‚";
 		}
 		{
 			String _name = "Pasture";
-			String _text = "ÄÁ³¡";
+			String _text = "ç‰§åœº";
 		}
 		{
 			String _name = "PastureLwr";
-			String _text = "ÄÁ³¡";
+			String _text = "ç‰§åœº";
 		}
 		{
 			String _name = "PastureTip";
-			String _text = "Îª¶¯ÎïÌá¹©·ÅÄÁµÄÇøÓò¡£";
+			String _text = "ä¸ºåŠ¨ç‰©æä¾›æ”¾ç‰§çš„åŒºåŸŸã€‚";
 		}
 		{
 			String _name = "DirtRoad";
-			String _text = "ÄàÂ·";
+			String _text = "æ³¥è·¯";
 		}
 		{
 			String _name = "DirtRoadLwr";
-			String _text = "ÄàÂ·";
+			String _text = "æ³¥è·¯";
 		}
 		{
 			String _name = "DirtRoadTip";
-			String _text = "ÈÃÊĞÃñ½»Í¨½ÏÎª±ãÀû¡£";
+			String _text = "è®©å¸‚æ°‘äº¤é€šè¾ƒä¸ºä¾¿åˆ©ã€‚";
 		}
 		{
 			String _name = "StoneRoad";
-			String _text = "Ê¯°åÂ·";
+			String _text = "çŸ³æ¿è·¯";
 		}
 		{
 			String _name = "StoneRoadLwr";
-			String _text = "Ê¯°åÂ·";
+			String _text = "çŸ³æ¿è·¯";
 		}
 		{
 			String _name = "StoneRoadTip";
-			String _text = "ÈÃÊĞÃñ½»Í¨¸üÎª±ãÀû¡£";
+			String _text = "è®©å¸‚æ°‘äº¤é€šæ›´ä¸ºä¾¿åˆ©ã€‚";
 		}
 		{
 			String _name = "Bridge";
-			String _text = "Ä¾ÇÅ";
+			String _text = "æœ¨æ¡¥";
 		}
 		{
 			String _name = "BridgeLwr";
-			String _text = "Ä¾ÇÅ";
+			String _text = "æœ¨æ¡¥";
 		}
 		{
 			String _name = "BridgeTip";
-			String _text = "ÈÃ¾ÓÃñÄÜµ½´ïºÓ¶Ô°¶¡£";
+			String _text = "è®©å±…æ°‘èƒ½åˆ°è¾¾æ²³å¯¹å²¸ã€‚";
 		}
 		{
 			String _name = "Tunnel";
-			String _text = "ËíµÀ";
+			String _text = "éš§é“";
 		}
 		{
 			String _name = "TunnelLwr";
-			String _text = "ËíµÀ";
+			String _text = "éš§é“";
 		}
 		{
 			String _name = "TunnelTip";
-			String _text = "ÈÃ¾ÓÃñÄÜ´©¹ıĞ¡É½¡£";
+			String _text = "è®©å±…æ°‘èƒ½ç©¿è¿‡å°å±±ã€‚";
 		}
 		{
 			String _name = "ClearResources";
-			String _text = "Çå³ı×ÊÔ´";
+			String _text = "æ¸…é™¤èµ„æº";
 		}
 		{
 			String _name = "ClearResourcesTip";
-			String _text = "ÔÚÑ¡¶¨µÄÇøÓòÀïÇå³ı×ÊÔ´¡£";
+			String _text = "åœ¨é€‰å®šçš„åŒºåŸŸé‡Œæ¸…é™¤èµ„æºã€‚";
 		}
 		{
 			String _name = "ClearBuildings";
-			String _text = "Çå³ı½¨ÖşÎï";
+			String _text = "æ¸…é™¤å»ºç­‘ç‰©";
 		}
 		{
 			String _name = "ClearBuildingsTip";
-			String _text = "ÔÚÑ¡¶¨µÄÇøÓòÀïÇå³ı½¨ÖşÎï¡£";
+			String _text = "åœ¨é€‰å®šçš„åŒºåŸŸé‡Œæ¸…é™¤å»ºç­‘ç‰©ã€‚";
 		}
 		{
 			String _name = "ClearTree";
-			String _text = "¿³·¥Ä¾²Ä";
+			String _text = "ç ä¼æœ¨æ";
 		}
 		{
 			String _name = "ClearTreeTip";
-			String _text = "ÔÚÑ¡¶¨µÄÇøÓòÄÚ¿³·¥Ä¾²Ä¡£";
+			String _text = "åœ¨é€‰å®šçš„åŒºåŸŸå†…ç ä¼æœ¨æã€‚";
 		}
 		{
 			String _name = "ClearIron";
-			String _text = "ÊÕ¼¯Ìú¿ó";
+			String _text = "æ”¶é›†é“çŸ¿";
 		}
 		{
 			String _name = "ClearIronTip";
-			String _text = "ÔÚÑ¡¶¨µÄÇøÓòÄÚÊÕ¼¯Ìú¿ó¡£";
+			String _text = "åœ¨é€‰å®šçš„åŒºåŸŸå†…æ”¶é›†é“çŸ¿ã€‚";
 		}
 		{
 			String _name = "ClearStone";
-			String _text = "ÊÕ¼¯Ê¯²Ä";
+			String _text = "æ”¶é›†çŸ³æ";
 		}
 		{
 			String _name = "ClearStoneTip";
-			String _text = "ÔÚÑ¡¶¨µÄÇøÓòÄÚÊÖ»úÊ¯²Ä¡£";
+			String _text = "åœ¨é€‰å®šçš„åŒºåŸŸå†…æ‰‹æœºçŸ³æã€‚";
 		}
 		{
 			String _name = "ClearRoad";
-			String _text = "Çå³ıµÀÂ·";
+			String _text = "æ¸…é™¤é“è·¯";
 		}
 		{
 			String _name = "ClearRoadTip";
-			String _text = "ÔÚÑ¡¶¨µÄÇøÓòÄÚÇå³ıµÀÂ·¡£";
+			String _text = "åœ¨é€‰å®šçš„åŒºåŸŸå†…æ¸…é™¤é“è·¯ã€‚";
 		}
 		{
 			String _name = "ClearMushroom";
-			String _text = "ÊÕ¼¯²İÒ©";
+			String _text = "æ”¶é›†è‰è¯";
 		}
 		{
 			String _name = "ClearMushroomTip";
-			String _text = "ÔÚÑ¡¶¨µÄÇøÓòÄÚÊÕ¼¯²İÒ©";
+			String _text = "åœ¨é€‰å®šçš„åŒºåŸŸå†…æ”¶é›†è‰è¯";
 		}
 		{
 			String _name = "ClearWild";
-			String _text = "ÊÕ»ñÒ°ÉúÊ³Îï";
+			String _text = "æ”¶è·é‡ç”Ÿé£Ÿç‰©";
 		}
 		{
 			String _name = "ClearWildTip";
-			String _text = "ÔÚÇøÓòÖĞÊÕ¼¯ËùÓĞÒ°ÉúÊ³Îï.";
+			String _text = "åœ¨åŒºåŸŸä¸­æ”¶é›†æ‰€æœ‰é‡ç”Ÿé£Ÿç‰©.";
 		}
 		{
 			String _name = "ClearPriority";
-			String _text = "Ôö¼ÓÓÅÏÈ¼¶";
+			String _text = "å¢åŠ ä¼˜å…ˆçº§";
 		}
 		{
 			String _name = "ClearPriorityTip";
-			String _text = "Ìá¸ßÑ¡¶¨ÇøÓòÄÚÕıÔÚ×÷ÒµµÄ¹¤×÷µÄÓÅÏÈ¼¶¡£";
+			String _text = "æé«˜é€‰å®šåŒºåŸŸå†…æ­£åœ¨ä½œä¸šçš„å·¥ä½œçš„ä¼˜å…ˆçº§ã€‚";
 		}
 		{
 			String _name = "ClearCancel";
-			String _text = "È¡ÏûÇå³ı";
+			String _text = "å–æ¶ˆæ¸…é™¤";
 		}
 		{
 			String _name = "ClearCancelTip";
-			String _text = "È¡ÏûÖ¸¶¨ÇøÓòÄÚÏÖÓĞµÄÇå³ı¹¤×÷¡£";
+			String _text = "å–æ¶ˆæŒ‡å®šåŒºåŸŸå†…ç°æœ‰çš„æ¸…é™¤å·¥ä½œã€‚";
 		}
 		{
 			String _name = "ToolProfession";
-			String _text = "¹¤×÷";
+			String _text = "å·¥ä½œ";
 		}
 		{
 			String _name = "ToolProfessionTip";
-			String _text = "¸øÊĞÃñÖ¸ÅÉ¹¤×÷¡£";
+			String _text = "ç»™å¸‚æ°‘æŒ‡æ´¾å·¥ä½œã€‚";
 		}
 		{
 			String _name = "ToolMap";
-			String _text = "µØÍ¼";
+			String _text = "åœ°å›¾";
 		}
 		{
 			String _name = "ToolMapTip";
-			String _text = "ÏÔÊ¾¸ÃÇøÓòµÄĞ¡µØÍ¼¡£";
+			String _text = "æ˜¾ç¤ºè¯¥åŒºåŸŸçš„å°åœ°å›¾ã€‚";
 		}
 		{
 			String _name = "ToolPath";
-			String _text = "Â·¾¶";
+			String _text = "è·¯å¾„";
 		}
 		{
 			String _name = "ToolPathTip";
-			String _text = "ÏÔÊ¾ÊĞÃñÔÚ¼ÒÓë¹¤×÷µØµã¼äµÄÂ·Ïß¡£";
+			String _text = "æ˜¾ç¤ºå¸‚æ°‘åœ¨å®¶ä¸å·¥ä½œåœ°ç‚¹é—´çš„è·¯çº¿ã€‚";
 		}
 		{
 			String _name = "ToolDebug";
-			String _text = "µ÷ÊÔ";
+			String _text = "è°ƒè¯•";
 		}
 		{
 			String _name = "ToolDebugTip";
-			String _text = "ÏÔÊ¾µ÷ÊÔÑ¡Ïî¡£";
+			String _text = "æ˜¾ç¤ºè°ƒè¯•é€‰é¡¹ã€‚";
 		}
 		{
 			String _name = "ToolCapture";
-			String _text = "½ØÍ¼";
+			String _text = "æˆªå›¾";
 		}
 		{
 			String _name = "ToolCaptureTip";
-			String _text = "ÏÔÊ¾½ØÍ¼¹¤¾ß¡£";
+			String _text = "æ˜¾ç¤ºæˆªå›¾å·¥å…·ã€‚";
 		}
 		{
 			String _name = "ToolHelp";
-			String _text = "°ïÖú";
+			String _text = "å¸®åŠ©";
 		}
 		{
 			String _name = "ToolHelpTip";
-			String _text = "ÏÔÊ¾°ïÖú¼°ÓÃ»§ÊÖ²á¡£";
+			String _text = "æ˜¾ç¤ºå¸®åŠ©åŠç”¨æˆ·æ‰‹å†Œã€‚";
 		}
 		{
 			String _name = "ToolNoise";
@@ -3946,31 +3946,31 @@ StringTable objects
 		}
 		{
 			String _name = "ToolStatusBar";
-			String _text = "×ÛºÏÍ³¼Æ";
+			String _text = "ç»¼åˆç»Ÿè®¡";
 		}
 		{
 			String _name = "ToolStatusBarTip";
-			String _text = "ÏÔÊ¾³ÇÕò×ÛºÏÊı¾İ¡£";
+			String _text = "æ˜¾ç¤ºåŸé•‡ç»¼åˆæ•°æ®ã€‚";
 		}
 		{
 			String _name = "ToolEventLog";
-			String _text = "ÊÂ¼şÈÕÖ¾";
+			String _text = "äº‹ä»¶æ—¥å¿—";
 		}
 		{
 			String _name = "ToolEventLogTip";
-			String _text = "ÏÔÊ¾ÒÑ·¢ÉúµÄÊÂ¼şÈÕÖ¾¡£";
+			String _text = "æ˜¾ç¤ºå·²å‘ç”Ÿçš„äº‹ä»¶æ—¥å¿—ã€‚";
 		}
 		{
 			String _name = "ToolLimit";
-			String _text = "×ÊÔ´ÉÏÏŞ";
+			String _text = "èµ„æºä¸Šé™";
 		}
 		{
 			String _name = "ToolLimitTip";
-			String _text = "ÏÔÊ¾×ÊÔ´²úÆ·µÄÉÏÏŞ¡£";
+			String _text = "æ˜¾ç¤ºèµ„æºäº§å“çš„ä¸Šé™ã€‚";
 		}
 		{
 			String _name = "ToolTutorial";
-			String _text = "°ïÖú";
+			String _text = "å¸®åŠ©";
 		}
 		{
 			String _name = "CreateOk";
@@ -3978,15 +3978,15 @@ StringTable objects
 		}
 		{
 			String _name = "CreateTooSmall";
-			String _text = "@0 Ì«Ğ¡.";
+			String _text = "@0 å¤ªå°.";
 		}
 		{
 			String _name = "CreateTooBig";
-			String _text = "@0 Ì«´ó.";
+			String _text = "@0 å¤ªå¤§.";
 		}
 		{
 			String _name = "CreateBlocked";
-			String _text = "@0 ²»ÄÜ·ÅÔÚÕâÎ»ÖÃ.";
+			String _text = "@0 ä¸èƒ½æ”¾åœ¨è¿™ä½ç½®.";
 		}
 	]
 }
@@ -3997,15 +3997,15 @@ StringTable orderTypes
 	[ 
 		{
 			String _name = "Type0";
-			String _text = "´Ó²»";
+			String _text = "ä»ä¸";
 		}
 		{
 			String _name = "Type1";
-			String _text = "Ö»ÓĞÒ»´Î";
+			String _text = "åªæœ‰ä¸€æ¬¡";
 		}
 		{
 			String _name = "Type2";
-			String _text = "Ã¿´ÎÀ´·Ã";
+			String _text = "æ¯æ¬¡æ¥è®¿";
 		}
 	]
 }
@@ -4016,31 +4016,31 @@ StringTable productionYears
 	[ 
 		{
 			String _name = "Type0";
-			String _text = "1Äê";
+			String _text = "1å¹´";
 		}
 		{
 			String _name = "Type1";
-			String _text = "2Äê";
+			String _text = "2å¹´";
 		}
 		{
 			String _name = "Type2";
-			String _text = "5Äê";
+			String _text = "5å¹´";
 		}
 		{
 			String _name = "Type3";
-			String _text = "10Äê";
+			String _text = "10å¹´";
 		}
 		{
 			String _name = "Type6";
-			String _text = "25Äê";
+			String _text = "25å¹´";
 		}
 		{
 			String _name = "Type7";
-			String _text = "50Äê";
+			String _text = "50å¹´";
 		}
 		{
 			String _name = "Type8";
-			String _text = "100Äê";
+			String _text = "100å¹´";
 		}
 	]
 }
@@ -4051,251 +4051,251 @@ StringTable professions
 	[ 
 		{
 			String _name = "ProfessionLaborer";
-			String _text = "ÏĞ¹¤";
+			String _text = "é—²å·¥";
 		}
 		{
 			String _name = "ProfessionLaborerTip";
-			String _text = "ÏĞ¹¤½øĞĞ¼òµ¥µÄ¹¤×÷£¬±ÈÈçÇå³ıÇøÓò£¬½«²úÆ·°áÔË½ø²Ö¿â.";
+			String _text = "é—²å·¥è¿›è¡Œç®€å•çš„å·¥ä½œï¼Œæ¯”å¦‚æ¸…é™¤åŒºåŸŸï¼Œå°†äº§å“æ¬è¿è¿›ä»“åº“.";
 		}
 		{
 			String _name = "ProfessionLaborerDeath";
-			String _text = "ÔÚÒ°ÍâÊ§×Ù£¬ÏÂÂä²»Ã÷.";
+			String _text = "åœ¨é‡å¤–å¤±è¸ªï¼Œä¸‹è½ä¸æ˜.";
 		}
 		{
 			String _name = "ProfessionBuilder";
-			String _text = "½¨ÖşÕß";
+			String _text = "å»ºç­‘è€…";
 		}
 		{
 			String _name = "ProfessionBuilderTip";
-			String _text = "½¨ÖşÕß¿ÉÒÔ½¨Ôì½¨Öş£¬ÇÅÁº¼°ËíµÀ.";
+			String _text = "å»ºç­‘è€…å¯ä»¥å»ºé€ å»ºç­‘ï¼Œæ¡¥æ¢åŠéš§é“.";
 		}
 		{
 			String _name = "ProfessionBuilderDeath";
-			String _text = "²Èµ½ÁË¹¤µØÉÏµÄĞâ¶¤×Ó£¬´óÒâ²»´òÆÆÉË·ç£¬¶¾·¢ÉíÍö.";
+			String _text = "è¸©åˆ°äº†å·¥åœ°ä¸Šçš„é”ˆé’‰å­ï¼Œå¤§æ„ä¸æ‰“ç ´ä¼¤é£ï¼Œæ¯’å‘èº«äº¡.";
 		}
 		{
 			String _name = "ProfessionFarmer";
-			String _text = "Å©Ãñ";
+			String _text = "å†œæ°‘";
 		}
 		{
 			String _name = "ProfessionFarmerTip";
-			String _text = "Å©ÃñÖÖÖ²×÷ÎïºÍ¾­Óª×Å¹ûÔ°.";
+			String _text = "å†œæ°‘ç§æ¤ä½œç‰©å’Œç»è¥ç€æœå›­.";
 		}
 		{
 			String _name = "ProfessionFarmeDeathr";
-			String _text = "±»¶¾³æÒ§ËÀ.";
+			String _text = "è¢«æ¯’è™«å’¬æ­».";
 		}
 		{
 			String _name = "ProfessionHerdsman";
-			String _text = "ÄÁÃñ";
+			String _text = "ç‰§æ°‘";
 		}
 		{
 			String _name = "ProfessionHerdsmanTip";
-			String _text = "ÄÁÃñÑøÖ³ÔÚÄÁ³¡ÑøÖ³¿É°®µÄ¶¯ÎïÎª¾ÓÃñÌá¹©¸±²úÆ·ºÍÈâ²úÆ·.";
+			String _text = "ç‰§æ°‘å…»æ®–åœ¨ç‰§åœºå…»æ®–å¯çˆ±çš„åŠ¨ç‰©ä¸ºå±…æ°‘æä¾›å‰¯äº§å“å’Œè‚‰äº§å“.";
 		}
 		{
 			String _name = "ProfessionHerdsmanDeath";
-			String _text = "ÓÉÓÚÅ°´ı¶¯Îï£¬±»ÉúÆøµÄ¶¯ÎïÉ±ËÀ.";
+			String _text = "ç”±äºè™å¾…åŠ¨ç‰©ï¼Œè¢«ç”Ÿæ°”çš„åŠ¨ç‰©æ€æ­».";
 		}
 		{
 			String _name = "ProfessionGatherer";
-			String _text = "²É¼¯Õß";
+			String _text = "é‡‡é›†è€…";
 		}
 		{
 			String _name = "ProfessionGathererTip";
-			String _text = "²É¼¯ÕßÔÚÉ­ÁÖÀïÑ°ÕÒÊ÷¸ù¡¢½¬¹û¡¢Ä¢¹½¡¢Ñó´ĞµÈ.";
+			String _text = "é‡‡é›†è€…åœ¨æ£®æ—é‡Œå¯»æ‰¾æ ‘æ ¹ã€æµ†æœã€è˜‘è‡ã€æ´‹è‘±ç­‰.";
 		}
 		{
 			String _name = "ProfessionGathererDeath";
-			String _text = "³ÔÁËÓĞ¶¾µÄ½¬¹û£¬ÔÚÕÒ²İÒ©Í¾ÖĞ²»ĞÒÓöµ½òşÉß±»´ø×ß.";
+			String _text = "åƒäº†æœ‰æ¯’çš„æµ†æœï¼Œåœ¨æ‰¾è‰è¯é€”ä¸­ä¸å¹¸é‡åˆ°èŸ’è›‡è¢«å¸¦èµ°.";
 		}
 		{
 			String _name = "ProfessionFisherman";
-			String _text = "ÓæÃñ";
+			String _text = "æ¸”æ°‘";
 		}
 		{
 			String _name = "ProfessionFishermanTip";
-			String _text = "ÓæÃñÒÔ²¶ÓãÎª¾ÓÃñÌá¹©Ê³Îï£¨ĞèÒªÓĞ¿ÕÏĞ¹¤ÈË²ÅÄÜ°áÔË£©.";
+			String _text = "æ¸”æ°‘ä»¥æ•é±¼ä¸ºå±…æ°‘æä¾›é£Ÿç‰©ï¼ˆéœ€è¦æœ‰ç©ºé—²å·¥äººæ‰èƒ½æ¬è¿ï¼‰.";
 		}
 		{
 			String _name = "ProfessionFishermanDeath";
-			String _text = "µöÓãÊ±±»º±¼û´óÓãÍÏÏÂË®£¬ÑÍËÀÁË.";
+			String _text = "é’“é±¼æ—¶è¢«ç½•è§å¤§é±¼æ‹–ä¸‹æ°´ï¼Œæ·¹æ­»äº†.";
 		}
 		{
 			String _name = "ProfessionHunter";
-			String _text = "ÁÔÈË";
+			String _text = "çŒäºº";
 		}
 		{
 			String _name = "ProfessionHunterTip";
-			String _text = "ÁÔÈËÔÚÉ­ÁÖÖĞÉ±¿É°®µÄÂ¹Îª¾ÓÃñÌá¹©Â¹ÈâºÍÆ¤¸ï.";
+			String _text = "çŒäººåœ¨æ£®æ—ä¸­æ€å¯çˆ±çš„é¹¿ä¸ºå±…æ°‘æä¾›é¹¿è‚‰å’Œçš®é©.";
 		}
 		{
 			String _name = "ProfessionHunterDeath";
-			String _text = "²»Ğ¡ĞÄÓöµ½Ò°ÖíÈº£¬±»¹°ËÀ.";
+			String _text = "ä¸å°å¿ƒé‡åˆ°é‡çŒªç¾¤ï¼Œè¢«æ‹±æ­».";
 		}
 		{
 			String _name = "ProfessionCutter";
-			String _text = "·¥Ä¾Õß";
+			String _text = "ä¼æœ¨è€…";
 		}
 		{
 			String _name = "ProfessionCutterTip";
-			String _text = "½«Ä¾²ÄÖÆ×÷³É²ñ»ğ.";
+			String _text = "å°†æœ¨æåˆ¶ä½œæˆæŸ´ç«.";
 		}
 		{
 			String _name = "ProfessionCutterDeath";
-			String _text = "¹¤×÷ÖĞ¸«Í·ÍÑÂä£¬±»ÅüËÀ.";
+			String _text = "å·¥ä½œä¸­æ–§å¤´è„±è½ï¼Œè¢«åŠˆæ­».";
 		}
 		{
 			String _name = "ProfessionForester";
-			String _text = "»¤ÁÖÈË";
+			String _text = "æŠ¤æ—äºº";
 		}
 		{
 			String _name = "ProfessionForesterTip";
-			String _text = "»¤ÁÖÈË½«³¤ºÃµÄÊ÷¿³µ¹£¬²¢ÖÖÏÂĞÂµÄÊ÷Ãç.";
+			String _text = "æŠ¤æ—äººå°†é•¿å¥½çš„æ ‘ç å€’ï¼Œå¹¶ç§ä¸‹æ–°çš„æ ‘è‹—.";
 		}
 		{
 			String _name = "ProfessionForesterDeath";
-			String _text = "¿³Ê÷Ê±±»µ¹ÏÂÊ÷Ñ¹ËÀ.";
+			String _text = "ç æ ‘æ—¶è¢«å€’ä¸‹æ ‘å‹æ­».";
 		}
 		{
 			String _name = "ProfessionToolMaker";
-			String _text = "Ìú½³";
+			String _text = "é“åŒ ";
 		}
 		{
 			String _name = "ProfessionToolMakerTip";
-			String _text = "Ìú½³ÓÃÄ¾²ÄºÍÌú¿ó´òÔìÌúÖÊ¹¤¾ß.";
+			String _text = "é“åŒ ç”¨æœ¨æå’Œé“çŸ¿æ‰“é€ é“è´¨å·¥å…·.";
 		}
 		{
 			String _name = "ProfessionToolMakerDeath";
-			String _text = "Ê§×ãµôÈëÈÛÂ¯.";
+			String _text = "å¤±è¶³æ‰å…¥ç†”ç‚‰.";
 		}
 		{
 			String _name = "ProfessionHerbalist";
-			String _text = "Ò©¼ÁÊ¦";
+			String _text = "è¯å‰‚å¸ˆ";
 		}
 		{
 			String _name = "ProfessionHerbalistTip";
-			String _text = "ÊÕ¼¯²İÒ©ÖÎÁÆĞ¡µÄ¼²²¡.";
+			String _text = "æ”¶é›†è‰è¯æ²»ç–—å°çš„ç–¾ç—….";
 		}
 		{
 			String _name = "ProfessionHerbalistDeath";
-			String _text = "ÔÚÒ°Íâ³Ôµ½ÁË¶¾Ä¢¹½£¬¶¾·¢ÉíÍö.";
+			String _text = "åœ¨é‡å¤–åƒåˆ°äº†æ¯’è˜‘è‡ï¼Œæ¯’å‘èº«äº¡.";
 		}
 		{
 			String _name = "ProfessionBrewer";
-			String _text = "Æ¡¾ÆÄğÔìÊ¦";
+			String _text = "å•¤é…’é…¿é€ å¸ˆ";
 		}
 		{
 			String _name = "ProfessionBrewerTip";
-			String _text = "¾­Óª×Å¾Æ¹İ²¢ÄğÔìÆ¡¾Æ.";
+			String _text = "ç»è¥ç€é…’é¦†å¹¶é…¿é€ å•¤é…’.";
 		}
 		{
 			String _name = "ProfessionBrewerDeath";
-			String _text = "ºÈÁËÁÓÖÊÆ¡¾Æµ¹µØ¶øÍö.";
+			String _text = "å–äº†åŠ£è´¨å•¤é…’å€’åœ°è€Œäº¡.";
 		}
 		{
 			String _name = "ProfessionTailor";
-			String _text = "²Ã·ì";
+			String _text = "è£ç¼";
 		}
 		{
 			String _name = "ProfessionTailorTip";
-			String _text = "²Ã·ìÖÆ×÷±£Å¯µÄÒÂ·şÀ´°ï¾ÓÃñµÖÓùÑÏº®.";
+			String _text = "è£ç¼åˆ¶ä½œä¿æš–çš„è¡£æœæ¥å¸®å±…æ°‘æŠµå¾¡ä¸¥å¯’.";
 		}
 		{
 			String _name = "ProfessionTailorDeath";
-			String _text = "±»Ä±É±ÁË£¡";
+			String _text = "è¢«è°‹æ€äº†ï¼";
 		}
 		{
 			String _name = "ProfessionVendor";
-			String _text = "Ğ¡··";
+			String _text = "å°è´©";
 		}
 		{
 			String _name = "ProfessionVendorTip";
-			String _text = "Ğ¡··ÔÚÊĞ³¡ÉÏÊÕ¼¯ºÍÅäËÍÉÌÆ·.";
+			String _text = "å°è´©åœ¨å¸‚åœºä¸Šæ”¶é›†å’Œé…é€å•†å“.";
 		}
 		{
 			String _name = "ProfessionVendorDeath";
-			String _text = "±»Î§Å·ÖÂËÀ£¡";
+			String _text = "è¢«å›´æ¬§è‡´æ­»ï¼";
 		}
 		{
 			String _name = "ProfessionTrader";
-			String _text = "Ã³Ò×Õß";
+			String _text = "è´¸æ˜“è€…";
 		}
 		{
 			String _name = "ProfessionTraderTip";
-			String _text = "Ã³Ò×ÕßÔÚÃ³Ò×Õ¾ÊÕ¼¯ºÍÅäËÍÉÌÆ·.";
+			String _text = "è´¸æ˜“è€…åœ¨è´¸æ˜“ç«™æ”¶é›†å’Œé…é€å•†å“.";
 		}
 		{
 			String _name = "ProfessionTraderDeath";
-			String _text = "×ÔÉ±ÁË.";
+			String _text = "è‡ªæ€äº†.";
 		}
 		{
 			String _name = "ProfessionMiner";
-			String _text = "¿ó¹¤";
+			String _text = "çŸ¿å·¥";
 		}
 		{
 			String _name = "ProfessionMinerTip";
-			String _text = "¿ó¹¤½«Ìú»òÃº´Ó¶´ÖĞÍÚ³öµØÃæ.";
+			String _text = "çŸ¿å·¥å°†é“æˆ–ç…¤ä»æ´ä¸­æŒ–å‡ºåœ°é¢.";
 		}
 		{
 			String _name = "ProfessionMinerDeath";
-			String _text = "Òò¿ó¶´²¿·Öµ¹Ëú¾ÈÔ®²»¼°Ê±¶øËÀ.";
+			String _text = "å› çŸ¿æ´éƒ¨åˆ†å€’å¡Œæ•‘æ´ä¸åŠæ—¶è€Œæ­».";
 		}
 		{
 			String _name = "ProfessionStoneCutter";
-			String _text = "Ê¯½³";
+			String _text = "çŸ³åŒ ";
 		}
 		{
 			String _name = "ProfessionStoneCutterTip";
-			String _text = "Ê¯½³´ÓÍÁµØÀïÍÚ¾òÊ¯Í·.";
+			String _text = "çŸ³åŒ ä»åœŸåœ°é‡ŒæŒ–æ˜çŸ³å¤´.";
 		}
 		{
 			String _name = "ProfessionStoneCutterDeath";
-			String _text = "±»Ê¯Í·ÔÒËÀ";
+			String _text = "è¢«çŸ³å¤´ç ¸æ­»";
 		}
 		{
 			String _name = "ProfessionTeacher";
-			String _text = "ÀÏÊ¦";
+			String _text = "è€å¸ˆ";
 		}
 		{
 			String _name = "ProfessionTeacherTip";
-			String _text = "ÀÏÊ¦½ÌÓıÊĞÃñ£¬°ïÖúÌá¸ßËûÃÇµÄ¹¤×÷Ğ§ÂÊ.";
+			String _text = "è€å¸ˆæ•™è‚²å¸‚æ°‘ï¼Œå¸®åŠ©æé«˜ä»–ä»¬çš„å·¥ä½œæ•ˆç‡.";
 		}
 		{
 			String _name = "ProfessionTeacherDeath";
-			String _text = "ÓÉÓÚ·¢·è±»ÇıÖğ.";
+			String _text = "ç”±äºå‘ç–¯è¢«é©±é€.";
 		}
 		{
 			String _name = "ProfessionDoctor";
-			String _text = "Ò½Éú";
+			String _text = "åŒ»ç”Ÿ";
 		}
 		{
 			String _name = "ProfessionDoctorTip";
-			String _text = "Ò½Éú¿ÉÒÔÒ½ÖÎ¼²²¡£¬Ìá¸ß¾ÓÃñ½¡¿µÂÊ.";
+			String _text = "åŒ»ç”Ÿå¯ä»¥åŒ»æ²»ç–¾ç—…ï¼Œæé«˜å±…æ°‘å¥åº·ç‡.";
 		}
 		{
 			String _name = "ProfessionDoctorDeath";
-			String _text = "ËÀÓÚ³Ô´íÁËÒ©£¡";
+			String _text = "æ­»äºåƒé”™äº†è¯ï¼";
 		}
 		{
 			String _name = "ProfessionPriest";
-			String _text = "ÄÁÊ¦";
+			String _text = "ç‰§å¸ˆ";
 		}
 		{
 			String _name = "ProfessionPriestTip";
-			String _text = "ÄÁÊ¦¸ºÔğÎ¬»¤½ÌÌÃ£¬¸ø¾ÓÃñ´øÀ´¿ìÀÖ.";
+			String _text = "ç‰§å¸ˆè´Ÿè´£ç»´æŠ¤æ•™å ‚ï¼Œç»™å±…æ°‘å¸¦æ¥å¿«ä¹.";
 		}
 		{
 			String _name = "ProfessionPriestDeath";
-			String _text = "ËÀÓÚÊ§Áµ£¡";
+			String _text = "æ­»äºå¤±æ‹ï¼";
 		}
 		{
 			String _name = "ProfessionChild";
-			String _text = "º¢×Ó";
+			String _text = "å­©å­";
 		}
 		{
 			String _name = "ProfessionStudent";
-			String _text = "Ñ§Éú";
+			String _text = "å­¦ç”Ÿ";
 		}
 	]
 }
@@ -4306,15 +4306,15 @@ StringTable purchaseTypes
 	[ 
 		{
 			String _name = "Type0";
-			String _text = "´Ó²»";
+			String _text = "ä»ä¸";
 		}
 		{
 			String _name = "Type1";
-			String _text = "µ±ÉÌÈËµÖ´ï";
+			String _text = "å½“å•†äººæŠµè¾¾";
 		}
 		{
 			String _name = "Type2";
-			String _text = "µ±ÉÌÈËÀë¿ª";
+			String _text = "å½“å•†äººç¦»å¼€";
 		}
 	]
 }
@@ -4325,295 +4325,295 @@ StringTable rawMaterial
 	[ 
 		{
 			String _name = "Log";
-			String _text = "Ä¾²Ä";
+			String _text = "æœ¨æ";
 		}
 		{
 			String _name = "Stone";
-			String _text = "Ê¯²Ä";
+			String _text = "çŸ³æ";
 		}
 		{
 			String _name = "Iron";
-			String _text = "Ìú";
+			String _text = "é“";
 		}
 		{
 			String _name = "Coal";
-			String _text = "Ãº";
+			String _text = "ç…¤";
 		}
 		{
 			String _name = "Tool";
-			String _text = "ÌúÖÆ¹¤¾ß";
+			String _text = "é“åˆ¶å·¥å…·";
 		}
 		{
 			String _name = "SteelTool";
-			String _text = "¸ÖÖÆ¹¤¾ß";
+			String _text = "é’¢åˆ¶å·¥å…·";
 		}
 		{
 			String _name = "Firewood";
-			String _text = "²ñ»ğ";
+			String _text = "æŸ´ç«";
 		}
 		{
 			String _name = "Potato";
-			String _text = "ÍÁ¶¹";
+			String _text = "åœŸè±†";
 		}
 		{
 			String _name = "Wheat";
-			String _text = "Ğ¡Âó";
+			String _text = "å°éº¦";
 		}
 		{
 			String _name = "Corn";
-			String _text = "ÓñÃ×";
+			String _text = "ç‰ç±³";
 		}
 		{
 			String _name = "Cabbage";
-			String _text = "¾íĞÄ²Ë";
+			String _text = "å·å¿ƒèœ";
 		}
 		{
 			String _name = "Squash";
-			String _text = "Î÷ºùÂ«";
+			String _text = "ç¬‹ç“œ";
 		}
 		{
 			String _name = "Bean";
-			String _text = "¶¹×Ó";
+			String _text = "èœè±†";
 		}
 		{
 			String _name = "Pumpkin";
-			String _text = "ÄÏ¹Ï";
+			String _text = "å—ç“œ";
 		}
 		{
 			String _name = "Pepper";
-			String _text = "ºú½·";
+			String _text = "è¾£æ¤’";
 		}
 		{
 			String _name = "Apple";
-			String _text = "Æ»¹û";
+			String _text = "è‹¹æœ";
 		}
 		{
 			String _name = "Cherry";
-			String _text = "Ó£ÌÒ";
+			String _text = "æ¨±æ¡ƒ";
 		}
 		{
 			String _name = "Pear";
-			String _text = "Àæ×Ó";
+			String _text = "æ¢¨";
 		}
 		{
 			String _name = "Peach";
-			String _text = "ÌÒ×Ó";
+			String _text = "æ¡ƒ";
 		}
 		{
 			String _name = "Plum";
-			String _text = "Àî×Ó";
+			String _text = "æå­";
 		}
 		{
 			String _name = "Chestnut";
-			String _text = "°åÀõ";
+			String _text = "æ¿æ —";
 		}
 		{
 			String _name = "Pecan";
-			String _text = "ºúÌÒ";
+			String _text = "å±±æ ¸æ¡ƒ";
 		}
 		{
 			String _name = "Walnut";
-			String _text = "ºËÌÒ";
+			String _text = "æ ¸æ¡ƒ";
 		}
 		{
 			String _name = "Fish";
-			String _text = "Óã";
+			String _text = "é±¼";
 		}
 		{
 			String _name = "Chicken";
-			String _text = "¼¦";
+			String _text = "é¸¡";
 		}
 		{
 			String _name = "Venison";
-			String _text = "Â¹Èâ";
+			String _text = "é¹¿è‚‰";
 		}
 		{
 			String _name = "Beef";
-			String _text = "Å£Èâ";
+			String _text = "ç‰›è‚‰";
 		}
 		{
 			String _name = "Mutton";
-			String _text = "ÑòÈâ";
+			String _text = "ç¾Šè‚‰";
 		}
 		{
 			String _name = "Mushroom";
-			String _text = "Ä¢¹½";
+			String _text = "è˜‘è‡";
 		}
 		{
 			String _name = "Onion";
-			String _text = "Ñó´Ğ";
+			String _text = "æ´‹è‘±";
 		}
 		{
 			String _name = "Blueberry";
-			String _text = "½¬¹û";
+			String _text = "æµ†æœ";
 		}
 		{
 			String _name = "Root";
-			String _text = "²İ¸ù";
+			String _text = "è‰æ ¹";
 		}
 		{
 			String _name = "Herb";
-			String _text = "²İÒ©";
+			String _text = "è‰è¯";
 		}
 		{
 			String _name = "Egg";
-			String _text = "µ°";
+			String _text = "è›‹";
 		}
 		{
 			String _name = "Wool";
-			String _text = "ÑòÃ«";
+			String _text = "ç¾Šæ¯›";
 		}
 		{
 			String _name = "Leather";
-			String _text = "Æ¤¸ï";
+			String _text = "çš®é©";
 		}
 		{
 			String _name = "WinterCoat";
-			String _text = "±£Å¯ÍâÌ×";
+			String _text = "ä¿æš–å¤–å¥—";
 		}
 		{
 			String _name = "WoolCoat";
-			String _text = "ÑòÃ«´óÒÂ";
+			String _text = "ç¾Šæ¯›å¤§è¡£";
 		}
 		{
 			String _name = "LeatherCoat";
-			String _text = "Æ¤¸ï´óÒÂ";
+			String _text = "çš®é©å¤§è¡£";
 		}
 		{
 			String _name = "Ale";
-			String _text = "¾Æ";
+			String _text = "é…’";
 		}
 		{
 			String _name = "Chickens";
-			String _text = "¼¦";
+			String _text = "é¸¡";
 		}
 		{
 			String _name = "Cows";
-			String _text = "Å£";
+			String _text = "ç‰›";
 		}
 		{
 			String _name = "Sheeps";
-			String _text = "Ñò";
+			String _text = "ç¾Š";
 		}
 		{
 			String _name = "SeedApple";
-			String _text = "Æ»¹ûÊ÷Ãç";
+			String _text = "è‹¹æœæ ‘è‹—";
 		}
 		{
 			String _name = "SeedCherry";
-			String _text = "Ó£ÌÒÊ÷Ãç";
+			String _text = "æ¨±æ¡ƒæ ‘è‹—";
 		}
 		{
 			String _name = "SeedPear";
-			String _text = "ÀæÊ÷Ãç";
+			String _text = "æ¢¨æ ‘è‹—";
 		}
 		{
 			String _name = "SeedPeach";
-			String _text = "ÌÒÊ÷Ãç";
+			String _text = "æ¡ƒæ ‘è‹—";
 		}
 		{
 			String _name = "SeedPlum";
-			String _text = "Àî×ÓÊ÷Ãç";
+			String _text = "æå­æ ‘è‹—";
 		}
 		{
 			String _name = "SeedChestnut";
-			String _text = "°åÀõÊ÷Ãç";
+			String _text = "æ¿æ —æ ‘è‹—";
 		}
 		{
 			String _name = "SeedPecan";
-			String _text = "É½ºËÌÒÊ÷Ãç";
+			String _text = "å±±æ ¸æ¡ƒæ ‘è‹—";
 		}
 		{
 			String _name = "SeedWalnut";
-			String _text = "ºËÌÒÊ÷Ãç";
+			String _text = "æ ¸æ¡ƒæ ‘è‹—";
 		}
 		{
 			String _name = "SeedCabbage";
-			String _text = "°×²ËÖÖ×Ó";
+			String _text = "å·å¿ƒèœç§å­";
 		}
 		{
 			String _name = "SeedCorn";
-			String _text = "ÓñÃ×ÖÖ×Ó";
+			String _text = "ç‰ç±³ç§å­";
 		}
 		{
 			String _name = "SeedPotato";
-			String _text = "ÍÁ¶¹ÖÖ×Ó";
+			String _text = "åœŸè±†ç§å­";
 		}
 		{
 			String _name = "SeedSquash";
-			String _text = "Ëñ¹ÏÖÖ×Ó";
+			String _text = "ç¬‹ç“œç§å­";
 		}
 		{
 			String _name = "SeedWheat";
-			String _text = "Ğ¡ÂóÖÖ×Ó";
+			String _text = "å°éº¦ç§å­";
 		}
 		{
 			String _name = "SeedBean";
-			String _text = "²Ë¶¹ÖÖ×Ó";
+			String _text = "èœè±†ç§å­";
 		}
 		{
 			String _name = "SeedPepper";
-			String _text = "À±½·ÖÖ×Ó";
+			String _text = "è¾£æ¤’ç§å­";
 		}
 		{
 			String _name = "SeedPumpkin";
-			String _text = "ÄÏ¹ÏÖÖ×Ó";
+			String _text = "å—ç“œç§å­";
 		}
 		{
 			String _name = "LeatherCoatRequire";
-			String _text = "ÊŞÆ¤´óÒÂ [Æ¤¸ï]";
+			String _text = "å…½çš®å¤§è¡£ [çš®é©]";
 		}
 		{
 			String _name = "WoolCoatRequire";
-			String _text = "ÑòÃ«´óÒÂ [ÑòÃ«]";
+			String _text = "ç¾Šæ¯›å¤§è¡£ [ç¾Šæ¯›]";
 		}
 		{
 			String _name = "WinterCoatRequire";
-			String _text = "±£Å¯´óÒÂ [Æ¤¸ï + ÑòÃ«]";
+			String _text = "ä¿æš–å¤§è¡£ [çš®é© + ç¾Šæ¯›]";
 		}
 		{
 			String _name = "ToolRequire";
-			String _text = "ÌúÖÊ¹¤¾ß [Ä¾²Ä + Ìú]";
+			String _text = "é“è´¨å·¥å…· [æœ¨æ + é“]";
 		}
 		{
 			String _name = "SteelToolRequire";
-			String _text = "¸ÖÖÆ¹¤¾ß [Ä¾²Ä + Ìù + Ãº]";
+			String _text = "é’¢åˆ¶å·¥å…· [æœ¨æ + é“ + ç…¤]";
 		}
 		{
 			String _name = "CoalRequire";
-			String _text = "Ãº";
+			String _text = "ç…¤";
 		}
 		{
 			String _name = "IronRequire";
-			String _text = "Ìú";
+			String _text = "é“";
 		}
 		{
 			String _name = "AleAppleRequire";
-			String _text = "Æ¡¾Æ [Æ»¹û]";
+			String _text = "å•¤é…’ [è‹¹æœ]";
 		}
 		{
 			String _name = "AleBlueberryRequire";
-			String _text = "Æ¡¾Æ [Ê÷İ®]";
+			String _text = "å•¤é…’ [æ ‘è“]";
 		}
 		{
 			String _name = "AleCherryRequire";
-			String _text = "Æ¡¾Æ [Ó£ÌÒ]";
+			String _text = "å•¤é…’ [æ¨±æ¡ƒ]";
 		}
 		{
 			String _name = "AlePearRequire";
-			String _text = "Æ¡¾Æ [Àæ]";
+			String _text = "å•¤é…’ [æ¢¨]";
 		}
 		{
 			String _name = "AlePeachRequire";
-			String _text = "Æ¡¾Æ [ÌÒ×Ó]";
+			String _text = "å•¤é…’ [æ¡ƒå­]";
 		}
 		{
 			String _name = "AlePlumRequire";
-			String _text = "Æ¡¾Æ [Àî×Ó]";
+			String _text = "å•¤é…’ [æå­]";
 		}
 		{
 			String _name = "AleWheatRequire";
-			String _text = "Æ¡¾Æ [Ğ¡Âó]";
+			String _text = "å•¤é…’ [å°éº¦]";
 		}
 	]
 }
@@ -4624,15 +4624,15 @@ StringTable reflectionQuality
 	[ 
 		{
 			String _name = "Level0";
-			String _text = "ÎŞ";
+			String _text = "æ— ";
 		}
 		{
 			String _name = "Level1";
-			String _text = "µØĞÎ";
+			String _text = "åœ°å½¢";
 		}
 		{
 			String _name = "Level2";
-			String _text = "È«²¿";
+			String _text = "å…¨éƒ¨";
 		}
 	]
 }
@@ -4643,55 +4643,55 @@ StringTable scenario
 	[ 
 		{
 			String _name = "ScenarioIsolation";
-			String _text = "¸ôÀë";
+			String _text = "éš”ç¦»";
 		}
 		{
 			String _name = "ScenarioIsolationDesc";
-			String _text = "ÀûÓÃµØÍ¼ÉÏµÄ×ÊÔ´ºÍ³õÊ¼ÈË¿Ú£¬´ïµ½300µÄÈË¿Ú£¬²¢²»½¨ÔìÃ³Ò×Õ¾.";
+			String _text = "åˆ©ç”¨åœ°å›¾ä¸Šçš„èµ„æºå’Œåˆå§‹äººå£ï¼Œè¾¾åˆ°300çš„äººå£ï¼Œå¹¶ä¸å»ºé€ è´¸æ˜“ç«™.";
 		}
 		{
 			String _name = "ScenarioIsolationGoal0";
-			String _text = "´ïµ½300ÈË¿Ú.";
+			String _text = "è¾¾åˆ°300äººå£.";
 		}
 		{
 			String _name = "ScenarioIsolationGoal1";
-			String _text = "²»½¨ÔìÃ³Ò×Õ¾.";
+			String _text = "ä¸å»ºé€ è´¸æ˜“ç«™.";
 		}
 		{
 			String _name = "TutorialGoal";
-			String _text = "Íê³É±¾½Ì³Ì.";
+			String _text = "å®Œæˆæœ¬æ•™ç¨‹.";
 		}
 		{
 			String _name = "TutorialGettingStarted";
-			String _text = "¿ªÊ¼";
+			String _text = "å¼€å§‹";
 		}
 		{
 			String _name = "TutorialGettingStartedDesc";
-			String _text = "ÁË½âÓÎÏ·ÀïµÄ»ù±¾²Ù×÷£¬°üÀ¨½ØÍ¼£¬»ù±¾½¨ÖşÀàĞÍ£¬ÔõÃ´·ÖÅä¹¤×÷µÈ.";
+			String _text = "äº†è§£æ¸¸æˆé‡Œçš„åŸºæœ¬æ“ä½œï¼ŒåŒ…æ‹¬æˆªå›¾ï¼ŒåŸºæœ¬å»ºç­‘ç±»å‹ï¼Œæ€ä¹ˆåˆ†é…å·¥ä½œç­‰.";
 		}
 		{
 			String _name = "TutorialSurvival";
-			String _text = "Éú´æ";
+			String _text = "ç”Ÿå­˜";
 		}
 		{
 			String _name = "TutorialSurvivalDesc";
-			String _text = "Ñ§Ï°ÈçºÎ½¨Ôì×ÊÔ´ĞÍ½¨ÖşÀ´Éú²úÉÌÆ·£¬¿ÉÒÔÌá¸ßÉú´æÂÊ£¬±ÈÈçÌú½³³Ç¡¢²Ã·ìµÈ.";
+			String _text = "å­¦ä¹ å¦‚ä½•å»ºé€ èµ„æºå‹å»ºç­‘æ¥ç”Ÿäº§å•†å“ï¼Œå¯ä»¥æé«˜ç”Ÿå­˜ç‡ï¼Œæ¯”å¦‚é“åŒ åŸã€è£ç¼ç­‰.";
 		}
 		{
 			String _name = "TutorialFood";
-			String _text = "Ê³ÎïÉú²ú";
+			String _text = "é£Ÿç‰©ç”Ÿäº§";
 		}
 		{
 			String _name = "TutorialFoodDesc";
-			String _text = "Ñ§Ï°ÈçºÎ´ÓµöÓã¡¢´òÁÔ¡¢²É¼¯¡¢ÖÖÖ²Å©×÷Îï¡¢ÖÖÖ²¹ûÊ÷¡¢ËÇÑø¶¯ÎïÀ´µÃµ½Ê³Îï.";
+			String _text = "å­¦ä¹ å¦‚ä½•ä»é’“é±¼ã€æ‰“çŒã€é‡‡é›†ã€ç§æ¤å†œä½œç‰©ã€ç§æ¤æœæ ‘ã€é¥²å…»åŠ¨ç‰©æ¥å¾—åˆ°é£Ÿç‰©.";
 		}
 		{
 			String _name = "TutorialTrade";
-			String _text = "Ã³Ò×";
+			String _text = "è´¸æ˜“";
 		}
 		{
 			String _name = "TutorialTradeDesc";
-			String _text = "Ñ§Ï°ÈçºÎÀûÓÃÃ³Ò×À´µÃµ½ĞÂµÄÅ©×÷ÎïÖÖ×Ó¡¢¹ûÊ÷ÖÖ×Ó¡¢¶¯Îï¡¢Ê³Îï¡¢¹¤¾ßºÍÆäËû×ÊÔ´.";
+			String _text = "å­¦ä¹ å¦‚ä½•åˆ©ç”¨è´¸æ˜“æ¥å¾—åˆ°æ–°çš„å†œä½œç‰©ç§å­ã€æœæ ‘ç§å­ã€åŠ¨ç‰©ã€é£Ÿç‰©ã€å·¥å…·å’Œå…¶ä»–èµ„æº.";
 		}
 	]
 }
@@ -4702,51 +4702,51 @@ StringTable seasons
 	[ 
 		{
 			String _name = "Month0";
-			String _text = "Ôç´º";
+			String _text = "æ—©æ˜¥";
 		}
 		{
 			String _name = "Month1";
-			String _text = "´ºÌì";
+			String _text = "æ˜¥å¤©";
 		}
 		{
 			String _name = "Month2";
-			String _text = "´ºÄ©";
+			String _text = "æ˜¥æœ«";
 		}
 		{
 			String _name = "Month3";
-			String _text = "³õÏÄ";
+			String _text = "åˆå¤";
 		}
 		{
 			String _name = "Month4";
-			String _text = "ÏÄÌì";
+			String _text = "å¤å¤©";
 		}
 		{
 			String _name = "Month5";
-			String _text = "ÏÄÄ©";
+			String _text = "å¤æœ«";
 		}
 		{
 			String _name = "Month6";
-			String _text = "³õÇï";
+			String _text = "åˆç§‹";
 		}
 		{
 			String _name = "Month7";
-			String _text = "ÇïÌì";
+			String _text = "ç§‹å¤©";
 		}
 		{
 			String _name = "Month8";
-			String _text = "ÇïÄ©";
+			String _text = "ç§‹æœ«";
 		}
 		{
 			String _name = "Month9";
-			String _text = "³õ¶¬";
+			String _text = "åˆå†¬";
 		}
 		{
 			String _name = "Month10";
-			String _text = "¶¬Ìì";
+			String _text = "å†¬å¤©";
 		}
 		{
 			String _name = "Month11";
-			String _text = "¶¬Ä©";
+			String _text = "å†¬æœ«";
 		}
 	]
 }
@@ -4757,19 +4757,19 @@ StringTable shadowDetail
 	[ 
 		{
 			String _name = "Level0";
-			String _text = "ÎŞ";
+			String _text = "æ— ";
 		}
 		{
 			String _name = "Level1";
-			String _text = "µÍ";
+			String _text = "ä½";
 		}
 		{
 			String _name = "Level2";
-			String _text = "ÖĞ";
+			String _text = "ä¸­";
 		}
 		{
 			String _name = "Level3";
-			String _text = "¸ß";
+			String _text = "é«˜";
 		}
 	]
 }
@@ -4780,15 +4780,15 @@ StringTable shadowResolution
 	[ 
 		{
 			String _name = "Level0";
-			String _text = "¸ß";
+			String _text = "é«˜";
 		}
 		{
 			String _name = "Level1";
-			String _text = "ÖĞ";
+			String _text = "ä¸­";
 		}
 		{
 			String _name = "Level2";
-			String _text = "µÍ";
+			String _text = "ä½";
 		}
 	]
 }
@@ -4799,27 +4799,27 @@ StringTable startConditions
 	[ 
 		{
 			String _name = "HardName";
-			String _text = "À§ÄÑ";
+			String _text = "å›°éš¾";
 		}
 		{
 			String _name = "HardDesc";
-			String _text = "À§ÄÑÓÎÏ·¿ª³¡ÓĞËÄ×é¼ÒÍ¥¡£Ö»ÓĞÉÙÁ¿µÄÒÂÎï£¬Ê³Îï£¬²ñ»ğÒÔ¼°¹¤¾ß¡£Ã»ÓĞ¿ÉÒÔÖÖÖ²µÄÖÖ×Ó¡£";
+			String _text = "å›°éš¾æ¸¸æˆå¼€åœºæœ‰å››ç»„å®¶åº­ã€‚åªæœ‰å°‘é‡çš„è¡£ç‰©ï¼Œé£Ÿç‰©ï¼ŒæŸ´ç«ä»¥åŠå·¥å…·ã€‚æ²¡æœ‰å¯ä»¥ç§æ¤çš„ç§å­ã€‚";
 		}
 		{
 			String _name = "MediumName";
-			String _text = "ÖĞµÈ";
+			String _text = "ä¸­ç­‰";
 		}
 		{
 			String _name = "MediumDesc";
-			String _text = "ÖĞµÈÄÑ¶È¿ª³¡ÓĞÎå×é¼ÒÍ¥¡£Ìá¹©ÒÂÎï£¬Ê³Îï£¬²ñ»ğ£¬¹¤¾ßÒÔ¼°½¨Ôì²ÄÁÏ¡£»¹ÓĞÒ»¸ö½¨ºÃµÄ²Ö¿â£¬Ò»Ğ©¿ÉÒÔÖÖÖ²µÄÅ©×÷ÎïºÍ¹ûÊ÷ÖÖ×Ó¡£";
+			String _text = "ä¸­ç­‰éš¾åº¦å¼€åœºæœ‰äº”ç»„å®¶åº­ã€‚æä¾›è¡£ç‰©ï¼Œé£Ÿç‰©ï¼ŒæŸ´ç«ï¼Œå·¥å…·ä»¥åŠå»ºé€ ææ–™ã€‚è¿˜æœ‰ä¸€ä¸ªå»ºå¥½çš„ä»“åº“ï¼Œä¸€äº›å¯ä»¥ç§æ¤çš„å†œä½œç‰©å’Œæœæ ‘ç§å­ã€‚";
 		}
 		{
 			String _name = "EasyName";
-			String _text = "¼òµ¥";
+			String _text = "ç®€å•";
 		}
 		{
 			String _name = "EasyDesc";
-			String _text = "¼òµ¥ÄÑ¶È¿ª³¡ÓĞÁù×é¼ÒÍ¥¡£Ìá¹©´óÁ¿µÄÒÂÎï£¬Ê³Îï£¬²ñ»ğ£¬¹¤¾ßÒÔ¼°½¨Öş²ÄÁÏ¡£×¡·¿ºÍ²Ö¿â¶¼ÒÑ½¨ºÃ¡£Ìá¹©ÁËÅ©×÷ÎïºÍ¹ûÊ÷µÄÖÖ×Ó£¬»¹ÓĞÒ»ÈºÉüĞó¿ÉÒÔÖ±½ÓËÇÑø¡£";
+			String _text = "ç®€å•éš¾åº¦å¼€åœºæœ‰å…­ç»„å®¶åº­ã€‚æä¾›å¤§é‡çš„è¡£ç‰©ï¼Œé£Ÿç‰©ï¼ŒæŸ´ç«ï¼Œå·¥å…·ä»¥åŠå»ºç­‘ææ–™ã€‚ä½æˆ¿å’Œä»“åº“éƒ½å·²å»ºå¥½ã€‚æä¾›äº†å†œä½œç‰©å’Œæœæ ‘çš„ç§å­ï¼Œè¿˜æœ‰ä¸€ç¾¤ç‰²ç•œå¯ä»¥ç›´æ¥é¥²å…»ã€‚";
 		}
 	]
 }
@@ -4830,15 +4830,15 @@ StringTable terrainSize
 	[ 
 		{
 			String _name = "TerrainSize0";
-			String _text = "Ğ¡";
+			String _text = "å°";
 		}
 		{
 			String _name = "TerrainSize1";
-			String _text = "ÖĞ";
+			String _text = "ä¸­";
 		}
 		{
 			String _name = "TerrainSize2";
-			String _text = "´ó";
+			String _text = "å¤§";
 		}
 	]
 }
@@ -4849,11 +4849,11 @@ StringTable terrainType
 	[ 
 		{
 			String _name = "Valleys";
-			String _text = "Æ½Ô­";
+			String _text = "å±±è°·";
 		}
 		{
 			String _name = "Mountains";
-			String _text = "É½µØ";
+			String _text = "å±±è„‰";
 		}
 	]
 }
@@ -4864,15 +4864,15 @@ StringTable textureFilter
 	[ 
 		{
 			String _name = "Filter0";
-			String _text = "Ë«ÏßĞÔ¹ıÂË";
+			String _text = "åŒçº¿æ€§è¿‡æ»¤";
 		}
 		{
 			String _name = "Filter1";
-			String _text = "ÈıÏßĞÔ¹ıÂË";
+			String _text = "ä¸‰çº¿æ€§è¿‡æ»¤";
 		}
 		{
 			String _name = "Filter2";
-			String _text = "¸÷ÏòÒìĞÔ¹ıÂË";
+			String _text = "å„å‘å¼‚æ€§è¿‡æ»¤";
 		}
 	]
 }
@@ -4895,95 +4895,95 @@ StringTable toolBar
 		}
 		{
 			String _name = "PerUnit";
-			String _text = "µ¥Î»³¤¶È";
+			String _text = "å•ä½é•¿åº¦";
 		}
 		{
 			String _name = "HousingTip";
-			String _text = "Ôº×ÓºÍ·¿Îİ¡£";
+			String _text = "é™¢å­å’Œæˆ¿å±‹ã€‚";
 		}
 		{
 			String _name = "TransportTip";
-			String _text = "µÀÂ·ºÍÇÅÁº¡£";
+			String _text = "é“è·¯å’Œæ¡¥æ¢ã€‚";
 		}
 		{
 			String _name = "StorageTip";
-			String _text = "²Ö¿â£¬ÊĞ³¡¼°Ã³Ò×Õ¾¡£";
+			String _text = "ä»“åº“ï¼Œå¸‚åœºåŠè´¸æ˜“ç«™ã€‚";
 		}
 		{
 			String _name = "ServiceTip";
-			String _text = "Ğ¡Õò·şÎñÉèÊ©¡£";
+			String _text = "å°é•‡æœåŠ¡è®¾æ–½ã€‚";
 		}
 		{
 			String _name = "FoodTip";
-			String _text = "Éú²úÁ¸Ê³¡£";
+			String _text = "ç”Ÿäº§ç²®é£Ÿã€‚";
 		}
 		{
 			String _name = "ResourceTip";
-			String _text = "Éú²ú×ÊÔ´¡£";
+			String _text = "ç”Ÿäº§èµ„æºã€‚";
 		}
 		{
 			String _name = "RemoveTip";
-			String _text = "²ğ³ı¡¢Ïú»Ù¹¤¾ß¡£";
+			String _text = "æ‹†é™¤ã€é”€æ¯å·¥å…·ã€‚";
 		}
 		{
 			String _name = "TimeTip";
-			String _text = "Ä£ÄâËÙ¶È¡£";
+			String _text = "æ¨¡æ‹Ÿé€Ÿåº¦ã€‚";
 		}
 		{
 			String _name = "ToolTip";
-			String _text = "¹¤¾ß¡¢±¨¸æ¡£";
+			String _text = "å·¥å…·ã€æŠ¥å‘Šã€‚";
 		}
 		{
 			String _name = "OptionsTip";
-			String _text = "Ñ¡Ïî¡£";
+			String _text = "é€‰é¡¹ã€‚";
 		}
 		{
 			String _name = "SpeedTip";
-			String _text = "µ±Ç°Ä£ÄâËÙ¶È";
+			String _text = "å½“å‰æ¨¡æ‹Ÿé€Ÿåº¦";
 		}
 		{
 			String _name = "SlowTip";
-			String _text = "¼õÂıÄ£ÄâËÙ¶È";
+			String _text = "å‡æ…¢æ¨¡æ‹Ÿé€Ÿåº¦";
 		}
 		{
 			String _name = "PauseTip";
-			String _text = "ÔİÍ£";
+			String _text = "æš‚åœ";
 		}
 		{
 			String _name = "PlayTip";
-			String _text = "»Ö¸´";
+			String _text = "æ¢å¤";
 		}
 		{
 			String _name = "FastTip";
-			String _text = "¼Ó¿ìÄ£ÄâËÙ¶È";
+			String _text = "åŠ å¿«æ¨¡æ‹Ÿé€Ÿåº¦";
 		}
 		{
 			String _name = "ToolTownHallTip";
-			String _text = "´ò¿ªÊĞÕşÌüÏÔÊ¾ÓĞĞ§µÄĞÅÏ¢£¬µ«ÊÇ±ØĞëÏÈ½¨ÔìÊĞÕşÌü.";
+			String _text = "æ‰“å¼€å¸‚æ”¿å…æ˜¾ç¤ºæœ‰æ•ˆçš„ä¿¡æ¯ï¼Œä½†æ˜¯å¿…é¡»å…ˆå»ºé€ å¸‚æ”¿å….";
 		}
 		{
 			String _name = "CameraTip";
-			String _text = "±£´æÊÓ½ÇÎ»ÖÃÒÔ¿ìËÙ¶¨Î»µ½ÖØÒªµÄ³ÇÕò.";
+			String _text = "ä¿å­˜è§†è§’ä½ç½®ä»¥å¿«é€Ÿå®šä½åˆ°é‡è¦çš„åŸé•‡.";
 		}
 		{
 			String _name = "Camera0Tip";
-			String _text = "µã»÷²¢ÔÚ1ºÅÀ¸Î»±£´æµ±Ç°µÄÓÎÏ·ÊÓ½Ç¡£»Ö¸´µ½¸ÃÊÓ½Ç°´¿ì½İ¼ü ";
+			String _text = "ç‚¹å‡»å¹¶åœ¨1å·æ ä½ä¿å­˜å½“å‰çš„æ¸¸æˆè§†è§’ã€‚æ¢å¤åˆ°è¯¥è§†è§’æŒ‰å¿«æ·é”® ";
 		}
 		{
 			String _name = "Camera1Tip";
-			String _text = "µã»÷²¢ÔÚ2ºÅÀ¸Î»±£´æµ±Ç°µÄÓÎÏ·ÊÓ½Ç¡£»Ö¸´µ½¸ÃÊÓ½Ç°´¿ì½İ¼ü ";
+			String _text = "ç‚¹å‡»å¹¶åœ¨2å·æ ä½ä¿å­˜å½“å‰çš„æ¸¸æˆè§†è§’ã€‚æ¢å¤åˆ°è¯¥è§†è§’æŒ‰å¿«æ·é”® ";
 		}
 		{
 			String _name = "Camera2Tip";
-			String _text = "µã»÷²¢ÔÚ3ºÅÀ¸Î»±£´æµ±Ç°µÄÓÎÏ·ÊÓ½Ç¡£»Ö¸´µ½¸ÃÊÓ½Ç°´¿ì½İ¼ü ";
+			String _text = "ç‚¹å‡»å¹¶åœ¨3å·æ ä½ä¿å­˜å½“å‰çš„æ¸¸æˆè§†è§’ã€‚æ¢å¤åˆ°è¯¥è§†è§’æŒ‰å¿«æ·é”® ";
 		}
 		{
 			String _name = "Camera3Tip";
-			String _text = "µã»÷²¢ÔÚ4ºÅÀ¸Î»±£´æµ±Ç°µÄÓÎÏ·ÊÓ½Ç¡£»Ö¸´µ½¸ÃÊÓ½Ç°´¿ì½İ¼ü";
+			String _text = "ç‚¹å‡»å¹¶åœ¨4å·æ ä½ä¿å­˜å½“å‰çš„æ¸¸æˆè§†è§’ã€‚æ¢å¤åˆ°è¯¥è§†è§’æŒ‰å¿«æ·é”®";
 		}
 		{
 			String _name = "Camera4Tip";
-			String _text = "µã»÷²¢ÔÚ5ºÅÀ¸Î»±£´æµ±Ç°µÄÓÎÏ·ÊÓ½Ç¡£»Ö¸´µ½¸ÃÊÓ½Ç°´¿ì½İ¼ü ";
+			String _text = "ç‚¹å‡»å¹¶åœ¨5å·æ ä½ä¿å­˜å½“å‰çš„æ¸¸æˆè§†è§’ã€‚æ¢å¤åˆ°è¯¥è§†è§’æŒ‰å¿«æ·é”® ";
 		}
 	]
 }
@@ -4994,15 +4994,15 @@ StringTable toolType
 	[ 
 		{
 			String _name = "Tool0";
-			String _text = "ÎŞ";
+			String _text = "æ— ";
 		}
 		{
 			String _name = "Tool1";
-			String _text = "ÌúÆ÷";
+			String _text = "é“å™¨";
 		}
 		{
 			String _name = "Tool2";
-			String _text = "¸ÖÆ÷";
+			String _text = "é’¢å™¨";
 		}
 	]
 }
